@@ -37,7 +37,7 @@ jobs:
         shell: Rscript {0}
       - name: Render Status Page
         run: |
-          RMD_PATH=($(git diff-tree --no-commit-id --name-only -r HEAD | grep '[.]Rmd$'))
+          RMD_PATH=$(ls -r *.Rmd)
           Rscript -e 'for (file in commandArgs(TRUE)) rmarkdown::render(file)' ${RMD_PATH[*]}
       - name: Commit results
         run: |
