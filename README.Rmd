@@ -47,4 +47,3 @@ repos %>%
   ) %>% 
   knitr::kable(escape = FALSE)
 ```
-
