@@ -32,7 +32,10 @@ repos <- gh_get_repo_status(params)
 repos %>% 
   select_if(negate(is.list)) %>%
   arrange(run_conclusion, repo_name) %>% 
-  mutate(commit_message = map_chr(commit_message, ~ strsplit(.x, "\n")[[1]][1])) %>% 
+  mutate(
+    commit_message = map_chr(commit_message, ~ strsplit(.x, "\n")[[1]][1]),
+    commit_id_6 = substr(commit_id, 1, 6)
+  ) %>% 
   transmute(
     Repo = glue("[{repo_name}]({html_url_repo})"),
     Stars = stargazers_count,
@@ -40,8 +43,8 @@ repos %>%
     Issues = open_issues_count,
     Forks = forks_count,
     Status = glue("[![]({badge_url})]({html_url_run})"),
-    Commit = glue("[{commit_message}]({html_url_repo}/commit/{commit_id})")
+    Commit = glue('<a href="{html_url_repo}/commit/{commit_id}" title="{commit_message}">{commit_id_6}</a>')
   ) %>% 
-  knitr::kable()
+  knitr::kable(escape = FALSE)
 ```
 
