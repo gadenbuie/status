@@ -1,0 +1,47 @@
+---
+title: "GitHub Dashboard"
+date: '`r strftime(Sys.time(), "\n  %F %T %Z")`'
+output: github_document
+params:
+  gadenbuie:
+  - js4shiny
+  - xaringanthemer
+  - xaringanExtra
+  - metathis
+  - starwarsdb
+  - shrtcts
+  rstudio-education:
+  - gradethis
+  rstudio:
+  - learnr
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(purrr)
+library(dplyr)
+library(glue)
+```
+
+```{r gh-get-repos}
+source("gh-repo-info.R")
+repos <- gh_get_repo_status(params)
+```
+
+```{r repo-status}
+repos %>% 
+  select_if(negate(is.list)) %>%
+  arrange(run_conclusion, repo_name) %>% 
+  mutate(commit_message = map_chr(commit_message, ~ strsplit(.x, "\n")[[1]][1])) %>% 
+  transmute(
+    Repo = glue("[{repo_name}]({html_url_repo})"),
+    Stars = stargazers_count,
+    Watchers = watchers_count,
+    Issues = open_issues_count,
+    Forks = forks_count,
+    Status = glue("[![]({badge_url})]({html_url_run})"),
+    Commit = glue("[{commit_message}]({html_url_repo}/commit/{commit_id})")
+  ) %>% 
+  knitr::kable()
+```
+
