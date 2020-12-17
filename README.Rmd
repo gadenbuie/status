@@ -1,7 +1,9 @@
 ---
 title: "GitHub Dashboard"
-date: '`r strftime(Sys.time(), "\n  %F %T %Z")`'
 output: github_document
+# the repository where this repo exists
+status_repo: gadenbuie/status
+# list of repositories by owner name and repo
 params:
   gadenbuie:
   - js4shiny
@@ -15,6 +17,9 @@ params:
   rstudio:
   - learnr
 ---
+
+![](https://github.com/`r rmarkdown::metadata$status_repo`/workflows/Render%20Status/badge.svg)  
+`r strftime(Sys.time(), "%F %T %Z")`
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
