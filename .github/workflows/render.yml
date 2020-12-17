@@ -1,7 +1,7 @@
 on:
   push:
     paths:
-      - '**.Rmd's
+      - '**.Rmd'
   schedule:
     # daily in the morning for America/New_York (hours in UTC)
     - cron: '12 0 * * *'
