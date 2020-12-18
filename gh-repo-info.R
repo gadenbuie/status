@@ -35,13 +35,13 @@ gh_repo <- memoise::memoise(function(owner, repo, ...) {
   gh("/repos/{owner}/{repo}", owner = owner, repo = repo)
 }, cache = cache_memory())
 
-gh_my_repos <- memoise::memoise(function() {
-  gh("/user/repos", .limit = Inf, visibility = "public", affiliation = "owner") %>%
+gh_owner_repos <- memoise::memoise(function(owner) {
+  gh("/users/{username}/repos", username = owner, .limit = Inf, type = "owner") %>%
     map(keep, negate(is.null)) %>%
     map(keep, negate(is.list)) %>%
     map_dfr(as_tibble) %>%
     filter(!private, !fork) %>%
-    mutate(owner = gh_whoami()$login) %>%
+    mutate(owner = owner) %>%
     select(owner, repo = name, full_name, contains("count"), html_url_repo = html_url, fork) %>%
     arrange(desc(stargazers_count))
 }, cache = cache_memory())
@@ -84,14 +84,14 @@ gh_repo_workflows <- function(repos) {
 }
 
 # Get repos
-gh_get_repo_status <- function(repo_list, all_by_owner = FALSE, .write_csv = !interactive()) {
+gh_get_repo_status <- function(repo_list, all_by_owner = NULL, .write_csv = !interactive()) {
   repos <- map_dfr(repo_list, ~ tibble(repo = .), .id = "owner")
 
   repos <- gh_repo_stats(repos)
   by_vars <- c("owner", "repo")
 
-  if (all_by_owner) {
-    owner_repos <- gh_my_repos() %>% anti_join(repos, by = by_vars)
+  if (!is.null(all_by_owner)) {
+    owner_repos <- gh_owner_repos(all_by_owner) %>% anti_join(repos, by = by_vars)
     repos <- bind_rows(repos, owner_repos)
   }
 

@@ -1,8 +1,8 @@
 ---
 title: "GitHub Dashboard"
 output: github_document
-# set to true to include all public, non-fork repos from the owner
-all_by_owner: true
+# provide user name to include all public, non-fork repos from the owner
+all_by_owner: gadenbuie
 # the repository where this repo exists
 status_repo: gadenbuie/status
 # list of repositories by owner name and repo (appear before owner's repos)
@@ -33,8 +33,12 @@ library(glue)
 ```{r gh-get-repos}
 source("gh-repo-info.R")
 repo_list <- rmarkdown::metadata$repos
-get_owner_repos <- isTRUE(rmarkdown::metadata$all_by_owner)
-repos <- gh_get_repo_status(repo_list, all_by_owner = get_owner_repos)
+owner <- rmarkdown::metadata$all_by_owner
+if (!is.character(owner) && length(owner) == 1) {
+  warning("`all_by_owner` should be a single GitHub user account")
+  owner <- NULL
+}
+repos <- gh_get_repo_status(repo_list, all_by_owner = owner)
 ```
 
 ```{r repo-status}
