@@ -1,10 +1,12 @@
 ---
 title: "GitHub Dashboard"
 output: github_document
+# set to true to include all public, non-fork repos from the owner
+all_by_owner: true
 # the repository where this repo exists
 status_repo: gadenbuie/status
-# list of repositories by owner name and repo
-params:
+# list of repositories by owner name and repo (appear before owner's repos)
+repos:
   gadenbuie:
   - js4shiny
   - xaringanthemer
@@ -30,25 +32,45 @@ library(glue)
 
 ```{r gh-get-repos}
 source("gh-repo-info.R")
-repos <- gh_get_repo_status(params)
+repo_list <- rmarkdown::metadata$repos
+get_owner_repos <- isTRUE(rmarkdown::metadata$all_by_owner)
+repos <- gh_get_repo_status(repo_list, all_by_owner = get_owner_repos)
 ```
 
 ```{r repo-status}
 repos %>% 
   select_if(negate(is.list)) %>%
-  arrange(run_conclusion, repo_name) %>% 
+  # repos with Github Actions have badges
+  filter(!is.na(badge_url)) %>%
   mutate(
     commit_message = map_chr(commit_message, ~ strsplit(.x, "\n")[[1]][1]),
     commit_id_6 = substr(commit_id, 1, 6)
   ) %>% 
   transmute(
-    Repo = glue("[{repo_name}]({html_url_repo})"),
+    Repo = glue("[{full_name}]({html_url_repo})"),
     Stars = stargazers_count,
     Watchers = watchers_count,
     Issues = open_issues_count,
     Forks = forks_count,
-    Status = glue("[![]({badge_url})]({html_url_run})"),
+    Status = ifelse(!is.na(badge_url), glue("[![]({badge_url})]({html_url_run})"), ""),
     Commit = glue('<a href="{html_url_repo}/commit/{commit_id}" title="{commit_message}">{commit_id_6}</a>')
   ) %>% 
   knitr::kable(escape = FALSE)
 ```
+
+```{r eval=rmarkdown::metadata$all_by_owner, results="asis"}
+cat("## Repos without Github Actions")
+
+repos %>% 
+  select_if(negate(is.list)) %>%
+  filter(is.na(badge_url)) %>%
+  transmute(
+    Repo = glue("[{full_name}]({html_url_repo})"),
+    Stars = stargazers_count,
+    Watchers = watchers_count,
+    Issues = open_issues_count,
+    Forks = forks_count
+  ) %>% 
+  knitr::kable(escape = FALSE)
+```
+
