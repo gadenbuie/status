@@ -65,7 +65,7 @@ gadenbuie,snippets,gadenbuie/snippets,11,NA,1,5,FALSE,https://github.com/gadenbu
 gadenbuie,speedDate,gadenbuie/speedDate,1,NA,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,NA,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,25,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/CI%20by%20%7Btic%7D/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/424823307,failure,Increment version number,ebcc29db8698d5f29f8f9d28f47d5846c60c55a4
-gadenbuie,status,gadenbuie/status,16,NA,1,2,FALSE,https://github.com/gadenbuie/status,16,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/430418494,NA,The repo_list might be NULL,55ebe4a23feb7a33e46e3c9494680c4333664de1
+gadenbuie,status,gadenbuie/status,16,NA,1,2,FALSE,https://github.com/gadenbuie/status,16,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/430816444,NA,Re-build status page,97fa23354657fe34ec59c939eb69142cfe63d943
 gadenbuie,synamyn,gadenbuie/synamyn,9,NA,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,NA,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,NA,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -80,9 +80,7 @@ gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,NA,0,0,FALSE,https
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,11,NA,0,8,FALSE,https://github.com/gadenbuie/xaringan-logo,11,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,7,NA,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,7,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,190,5,14,14,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/419935709,failure,v0.2.4,aebe20a761c018687a7dc8e5c92bdab64b97de00
-gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,309,10,7,15,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,1036811,https://github.com/gadenbuie/xaringanthemer/workflows/CI%20by%20%7Btic%7D/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/420039663,failure,"Clear floats only on element immediately after .pull-right
-
-https://github.com/yihui/xaringan/pull/271",99af06835c0626cb16b67e4cfe729de611ed4261
+gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,309,10,7,15,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/430800635,success,[ci] Dispatch events to gadenbuie/status,f2edaf0f256cb88171c80f26a1829e5fde4a274c
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,20,NA,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,20,NA,NA,NA,NA,NA,NA
 rstudio-education,gradethis,rstudio-education/gradethis,89,11,71,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/416401882,success,Add NEWS entry,957ccd7c69aae94fb086b2716f556afebe5f9ece
 rstudio-education,gradethis,rstudio-education/gradethis,89,11,71,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/413382645,success,"code_feedback() can accept character vectors (#182)
