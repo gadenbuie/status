@@ -12,7 +12,7 @@ gadenbuie,xaringanthemer,1036811,https://github.com/gadenbuie/xaringanthemer/wor
 https://github.com/yihui/xaringan/pull/271",99af06835c0626cb16b67e4cfe729de611ed4261,gadenbuie/xaringanthemer,https://github.com/gadenbuie/xaringanthemer,309,309,7,15
 rstudio-education,gradethis,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/413382645,success,"code_feedback() can accept character vectors (#182)
 
-Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b,rstudio-education/gradethis,https://github.com/rstudio-education/gradethis,89,89,69,27
+Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b,rstudio-education/gradethis,https://github.com/rstudio-education/gradethis,89,89,70,27
 rstudio,learnr,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/416410965,success,"Count bytes instead of characters (#452)
 
 * Count bytes instead of characters
