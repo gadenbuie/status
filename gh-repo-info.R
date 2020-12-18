@@ -84,14 +84,28 @@ gh_repo_workflows <- function(repos) {
 }
 
 # Get repos
-gh_get_repo_status <- function(repo_list, all_by_owner = NULL, .write_csv = !interactive()) {
-  repos <- map_dfr(repo_list, ~ tibble(repo = .), .id = "owner")
+gh_get_repo_status <- function(
+  repo_list = NULL,
+  all_by_owner = NULL,
+  .write_csv = !interactive()
+) {
+  if (is.null(repo_list) && is.null(all_by_owner)) {
+    stop("At least one repo must be listed or a username must be provided in `all_by_owner`")
+  }
 
-  repos <- gh_repo_stats(repos)
   by_vars <- c("owner", "repo")
 
+  repos <- if (!is.null(repo_list)) {
+    repo_list %>%
+      map_dfr(~ tibble(repo = .), .id = "owner") %>%
+      gh_repo_stats()
+  }
+
   if (!is.null(all_by_owner)) {
-    owner_repos <- gh_owner_repos(all_by_owner) %>% anti_join(repos, by = by_vars)
+    owner_repos <- gh_owner_repos(all_by_owner)
+    if (!is.null(repos)) {
+      owner_repos <- owner_repos %>% anti_join(repos, by = by_vars)
+    }
     repos <- bind_rows(repos, owner_repos)
   }
 
