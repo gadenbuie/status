@@ -65,7 +65,7 @@ gadenbuie,snippets,gadenbuie/snippets,11,11,1,5,FALSE,https://github.com/gadenbu
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,0,1,1,FALSE,https://github.com/gadenbuie/sqrrl,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,25,25,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,2967946,https://github.com/gadenbuie/starwarsdb/workflows/CI%20by%20%7Btic%7D/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/424823307,failure,Increment version number,ebcc29db8698d5f29f8f9d28f47d5846c60c55a4
-gadenbuie,status,gadenbuie/status,12,12,2,2,FALSE,https://github.com/gadenbuie/status,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/429651807,NA,Re-order repos,16462d9b13fa383212df44944981dcea88d5ccab
+gadenbuie,status,gadenbuie/status,12,12,2,2,FALSE,https://github.com/gadenbuie/status,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/429658816,NA,Better detection of repos without actions,de9d3a224f83861d8b3ea0cbc3c408dfe1a612fa
 gadenbuie,synamyn,gadenbuie/synamyn,9,9,0,0,FALSE,https://github.com/gadenbuie/synamyn,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,3,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,0,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,NA,NA,NA,NA,NA,NA

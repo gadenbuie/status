@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2020-12-18 04:06:37 UTC
+2020-12-18 04:11:55 UTC
 
 | Repo                                                                          | Stars | Watchers | Issues | Forks | Status                                                                                                                                                           | Commit                                                                                                                                                                              |
 | :---------------------------------------------------------------------------- | ----: | -------: | -----: | ----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    89 |       89 |     70 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/416401882)     | <a href="https://github.com/rstudio-education/gradethis/commit/957ccd7c69aae94fb086b2716f556afebe5f9ece" title="Add NEWS entry">957ccd</a>                                          |
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    89 |       89 |     70 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/413382645)         | <a href="https://github.com/rstudio-education/gradethis/commit/b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b" title="code_feedback() can accept character vectors (#182)">b2d9ef</a>     |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   386 |      386 |    125 |   154 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/416410965)                               | <a href="https://github.com/rstudio/learnr/commit/bdb2c5238fb8b7c228ba7ad161a2168cae6b35f0" title="Count bytes instead of characters (#452)">bdb2c5</a>                             |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    12 |       12 |      2 |     2 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/429651807)                       | <a href="https://github.com/gadenbuie/status/commit/16462d9b13fa383212df44944981dcea88d5ccab" title="Re-order repos">16462d</a>                                                     |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    12 |       12 |      2 |     2 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/429658816)                       | <a href="https://github.com/gadenbuie/status/commit/de9d3a224f83861d8b3ea0cbc3c408dfe1a612fa" title="Better detection of repos without actions">de9d3a</a>                          |
 
 ## Repos without Github Actions
 
