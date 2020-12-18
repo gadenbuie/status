@@ -8,12 +8,12 @@ status_repo: gadenbuie/status
 # list of repositories by owner name and repo (appear before owner's repos)
 repos:
   gadenbuie:
-  - js4shiny
   - xaringanthemer
   - xaringanExtra
-  - metathis
   - starwarsdb
+  - metathis
   - shrtcts
+  - js4shiny
   rstudio-education:
   - gradethis
   rstudio:
