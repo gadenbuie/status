@@ -53,7 +53,7 @@ gh_repo_stats <- function(repos) {
     mutate(
       full_name = map_chr(.repo, "full_name"),
       stargazers_count = map_dbl(.repo, "stargazers_count"),
-      watchers_count = map_dbl(.repo, "watchers_count"),
+      subscribers_count = map_dbl(.repo, "subscribers_count"),
       open_issues_count = map_dbl(.repo, "open_issues_count"),
       forks_count = map_dbl(.repo, "forks_count"),
       open_issues_count = map_dbl(.repo, "open_issues_count"),

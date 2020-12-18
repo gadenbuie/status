@@ -57,7 +57,7 @@ repos %>%
   transmute(
     Repo = glue("[{full_name}]({html_url_repo})"),
     Stars = stargazers_count,
-    Watchers = watchers_count,
+    Subscribers = subscribers_count,
     Issues = open_issues_count,
     Forks = forks_count,
     Status = ifelse(!is.na(badge_url), glue("[![]({badge_url})]({html_url_run})"), ""),
@@ -75,7 +75,7 @@ repos %>%
   transmute(
     Repo = glue("[{full_name}]({html_url_repo})"),
     Stars = stargazers_count,
-    Watchers = watchers_count,
+    Subscribers = subscribers_count,
     Issues = open_issues_count,
     Forks = forks_count
   ) %>% 
