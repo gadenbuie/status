@@ -77,7 +77,7 @@ gh_repo_workflows <- function(repos) {
   workflows %>%
     mutate(
       html_url_run = map_chr(runs, "html_url"),
-      run_conclusion = map_chr(runs, "conclusion"),
+      run_conclusion = map_chr(runs, "conclusion", .default = NA_character_),
       commit_message = map_chr(runs, ~ .x$head_commit$message),
       commit_id = map_chr(runs, `[[`, c("head_commit", "id"))
     )
