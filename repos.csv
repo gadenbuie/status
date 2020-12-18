@@ -36,7 +36,7 @@ gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,9,NA,0,3,FALSE,h
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,NA,0,6,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,15,NA,3,1,FALSE,https://github.com/gadenbuie/lorem,15,NA,NA,NA,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,5,NA,5,2,FALSE,https://github.com/gadenbuie/mctestanalysis,5,NA,NA,NA,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,47,1,6,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/431434277,NA,[ci] tic::update_tic() and add status update step,ea26bc9f4abe3a1abf9ea051ed2e7ae21143794e
+gadenbuie,metathis,gadenbuie/metathis,47,1,6,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/431434277,success,[ci] tic::update_tic() and add status update step,ea26bc9f4abe3a1abf9ea051ed2e7ae21143794e
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,NA,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,2,NA,1,0,FALSE,https://github.com/gadenbuie/msglooker,2,NA,NA,NA,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,46,NA,0,26,FALSE,https://github.com/gadenbuie/mueller-report,46,NA,NA,NA,NA,NA,NA
@@ -57,13 +57,13 @@ gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,NA,0,1,FALSE,https:/
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,NA,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,36,NA,7,3,FALSE,https://github.com/gadenbuie/shinyComponents,36,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,17,NA,1,1,FALSE,https://github.com/gadenbuie/shinyThings,17,NA,NA,NA,NA,NA,NA
-gadenbuie,shrtcts,gadenbuie/shrtcts,67,1,2,1,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/431435883,NA,[ci] tic::update_tic() and add status update step,c2103728f2b73619d9eebf48f2cf62605d53972f
+gadenbuie,shrtcts,gadenbuie/shrtcts,67,1,2,1,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/431435883,success,[ci] tic::update_tic() and add status update step,c2103728f2b73619d9eebf48f2cf62605d53972f
 gadenbuie,slides,gadenbuie/slides,2,NA,0,2,FALSE,https://github.com/gadenbuie/slides,2,NA,NA,NA,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,11,NA,1,5,FALSE,https://github.com/gadenbuie/snippets,11,NA,NA,NA,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,1,NA,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,NA,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,25,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/431431291,NA,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,16,NA,4,2,FALSE,https://github.com/gadenbuie/status,16,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/431442224,NA,Re-build status page,fe312914f5442a268a4d8ec95ef33f915f5fb514
+gadenbuie,status,gadenbuie/status,16,NA,4,2,FALSE,https://github.com/gadenbuie/status,16,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/431446629,NA,Re-build status page,d3bcff43ae317f1442080614701c0326e16526a8
 gadenbuie,synamyn,gadenbuie/synamyn,9,NA,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,NA,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,NA,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -77,7 +77,7 @@ gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,0,NA,0,2,FALSE,https://githu
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,NA,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,11,NA,0,8,FALSE,https://github.com/gadenbuie/xaringan-logo,11,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,7,NA,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,7,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,190,5,14,14,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/431428654,NA,[ci] tic::update_tic() and add status update step,93429efefb268a4df2f43935304a8f781f73ece8
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,190,5,14,14,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/431428654,success,[ci] tic::update_tic() and add status update step,93429efefb268a4df2f43935304a8f781f73ece8
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,309,10,7,15,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/430800635,success,[ci] Dispatch events to gadenbuie/status,f2edaf0f256cb88171c80f26a1829e5fde4a274c
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,20,NA,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,20,NA,NA,NA,NA,NA,NA
 rstudio-education,gradethis,rstudio-education/gradethis,89,11,72,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/431111254,success,Remove unused code from testing pipe message,a5a03ce6bbec84885eda37bd56b52597536e4dba
