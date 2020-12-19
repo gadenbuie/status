@@ -42,6 +42,7 @@ gh_owner_repos <- memoise::memoise(function(owner) {
     map_dfr(as_tibble) %>%
     filter(!private, !fork) %>%
     mutate(owner = owner) %>%
+    mutate(subscribers_count = map(subscribers_url, gh) %>% map_int(length)) %>%
     select(owner, repo = name, full_name, contains("count"), html_url_repo = html_url, fork) %>%
     arrange(desc(stargazers_count))
 }, cache = cache_memory())
