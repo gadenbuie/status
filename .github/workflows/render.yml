@@ -43,5 +43,5 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git commit --all -m 'Re-build status page' || echo "No changes to commit"
+          git commit --all -m "[status] $(date +'%F %T %Z')" || echo "No changes to commit"
           git push origin || echo "No changes to commit"
