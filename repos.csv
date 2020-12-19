@@ -62,8 +62,8 @@ gadenbuie,slides,gadenbuie/slides,2,NA,0,2,FALSE,https://github.com/gadenbuie/sl
 gadenbuie,snippets,gadenbuie/snippets,11,NA,1,5,FALSE,https://github.com/gadenbuie/snippets,11,NA,NA,NA,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,1,NA,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,NA,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,25,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/431872834,NA,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,17,NA,4,2,FALSE,https://github.com/gadenbuie/status,17,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/431879363,NA,Re-build status page,69d8cfb58f2811478e6da03ff1ad8ca711ad5372
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,25,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/431872834,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
+gadenbuie,status,gadenbuie/status,17,NA,4,2,FALSE,https://github.com/gadenbuie/status,17,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/431885514,NA,Re-build status page,b14c9fa1ace374f2403f5c52f090a274ff7771e4
 gadenbuie,synamyn,gadenbuie/synamyn,9,NA,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,NA,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,NA,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
