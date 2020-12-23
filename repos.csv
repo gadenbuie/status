@@ -63,11 +63,11 @@ gadenbuie,snippets,gadenbuie/snippets,11,1,1,6,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,25,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/439520226,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,24,1,2,2,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/439552285,NA,[status] 2020-12-23 04:32:15 UTC,c76c4293c640fdb84d180319213e129d32b65142
+gadenbuie,status,gadenbuie/status,24,1,2,2,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/440221383,NA,[status] 2020-12-23 04:46:50 UTC,7f6b280a4f27c10366ea3cd5ae6f5a407d443a88
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,525,30,13,88,FALSE,https://github.com/gadenbuie/tidyexplain,525,NA,NA,NA,NA,NA,NA
+gadenbuie,tidyexplain,gadenbuie/tidyexplain,526,30,13,88,FALSE,https://github.com/gadenbuie/tidyexplain,526,NA,NA,NA,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,1,0,5,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA,NA,NA,NA
 gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,1,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA,NA,NA,NA
 gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,91,4,6,50,FALSE,https://github.com/gadenbuie/tweet-conf-dash,91,NA,NA,NA,NA,NA,NA
