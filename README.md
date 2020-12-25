@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2020-12-25 04:45:25 UTC
+2020-12-25 12:18:16 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                          |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -15,7 +15,7 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    88 |          11 |     73 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/440969530) | <a href="https://github.com/rstudio-education/gradethis/commit/2ffbe4ab92c66decf654902a3fc209564c74dcb3" title="Fixes grade_this() examples in docs">2ffbe4</a>                 |
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    88 |          11 |     73 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/413382645)     | <a href="https://github.com/rstudio-education/gradethis/commit/b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b" title="code_feedback() can accept character vectors (#182)">b2d9ef</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   386 |          30 |    126 |   154 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/440901780)                           | <a href="https://github.com/rstudio/learnr/commit/7af49e97d6a0e37020c85e1265ed87940bd27d64" title="Backport dQuote() with q argument">7af49e</a>                                |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/443503550)                   | <a href="https://github.com/gadenbuie/status/commit/ef67523c60126ab9d93134e124fc47d7d2e237de" title="[status] 2020-12-25 04:33:09 UTC">ef6752</a>                               |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/444013581)                   | <a href="https://github.com/gadenbuie/status/commit/f0aa1b7bbcdb86cd0589c5a01ddf6c1e84507813" title="[status] 2020-12-25 04:45:49 UTC">f0aa1b</a>                               |
 
 ## Repos without Github Actions
 
