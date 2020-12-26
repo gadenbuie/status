@@ -44,7 +44,7 @@ gadenbuie,mueller-report,gadenbuie/mueller-report,46,4,0,26,FALSE,https://github
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,3,3,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,3,NA,NA,NA,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,9,1,0,3,FALSE,https://github.com/gadenbuie/oceanic-eighties,9,NA,NA,NA,NA,NA,NA
 gadenbuie,r-colors-css,gadenbuie/r-colors-css,7,1,0,2,FALSE,https://github.com/gadenbuie/r-colors-css,7,NA,NA,NA,NA,NA,NA
-gadenbuie,regexplain,gadenbuie/regexplain,403,18,1,20,FALSE,https://github.com/gadenbuie/regexplain,403,NA,NA,NA,NA,NA,NA
+gadenbuie,regexplain,gadenbuie/regexplain,404,18,1,20,FALSE,https://github.com/gadenbuie/regexplain,404,NA,NA,NA,NA,NA,NA
 gadenbuie,repromonkey,gadenbuie/repromonkey,0,1,4,0,FALSE,https://github.com/gadenbuie/repromonkey,0,NA,NA,NA,NA,NA,NA
 gadenbuie,resume,gadenbuie/resume,1,1,1,0,FALSE,https://github.com/gadenbuie/resume,1,NA,NA,NA,NA,NA,NA
 gadenbuie,rocker-verse-metaflow,gadenbuie/rocker-verse-metaflow,2,1,0,0,FALSE,https://github.com/gadenbuie/rocker-verse-metaflow,2,NA,NA,NA,NA,NA,NA
@@ -64,7 +64,7 @@ gadenbuie,snippets,gadenbuie/snippets,11,1,1,6,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,26,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/445016634,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/445041503,NA,[status] 2020-12-26 04:32:04 UTC,bb96a38a4da66b22ee9cf43cdff0c2da15592c87
+gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/445486874,NA,[status] 2020-12-26 04:45:07 UTC,e453346e4877aeca0da2e3755d7155113e183f99
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA

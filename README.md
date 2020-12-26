@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2020-12-26 04:44:44 UTC
+2020-12-26 12:18:00 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                          |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -15,14 +15,14 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    88 |          11 |     73 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/440969530) | <a href="https://github.com/rstudio-education/gradethis/commit/2ffbe4ab92c66decf654902a3fc209564c74dcb3" title="Fixes grade_this() examples in docs">2ffbe4</a>                 |
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    88 |          11 |     73 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/413382645)     | <a href="https://github.com/rstudio-education/gradethis/commit/b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b" title="code_feedback() can accept character vectors (#182)">b2d9ef</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   386 |          30 |    126 |   154 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/440901780)                           | <a href="https://github.com/rstudio/learnr/commit/7af49e97d6a0e37020c85e1265ed87940bd27d64" title="Backport dQuote() with q argument">7af49e</a>                                |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/445041503)                   | <a href="https://github.com/gadenbuie/status/commit/bb96a38a4da66b22ee9cf43cdff0c2da15592c87" title="[status] 2020-12-26 04:32:04 UTC">bb96a3</a>                               |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/445486874)                   | <a href="https://github.com/gadenbuie/status/commit/e453346e4877aeca0da2e3755d7155113e183f99" title="[status] 2020-12-26 04:45:07 UTC">e45334</a>                               |
 
 ## Repos without Github Actions
 
 | Repo                                                                                                | Stars | Subscribers | Issues | Forks |
 | :-------------------------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: |
 | [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)                                   |   526 |          30 |     13 |    89 |
-| [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   403 |          18 |      1 |    20 |
+| [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   404 |          18 |      1 |    20 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological)                               |   291 |           9 |      8 |    16 |
 | [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   275 |           6 |     13 |    18 |
 | [gadenbuie/countdown](https://github.com/gadenbuie/countdown)                                       |   102 |           5 |      4 |     7 |
