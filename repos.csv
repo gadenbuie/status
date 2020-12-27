@@ -64,11 +64,11 @@ gadenbuie,snippets,gadenbuie/snippets,11,1,1,6,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,26,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/446470923,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/446493541,NA,[status] 2020-12-27 04:33:11 UTC,1d987d6324456a3c174a628c6c814d84582a0b1f
+gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/446951979,NA,[status] 2020-12-27 04:43:00 UTC,3c4d6c328290f39baa00f9c3c4726afbe6792eaa
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,526,30,13,89,FALSE,https://github.com/gadenbuie/tidyexplain,526,NA,NA,NA,NA,NA,NA
+gadenbuie,tidyexplain,gadenbuie/tidyexplain,527,30,13,89,FALSE,https://github.com/gadenbuie/tidyexplain,527,NA,NA,NA,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,1,0,5,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA,NA,NA,NA
 gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,1,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA,NA,NA,NA
 gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,91,4,6,50,FALSE,https://github.com/gadenbuie/tweet-conf-dash,91,NA,NA,NA,NA,NA,NA
@@ -88,4 +88,4 @@ rstudio-education,gradethis,rstudio-education/gradethis,88,11,73,27,FALSE,https:
 rstudio-education,gradethis,rstudio-education/gradethis,88,11,73,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/413382645,success,"code_feedback() can accept character vectors (#182)
 
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b
-rstudio,learnr,rstudio/learnr,386,30,126,154,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/440901780,failure,Backport dQuote() with q argument,7af49e97d6a0e37020c85e1265ed87940bd27d64
+rstudio,learnr,rstudio/learnr,386,30,126,155,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/440901780,failure,Backport dQuote() with q argument,7af49e97d6a0e37020c85e1265ed87940bd27d64

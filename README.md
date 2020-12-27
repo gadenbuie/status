@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2020-12-27 04:42:36 UTC
+2020-12-27 12:18:14 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                          |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -14,14 +14,14 @@ GitHub Dashboard
 | [gadenbuie/js4shiny](https://github.com/gadenbuie/js4shiny)                   |    41 |           4 |      2 |     1 | [![](https://github.com/gadenbuie/js4shiny/workflows/tic/badge.svg)](https://github.com/gadenbuie/js4shiny/actions/runs/434955519)                           | <a href="https://github.com/gadenbuie/js4shiny/commit/280ed148f678103c91a3ece2f6a2986bffd2fea1" title="[ci] tic::update_tic() and add status update step">280ed1</a>            |
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    88 |          11 |     73 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/440969530) | <a href="https://github.com/rstudio-education/gradethis/commit/2ffbe4ab92c66decf654902a3fc209564c74dcb3" title="Fixes grade_this() examples in docs">2ffbe4</a>                 |
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    88 |          11 |     73 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/413382645)     | <a href="https://github.com/rstudio-education/gradethis/commit/b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b" title="code_feedback() can accept character vectors (#182)">b2d9ef</a> |
-| [rstudio/learnr](https://github.com/rstudio/learnr)                           |   386 |          30 |    126 |   154 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/440901780)                           | <a href="https://github.com/rstudio/learnr/commit/7af49e97d6a0e37020c85e1265ed87940bd27d64" title="Backport dQuote() with q argument">7af49e</a>                                |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/446493541)                   | <a href="https://github.com/gadenbuie/status/commit/1d987d6324456a3c174a628c6c814d84582a0b1f" title="[status] 2020-12-27 04:33:11 UTC">1d987d</a>                               |
+| [rstudio/learnr](https://github.com/rstudio/learnr)                           |   386 |          30 |    126 |   155 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/440901780)                           | <a href="https://github.com/rstudio/learnr/commit/7af49e97d6a0e37020c85e1265ed87940bd27d64" title="Backport dQuote() with q argument">7af49e</a>                                |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/446951979)                   | <a href="https://github.com/gadenbuie/status/commit/3c4d6c328290f39baa00f9c3c4726afbe6792eaa" title="[status] 2020-12-27 04:43:00 UTC">3c4d6c</a>                               |
 
 ## Repos without Github Actions
 
 | Repo                                                                                                | Stars | Subscribers | Issues | Forks |
 | :-------------------------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: |
-| [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)                                   |   526 |          30 |     13 |    89 |
+| [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)                                   |   527 |          30 |     13 |    89 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   404 |          18 |      1 |    20 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological)                               |   291 |           9 |      8 |    16 |
 | [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   275 |           6 |     13 |    18 |
