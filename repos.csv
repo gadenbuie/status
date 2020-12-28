@@ -37,34 +37,34 @@ gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,9,1,0,3,FALSE,ht
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,2,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,15,1,3,1,FALSE,https://github.com/gadenbuie/lorem,15,NA,NA,NA,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,5,1,5,2,FALSE,https://github.com/gadenbuie/mctestanalysis,5,NA,NA,NA,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,48,2,6,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/434942459,success,[ci] tic::update_tic() and add status update step,ea26bc9f4abe3a1abf9ea051ed2e7ae21143794e
+gadenbuie,metathis,gadenbuie/metathis,48,2,6,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/448131316,NA,[ci] tic::update_tic() and add status update step,ea26bc9f4abe3a1abf9ea051ed2e7ae21143794e
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,2,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,2,NA,NA,NA,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,46,4,0,26,FALSE,https://github.com/gadenbuie/mueller-report,46,NA,NA,NA,NA,NA,NA
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,3,3,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,3,NA,NA,NA,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,9,1,0,3,FALSE,https://github.com/gadenbuie/oceanic-eighties,9,NA,NA,NA,NA,NA,NA
 gadenbuie,r-colors-css,gadenbuie/r-colors-css,7,1,0,2,FALSE,https://github.com/gadenbuie/r-colors-css,7,NA,NA,NA,NA,NA,NA
-gadenbuie,regexplain,gadenbuie/regexplain,404,18,1,20,FALSE,https://github.com/gadenbuie/regexplain,404,NA,NA,NA,NA,NA,NA
+gadenbuie,regexplain,gadenbuie/regexplain,404,17,1,20,FALSE,https://github.com/gadenbuie/regexplain,404,NA,NA,NA,NA,NA,NA
 gadenbuie,repromonkey,gadenbuie/repromonkey,0,1,4,0,FALSE,https://github.com/gadenbuie/repromonkey,0,NA,NA,NA,NA,NA,NA
 gadenbuie,resume,gadenbuie/resume,1,1,1,0,FALSE,https://github.com/gadenbuie/resume,1,NA,NA,NA,NA,NA,NA
 gadenbuie,rocker-verse-metaflow,gadenbuie/rocker-verse-metaflow,2,1,0,0,FALSE,https://github.com/gadenbuie/rocker-verse-metaflow,2,NA,NA,NA,NA,NA,NA
 gadenbuie,rsconf_tweets,gadenbuie/rsconf_tweets,31,3,0,13,FALSE,https://github.com/gadenbuie/rsconf_tweets,31,NA,NA,NA,NA,NA,NA
 gadenbuie,rstats-tweets,gadenbuie/rstats-tweets,2,1,0,0,FALSE,https://github.com/gadenbuie/rstats-tweets,2,NA,NA,NA,NA,NA,NA
 gadenbuie,rstatsnyc-2018-tweets,gadenbuie/rstatsnyc-2018-tweets,3,1,0,0,FALSE,https://github.com/gadenbuie/rstatsnyc-2018-tweets,3,NA,NA,NA,NA,NA,NA
-gadenbuie,rsthemes,gadenbuie/rsthemes,275,6,13,18,FALSE,https://github.com/gadenbuie/rsthemes,275,NA,NA,NA,NA,NA,NA
+gadenbuie,rsthemes,gadenbuie/rsthemes,275,6,13,17,FALSE,https://github.com/gadenbuie/rsthemes,275,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-ide-tips,gadenbuie/rstudio-ide-tips,5,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips,5,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,6,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips-demo,6,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,1,0,1,FALSE,https://github.com/gadenbuie/rstudioAddinFriend,5,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,36,2,7,3,FALSE,https://github.com/gadenbuie/shinyComponents,36,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,17,1,1,1,FALSE,https://github.com/gadenbuie/shinyThings,17,NA,NA,NA,NA,NA,NA
-gadenbuie,shrtcts,gadenbuie/shrtcts,68,1,3,1,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/434944330,success,[ci] tic::update_tic() and add status update step,c2103728f2b73619d9eebf48f2cf62605d53972f
+gadenbuie,shrtcts,gadenbuie/shrtcts,68,1,3,1,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/448133225,NA,[ci] tic::update_tic() and add status update step,c2103728f2b73619d9eebf48f2cf62605d53972f
 gadenbuie,slides,gadenbuie/slides,2,1,0,2,FALSE,https://github.com/gadenbuie/slides,2,NA,NA,NA,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,11,1,1,6,FALSE,https://github.com/gadenbuie/snippets,11,NA,NA,NA,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,26,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/446470923,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/446951979,NA,[status] 2020-12-27 04:43:00 UTC,3c4d6c328290f39baa00f9c3c4726afbe6792eaa
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,26,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/448137223,NA,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
+gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/448136832,NA,[status] 2020-12-27 12:18:39 UTC,735356f4b0917f25dfc9e855053762aefc362cf4
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -88,4 +88,4 @@ rstudio-education,gradethis,rstudio-education/gradethis,88,11,73,27,FALSE,https:
 rstudio-education,gradethis,rstudio-education/gradethis,88,11,73,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/413382645,success,"code_feedback() can accept character vectors (#182)
 
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b
-rstudio,learnr,rstudio/learnr,386,30,126,155,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/440901780,failure,Backport dQuote() with q argument,7af49e97d6a0e37020c85e1265ed87940bd27d64
+rstudio,learnr,rstudio/learnr,386,30,126,156,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/440901780,failure,Backport dQuote() with q argument,7af49e97d6a0e37020c85e1265ed87940bd27d64
