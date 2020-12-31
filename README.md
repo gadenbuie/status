@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2020-12-31 04:50:11 UTC
+2020-12-31 12:22:07 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                                |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -16,7 +16,7 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    88 |          11 |     74 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/413382645)     | <a href="https://github.com/rstudio-education/gradethis/commit/b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b" title="code_feedback() can accept character vectors (#182)">b2d9ef</a>       |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   387 |          30 |    129 |   157 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/453349265)                           | <a href="https://github.com/rstudio/learnr/commit/3fa052e2880b43b65653fab635f4d1674fbb0576" title="Add question_numeric()">3fa052</a>                                                 |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   387 |          30 |    129 |   157 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/451454395)                         | <a href="https://github.com/rstudio/learnr/commit/96cc9f96b5e2ef4a57ab0cee3732c23859c48568" title="Check that *-error-check and *-check are both included (#459)">96cc9f</a>          |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/453930100)                   | <a href="https://github.com/gadenbuie/status/commit/95e5c6a2f2e48f64b185b925235a48bf9ac186e4" title="[status] 2020-12-31 04:40:34 UTC">95e5c6</a>                                     |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/454486102)                   | <a href="https://github.com/gadenbuie/status/commit/6c2cd570cec8acdd8736e76c2d3012cc8a01988b" title="[status] 2020-12-31 04:50:35 UTC">6c2cd5</a>                                     |
 
 ## Repos without Github Actions
 
@@ -25,7 +25,7 @@ GitHub Dashboard
 | [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)                                   |   528 |          30 |     13 |    89 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   405 |          17 |      1 |    20 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological)                               |   291 |           9 |      8 |    16 |
-| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   276 |           6 |     13 |    17 |
+| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   277 |           6 |     13 |    17 |
 | [gadenbuie/countdown](https://github.com/gadenbuie/countdown)                                       |   104 |           5 |      4 |     7 |
 | [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash)                           |    91 |           4 |      6 |    50 |
 | [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly)                                         |    81 |           3 |      0 |     8 |
@@ -42,7 +42,7 @@ GitHub Dashboard
 | [gadenbuie/trug-ggplot2](https://github.com/gadenbuie/trug-ggplot2)                                 |    23 |           1 |      0 |     5 |
 | [gadenbuie/ermoji](https://github.com/gadenbuie/ermoji)                                             |    20 |           1 |      0 |     1 |
 | [gadenbuie/yule-rstudio](https://github.com/gadenbuie/yule-rstudio)                                 |    20 |           2 |      0 |     8 |
-| [gadenbuie/shinyThings](https://github.com/gadenbuie/shinyThings)                                   |    17 |           1 |      1 |     1 |
+| [gadenbuie/shinyThings](https://github.com/gadenbuie/shinyThings)                                   |    18 |           1 |      1 |     1 |
 | [gadenbuie/lorem](https://github.com/gadenbuie/lorem)                                               |    15 |           1 |      3 |     1 |
 | [gadenbuie/tweets-of-2019](https://github.com/gadenbuie/tweets-of-2019)                             |    14 |           1 |      4 |     2 |
 | [gadenbuie/drake-intro](https://github.com/gadenbuie/drake-intro)                                   |    13 |           2 |      1 |     4 |
