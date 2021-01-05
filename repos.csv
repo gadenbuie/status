@@ -44,7 +44,7 @@ gadenbuie,mueller-report,gadenbuie/mueller-report,46,4,0,26,FALSE,https://github
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,2,3,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,2,NA,NA,NA,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,9,1,0,3,FALSE,https://github.com/gadenbuie/oceanic-eighties,9,NA,NA,NA,NA,NA,NA
 gadenbuie,r-colors-css,gadenbuie/r-colors-css,7,1,0,2,FALSE,https://github.com/gadenbuie/r-colors-css,7,NA,NA,NA,NA,NA,NA
-gadenbuie,regexplain,gadenbuie/regexplain,405,17,1,20,FALSE,https://github.com/gadenbuie/regexplain,405,NA,NA,NA,NA,NA,NA
+gadenbuie,regexplain,gadenbuie/regexplain,406,17,1,21,FALSE,https://github.com/gadenbuie/regexplain,406,NA,NA,NA,NA,NA,NA
 gadenbuie,repromonkey,gadenbuie/repromonkey,0,1,4,0,FALSE,https://github.com/gadenbuie/repromonkey,0,NA,NA,NA,NA,NA,NA
 gadenbuie,resume,gadenbuie/resume,1,1,1,0,FALSE,https://github.com/gadenbuie/resume,1,NA,NA,NA,NA,NA,NA
 gadenbuie,rocker-verse-metaflow,gadenbuie/rocker-verse-metaflow,2,1,0,0,FALSE,https://github.com/gadenbuie/rocker-verse-metaflow,2,NA,NA,NA,NA,NA,NA
@@ -64,7 +64,7 @@ gadenbuie,snippets,gadenbuie/snippets,11,1,1,6,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,27,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/462586749,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/462619160,NA,[status] 2021-01-05 04:42:31 UTC,96b935ca4194d4cc615861b851c0551b6c7526c9
+gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/463352624,NA,[status] 2021-01-05 04:53:40 UTC,364f1bda4332b68ffe80441b4d486fc68c261f28
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -78,7 +78,7 @@ gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,0,2,0,2,FALSE,https://github
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,11,1,0,8,FALSE,https://github.com/gadenbuie/xaringan-logo,11,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,7,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,7,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,197,5,14,14,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/462597573,success,[ci] tic::update_tic() and add status update step,93429efefb268a4df2f43935304a8f781f73ece8
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,197,5,15,14,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/462597573,success,[ci] tic::update_tic() and add status update step,93429efefb268a4df2f43935304a8f781f73ece8
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,312,10,7,15,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/462608699,success,[ci] Dispatch events to gadenbuie/status,f2edaf0f256cb88171c80f26a1829e5fde4a274c
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,20,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,20,NA,NA,NA,NA,NA,NA
 rstudio-education,gradethis,rstudio-education/gradethis,89,11,73,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/462031402,success,Call it remove_dangerous_html_tags(),3f1ad485eda2f37451d1e9f5963e5968639697c0
