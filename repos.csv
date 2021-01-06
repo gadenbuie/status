@@ -57,14 +57,14 @@ gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,6,1,0,2,FALSE,ht
 gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,1,0,1,FALSE,https://github.com/gadenbuie/rstudioAddinFriend,5,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,36,2,7,3,FALSE,https://github.com/gadenbuie/shinyComponents,36,NA,NA,NA,NA,NA,NA
-gadenbuie,shinyThings,gadenbuie/shinyThings,18,1,1,1,FALSE,https://github.com/gadenbuie/shinyThings,18,NA,NA,NA,NA,NA,NA
+gadenbuie,shinyThings,gadenbuie/shinyThings,19,1,1,2,FALSE,https://github.com/gadenbuie/shinyThings,19,NA,NA,NA,NA,NA,NA
 gadenbuie,shrtcts,gadenbuie/shrtcts,68,1,3,1,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/460242252,success,[ci] tic::update_tic() and add status update step,c2103728f2b73619d9eebf48f2cf62605d53972f
 gadenbuie,slides,gadenbuie/slides,2,1,0,2,FALSE,https://github.com/gadenbuie/slides,2,NA,NA,NA,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,11,1,1,6,FALSE,https://github.com/gadenbuie/snippets,11,NA,NA,NA,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,27,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/462586749,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/463352624,NA,[status] 2021-01-05 04:53:40 UTC,364f1bda4332b68ffe80441b4d486fc68c261f28
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,27,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/465182740,NA,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
+gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/465192679,NA,[status] 2021-01-05 12:22:33 UTC,76782d558467c4a4aef1a35bcc5a34a496f6baa9
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -73,21 +73,21 @@ gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,1,0,5,FALSE,https://github.com/
 gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,1,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA,NA,NA,NA
 gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,91,4,6,50,FALSE,https://github.com/gadenbuie/tweet-conf-dash,91,NA,NA,NA,NA,NA,NA
 gadenbuie,tweetrmd,gadenbuie/tweetrmd,60,3,3,3,FALSE,https://github.com/gadenbuie/tweetrmd,60,NA,NA,NA,NA,NA,NA
-gadenbuie,tweets-of-the-year,gadenbuie/tweets-of-the-year,14,1,5,2,FALSE,https://github.com/gadenbuie/tweets-of-the-year,14,NA,NA,NA,NA,NA,NA
+gadenbuie,tweets-of-the-year,gadenbuie/tweets-of-the-year,15,1,4,2,FALSE,https://github.com/gadenbuie/tweets-of-the-year,15,NA,NA,NA,NA,NA,NA
 gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,0,2,0,2,FALSE,https://github.com/gadenbuie/usf-boot-camp-R,0,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,11,1,0,8,FALSE,https://github.com/gadenbuie/xaringan-logo,11,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,7,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,7,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,197,5,15,14,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/462597573,success,[ci] tic::update_tic() and add status update step,93429efefb268a4df2f43935304a8f781f73ece8
-gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,312,10,7,15,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/462608699,success,[ci] Dispatch events to gadenbuie/status,f2edaf0f256cb88171c80f26a1829e5fde4a274c
+gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,313,10,7,15,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/462608699,success,[ci] Dispatch events to gadenbuie/status,f2edaf0f256cb88171c80f26a1829e5fde4a274c
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,20,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,20,NA,NA,NA,NA,NA,NA
-rstudio-education,gradethis,rstudio-education/gradethis,89,11,73,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/462031402,success,Call it remove_dangerous_html_tags(),3f1ad485eda2f37451d1e9f5963e5968639697c0
-rstudio-education,gradethis,rstudio-education/gradethis,89,11,73,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/461791185,success,"Merge pull request #188 from gadenbuie/fix-grade_this-examples
+rstudio-education,gradethis,rstudio-education/gradethis,89,11,67,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/464186883,success,"Bump version, add Garrick, tidy description (#190)
 
-Fixes grade_this() examples in docs",f1a0aa4964c7b02bdb5329591adce2ac7d26160c
-rstudio,learnr,rstudio/learnr,387,29,128,158,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/461881638,success,"Bump dev version 0.10.1.9007
+Co-authored-by: Barret Schloerke <barret@rstudio.com>",a8f772102d5b51c2ff3810d45fb4f532f94d8a72
+rstudio-education,gradethis,rstudio-education/gradethis,89,11,67,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/464186878,success,"Bump version, add Garrick, tidy description (#190)
 
-For rstudio-education/gradethis#183",44b22b5d90fa5a67884f5826dbcfa3953d76fca4
-rstudio,learnr,rstudio/learnr,387,29,128,158,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/451454395,success,"Check that *-error-check and *-check are both included (#459)
+Co-authored-by: Barret Schloerke <barret@rstudio.com>",a8f772102d5b51c2ff3810d45fb4f532f94d8a72
+rstudio,learnr,rstudio/learnr,387,29,124,158,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/463780280,failure,"Remove ""Correct!"" from random_praise() (#463)",c29fa10cd0486cf6136da196e53c171c528f6684
+rstudio,learnr,rstudio/learnr,387,29,124,158,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/451454395,success,"Check that *-error-check and *-check are both included (#459)
 
 Co-authored-by: gadenbuie <gadenbuie@users.noreply.github.com>",96cc9f96b5e2ef4a57ab0cee3732c23859c48568
