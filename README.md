@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-01-06 04:54:06 UTC
+2021-01-06 12:20:55 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                         |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    89 |          11 |     67 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/464186878)     | <a href="https://github.com/rstudio-education/gradethis/commit/a8f772102d5b51c2ff3810d45fb4f532f94d8a72" title="Bump version, add Garrick, tidy description (#190)">a8f772</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   387 |          29 |    124 |   158 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/463780280)                           | \<a href=“<https://github.com/rstudio/learnr/commit/c29fa10cd0486cf6136da196e53c171c528f6684>” title=“Remove”Correct\!" from random\_praise() (\#463)"\>c29fa1</a>             |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   387 |          29 |    124 |   158 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/451454395)                         | <a href="https://github.com/rstudio/learnr/commit/96cc9f96b5e2ef4a57ab0cee3732c23859c48568" title="Check that *-error-check and *-check are both included (#459)">96cc9f</a>   |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/465223725)                   | <a href="https://github.com/gadenbuie/status/commit/796343bcd37d7f36352b44bc414929bba9641252" title="[status] 2021-01-06 04:44:02 UTC">796343</a>                              |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/466058014)                   | <a href="https://github.com/gadenbuie/status/commit/ff2877e3411cfd5260d44b8e84d8e6276ed25295" title="[status] 2021-01-06 04:54:33 UTC">ff2877</a>                              |
 
 ## Repos without Github Actions
 
@@ -43,8 +43,8 @@ GitHub Dashboard
 | [gadenbuie/ermoji](https://github.com/gadenbuie/ermoji)                                             |    20 |           1 |      0 |     1 |
 | [gadenbuie/yule-rstudio](https://github.com/gadenbuie/yule-rstudio)                                 |    20 |           2 |      0 |     8 |
 | [gadenbuie/shinyThings](https://github.com/gadenbuie/shinyThings)                                   |    19 |           1 |      1 |     2 |
+| [gadenbuie/tweets-of-the-year](https://github.com/gadenbuie/tweets-of-the-year)                     |    16 |           1 |      4 |     2 |
 | [gadenbuie/lorem](https://github.com/gadenbuie/lorem)                                               |    15 |           1 |      3 |     1 |
-| [gadenbuie/tweets-of-the-year](https://github.com/gadenbuie/tweets-of-the-year)                     |    15 |           1 |      4 |     2 |
 | [gadenbuie/drake-intro](https://github.com/gadenbuie/drake-intro)                                   |    13 |           2 |      1 |     4 |
 | [gadenbuie/applause](https://github.com/gadenbuie/applause)                                         |    12 |           1 |      0 |     1 |
 | [gadenbuie/getcitations](https://github.com/gadenbuie/getcitations)                                 |    12 |           1 |      0 |     3 |
