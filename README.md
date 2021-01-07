@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-01-07 04:45:21 UTC
+2021-01-07 04:56:58 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                         |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    90 |          11 |     41 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/464186878)     | <a href="https://github.com/rstudio-education/gradethis/commit/a8f772102d5b51c2ff3810d45fb4f532f94d8a72" title="Bump version, add Garrick, tidy description (#190)">a8f772</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   387 |          29 |    125 |   159 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/467277635)                           | <a href="https://github.com/rstudio/learnr/commit/ea4239f70108c7076e60b9fd52bc5a3b2800a94a" title="update news">ea4239</a>                                                     |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   387 |          29 |    125 |   159 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/451454395)                         | <a href="https://github.com/rstudio/learnr/commit/96cc9f96b5e2ef4a57ab0cee3732c23859c48568" title="Check that *-error-check and *-check are both included (#459)">96cc9f</a>   |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/467951247)                   | <a href="https://github.com/gadenbuie/status/commit/b060dcb9bf47d5b8e376bf18cb5ebb4d971026b6" title="[status] 2021-01-07 04:36:42 UTC">b060dc</a>                              |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/467970682)                   | <a href="https://github.com/gadenbuie/status/commit/e9354d0c674e035cad8aa55a332d93cf895bf273" title="[status] 2021-01-07 04:45:46 UTC">e9354d</a>                              |
 
 ## Repos without Github Actions
 
