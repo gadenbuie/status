@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-01-07 04:56:58 UTC
+2021-01-07 12:21:49 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                         |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,16 +16,16 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    90 |          11 |     41 |    27 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/464186878)     | <a href="https://github.com/rstudio-education/gradethis/commit/a8f772102d5b51c2ff3810d45fb4f532f94d8a72" title="Bump version, add Garrick, tidy description (#190)">a8f772</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   387 |          29 |    125 |   159 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/467277635)                           | <a href="https://github.com/rstudio/learnr/commit/ea4239f70108c7076e60b9fd52bc5a3b2800a94a" title="update news">ea4239</a>                                                     |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   387 |          29 |    125 |   159 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/451454395)                         | <a href="https://github.com/rstudio/learnr/commit/96cc9f96b5e2ef4a57ab0cee3732c23859c48568" title="Check that *-error-check and *-check are both included (#459)">96cc9f</a>   |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/467970682)                   | <a href="https://github.com/gadenbuie/status/commit/e9354d0c674e035cad8aa55a332d93cf895bf273" title="[status] 2021-01-07 04:45:46 UTC">e9354d</a>                              |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/468844178)                   | <a href="https://github.com/gadenbuie/status/commit/ccc87a08165efae585e7fe2fda70109285221bb3" title="[status] 2021-01-07 04:57:25 UTC">ccc87a</a>                              |
 
 ## Repos without Github Actions
 
 | Repo                                                                                                | Stars | Subscribers | Issues | Forks |
 | :-------------------------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: |
-| [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)                                   |   529 |          30 |     13 |    89 |
+| [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)                                   |   530 |          30 |     13 |    89 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   406 |          17 |      1 |    21 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological)                               |   292 |           9 |      8 |    16 |
-| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   278 |           6 |     12 |    17 |
+| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   278 |           6 |     12 |    18 |
 | [gadenbuie/countdown](https://github.com/gadenbuie/countdown)                                       |   105 |           5 |      4 |     7 |
 | [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash)                           |    91 |           4 |      6 |    50 |
 | [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly)                                         |    82 |           3 |      0 |     8 |
