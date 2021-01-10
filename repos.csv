@@ -26,7 +26,7 @@ gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,6,1,14,4,FALSE,https
 gadenbuie,gathertweet,gadenbuie/gathertweet,8,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA,NA,NA,NA
 gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,69,3,0,13,FALSE,https://github.com/gadenbuie/gentle-ggplot2,69,NA,NA,NA,NA,NA,NA
 gadenbuie,getcitations,gadenbuie/getcitations,12,1,0,3,FALSE,https://github.com/gadenbuie/getcitations,12,NA,NA,NA,NA,NA,NA
-gadenbuie,ggpomological,gadenbuie/ggpomological,292,9,8,16,FALSE,https://github.com/gadenbuie/ggpomological,292,NA,NA,NA,NA,NA,NA
+gadenbuie,ggpomological,gadenbuie/ggpomological,293,9,8,16,FALSE,https://github.com/gadenbuie/ggpomological,293,NA,NA,NA,NA,NA,NA
 gadenbuie,ggweekly,gadenbuie/ggweekly,82,3,0,8,FALSE,https://github.com/gadenbuie/ggweekly,82,NA,NA,NA,NA,NA,NA
 gadenbuie,grkstyle,gadenbuie/grkstyle,40,2,2,6,FALSE,https://github.com/gadenbuie/grkstyle,40,NA,NA,NA,NA,NA,NA
 gadenbuie,intro-to-git-for-scientists,gadenbuie/intro-to-git-for-scientists,9,1,0,1,FALSE,https://github.com/gadenbuie/intro-to-git-for-scientists,9,NA,NA,NA,NA,NA,NA
@@ -63,15 +63,15 @@ gadenbuie,slides,gadenbuie/slides,2,1,0,2,FALSE,https://github.com/gadenbuie/sli
 gadenbuie,snippets,gadenbuie/snippets,11,1,1,6,FALSE,https://github.com/gadenbuie/snippets,11,NA,NA,NA,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,27,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/473512765,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/474009721,NA,[status] 2021-01-09 04:59:22 UTC,554957ff4c09c3c69a3942ee857c992574b9c65c
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,27,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/475073682,NA,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
+gadenbuie,status,gadenbuie/status,24,1,2,3,FALSE,https://github.com/gadenbuie/status,24,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/475076761,NA,[status] 2021-01-09 12:23:51 UTC,6ee52755ed13aee54085e2cb54ee0dde93af185a
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
 gadenbuie,tidyexplain,gadenbuie/tidyexplain,531,30,13,89,FALSE,https://github.com/gadenbuie/tidyexplain,531,NA,NA,NA,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,1,0,5,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA,NA,NA,NA
 gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,1,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA,NA,NA,NA
-gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,91,4,6,50,FALSE,https://github.com/gadenbuie/tweet-conf-dash,91,NA,NA,NA,NA,NA,NA
+gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,91,4,6,51,FALSE,https://github.com/gadenbuie/tweet-conf-dash,91,NA,NA,NA,NA,NA,NA
 gadenbuie,tweetrmd,gadenbuie/tweetrmd,60,3,3,3,FALSE,https://github.com/gadenbuie/tweetrmd,60,NA,NA,NA,NA,NA,NA
 gadenbuie,tweets-of-the-year,gadenbuie/tweets-of-the-year,17,1,4,2,FALSE,https://github.com/gadenbuie/tweets-of-the-year,17,NA,NA,NA,NA,NA,NA
 gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,0,2,0,2,FALSE,https://github.com/gadenbuie/usf-boot-camp-R,0,NA,NA,NA,NA,NA,NA
@@ -81,8 +81,8 @@ gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,7,1,0,1,FALSE,https:
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,204,6,16,14,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/473520759,success,[ci] tic::update_tic() and add status update step,93429efefb268a4df2f43935304a8f781f73ece8
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,313,10,7,15,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/473529133,success,[ci] Dispatch events to gadenbuie/status,f2edaf0f256cb88171c80f26a1829e5fde4a274c
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,20,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,20,NA,NA,NA,NA,NA,NA
-rstudio-education,gradethis,rstudio-education/gradethis,91,12,32,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/472703016,success,"Don't HTML escape protected messages in gradethis, let learnr handle bare string (#194)",a07ecfee1e64578efba35f3aa62744d08806db82
-rstudio-education,gradethis,rstudio-education/gradethis,91,12,32,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/472703017,success,"Don't HTML escape protected messages in gradethis, let learnr handle bare string (#194)",a07ecfee1e64578efba35f3aa62744d08806db82
+rstudio-education,gradethis,rstudio-education/gradethis,92,12,33,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/472703016,success,"Don't HTML escape protected messages in gradethis, let learnr handle bare string (#194)",a07ecfee1e64578efba35f3aa62744d08806db82
+rstudio-education,gradethis,rstudio-education/gradethis,92,12,33,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/472703017,success,"Don't HTML escape protected messages in gradethis, let learnr handle bare string (#194)",a07ecfee1e64578efba35f3aa62744d08806db82
 rstudio,learnr,rstudio/learnr,387,29,130,160,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/472518219,success,Update NEWS.md,4138e759cf684d830386b0f8ed887c40980b43f1
 rstudio,learnr,rstudio/learnr,387,29,130,160,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/451454395,success,"Check that *-error-check and *-check are both included (#459)
 
