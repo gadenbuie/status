@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-01-14 05:14:29 UTC
+2021-01-14 12:35:43 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                                                              |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -16,7 +16,7 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    92 |          11 |     31 |    28 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/472703017)     | <a href="https://github.com/rstudio-education/gradethis/commit/a07ecfee1e64578efba35f3aa62744d08806db82" title="Don't HTML escape protected messages in gradethis, let learnr handle bare string (#194)">a07ecf</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   388 |          27 |    132 |   160 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/483980713)                           | <a href="https://github.com/rstudio/learnr/commit/649d04a681427f7622d6d2a3c86d46424a8227bb" title="Add news for #456">649d04</a>                                                                                    |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   388 |          27 |    132 |   160 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/451454395)                         | <a href="https://github.com/rstudio/learnr/commit/96cc9f96b5e2ef4a57ab0cee3732c23859c48568" title="Check that *-error-check and *-check are both included (#459)">96cc9f</a>                                        |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/484573264)                   | <a href="https://github.com/gadenbuie/status/commit/89e5932dddff134b95d72abb9db409fb8190dcb0" title="[status] 2021-01-14 04:58:07 UTC">89e593</a>                                                                   |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/485353619)                   | <a href="https://github.com/gadenbuie/status/commit/2cf429a5b1093035980bc6cc7a4b0755b299d805" title="[status] 2021-01-14 05:14:57 UTC">2cf429</a>                                                                   |
 
 ## Repos without Github Actions
 
@@ -71,6 +71,7 @@ GitHub Dashboard
 | [gadenbuie/js4shiny-workshop-webpage](https://github.com/gadenbuie/js4shiny-workshop-webpage)       |     3 |           2 |      0 |     5 |
 | [gadenbuie/rstatsnyc-2018-tweets](https://github.com/gadenbuie/rstatsnyc-2018-tweets)               |     3 |           1 |      0 |     0 |
 | [gadenbuie/ten-thousand-functions](https://github.com/gadenbuie/ten-thousand-functions)             |     3 |           0 |      0 |     0 |
+| [gadenbuie/tiktokrmd](https://github.com/gadenbuie/tiktokrmd)                                       |     3 |           1 |      0 |     0 |
 | [gadenbuie/msglooker](https://github.com/gadenbuie/msglooker)                                       |     2 |           1 |      1 |     0 |
 | [gadenbuie/nonlinear-opt-notes](https://github.com/gadenbuie/nonlinear-opt-notes)                   |     2 |           3 |      0 |     3 |
 | [gadenbuie/rocker-verse-metaflow](https://github.com/gadenbuie/rocker-verse-metaflow)               |     2 |           1 |      0 |     0 |
@@ -82,7 +83,6 @@ GitHub Dashboard
 | [gadenbuie/ms-render-ui-delay](https://github.com/gadenbuie/ms-render-ui-delay)                     |     1 |           1 |      0 |     0 |
 | [gadenbuie/resume](https://github.com/gadenbuie/resume)                                             |     1 |           1 |      1 |     0 |
 | [gadenbuie/speedDate](https://github.com/gadenbuie/speedDate)                                       |     1 |           1 |      0 |     1 |
-| [gadenbuie/tiktokrmd](https://github.com/gadenbuie/tiktokrmd)                                       |     1 |           1 |      0 |     0 |
 | [gadenbuie/xaringan-line-focus](https://github.com/gadenbuie/xaringan-line-focus)                   |     1 |           1 |      0 |     0 |
 | [gadenbuie/aws-p2-setup](https://github.com/gadenbuie/aws-p2-setup)                                 |     0 |           1 |      0 |     0 |
 | [gadenbuie/boostrap-v3-theme-minty](https://github.com/gadenbuie/boostrap-v3-theme-minty)           |     0 |           2 |      1 |     1 |
