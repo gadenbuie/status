@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-01-15 05:04:12 UTC
+2021-01-15 12:34:52 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                                                              |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -16,8 +16,8 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    92 |          11 |     32 |    28 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/472703017)     | <a href="https://github.com/rstudio-education/gradethis/commit/a07ecfee1e64578efba35f3aa62744d08806db82" title="Don't HTML escape protected messages in gradethis, let learnr handle bare string (#194)">a07ecf</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   388 |          27 |    130 |   160 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/486591378)                           | <a href="https://github.com/rstudio/learnr/commit/dd4338cd123db7e7c51d737b002af972f1f626fe" title="Fix exercise solution in ex-data-filter (#444)">dd4338</a>                                                       |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   388 |          27 |    130 |   160 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/451454395)                         | <a href="https://github.com/rstudio/learnr/commit/96cc9f96b5e2ef4a57ab0cee3732c23859c48568" title="Check that *-error-check and *-check are both included (#459)">96cc9f</a>                                        |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/487132764)                   | <a href="https://github.com/gadenbuie/status/commit/79e36843f7cd168ea23571246b1f2ee17ea1b489" title="[status] 2021-01-15 04:50:18 UTC">79e368</a>                                                                   |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     0 |           1 |      0 |     0 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/487127697)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/23d97f2e469aa922a05e8b63c376c3a472036b22" title="Update github-metrics.svg - [Skip GitHub Action]">23d97f</a>                                                |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/487906952)                   | <a href="https://github.com/gadenbuie/status/commit/cec821fa369a944d4e7e26ab64eb47299f95291a" title="[status] 2021-01-15 05:04:43 UTC">cec821</a>                                                                   |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     0 |           1 |      0 |     0 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/487821770)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/887125b09c465b992ab1ebc0564857c065d8acb6" title="Update github-metrics.svg - [Skip GitHub Action]">887125</a>                                                |
 
 ## Repos without Github Actions
 
@@ -52,11 +52,11 @@ GitHub Dashboard
 | [gadenbuie/de-iris-my-repos](https://github.com/gadenbuie/de-iris-my-repos)                         |    11 |           1 |      0 |     0 |
 | [gadenbuie/snippets](https://github.com/gadenbuie/snippets)                                         |    11 |           1 |      1 |     6 |
 | [gadenbuie/xaringan-logo](https://github.com/gadenbuie/xaringan-logo)                               |    11 |           1 |      0 |     8 |
+| [gadenbuie/tiktokrmd](https://github.com/gadenbuie/tiktokrmd)                                       |    10 |           1 |      0 |     0 |
 | [gadenbuie/intro-to-git-for-scientists](https://github.com/gadenbuie/intro-to-git-for-scientists)   |     9 |           1 |      0 |     1 |
 | [gadenbuie/js4shiny-frappeCharts](https://github.com/gadenbuie/js4shiny-frappeCharts)               |     9 |           1 |      0 |     3 |
 | [gadenbuie/oceanic-eighties](https://github.com/gadenbuie/oceanic-eighties)                         |     9 |           1 |      0 |     3 |
 | [gadenbuie/synamyn](https://github.com/gadenbuie/synamyn)                                           |     9 |           1 |      0 |     0 |
-| [gadenbuie/tiktokrmd](https://github.com/gadenbuie/tiktokrmd)                                       |     9 |           1 |      0 |     0 |
 | [gadenbuie/gathertweet](https://github.com/gadenbuie/gathertweet)                                   |     8 |           1 |      3 |     2 |
 | [gadenbuie/js4shiny-drumkit](https://github.com/gadenbuie/js4shiny-drumkit)                         |     7 |           1 |      0 |     1 |
 | [gadenbuie/r-colors-css](https://github.com/gadenbuie/r-colors-css)                                 |     7 |           1 |      0 |     2 |
