@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-01-18 04:56:13 UTC
+2021-01-18 12:35:44 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                                                              |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -16,8 +16,8 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    92 |          11 |     32 |    28 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/472703017)     | <a href="https://github.com/rstudio-education/gradethis/commit/a07ecfee1e64578efba35f3aa62744d08806db82" title="Don't HTML escape protected messages in gradethis, let learnr handle bare string (#194)">a07ecf</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   390 |          27 |    127 |   162 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/492241372)                           | <a href="https://github.com/rstudio/learnr/commit/d581d2f8e03e44c8bb0016a0c9fcd0e5c4caaf16" title="add Portuguese to R/i18n.R">d581d2</a>                                                                           |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   390 |          27 |    127 |   162 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/488970946)                         | <a href="https://github.com/rstudio/learnr/commit/b36e840c338f5840185e6fca4a99c25fa899d57f" title="Optionally reveal (or hide) exercise solution (#470)">b36e84</a>                                                 |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/492759115)                   | <a href="https://github.com/gadenbuie/status/commit/6259d23ecce93de4b4be59ffb16ec95fcfe52b86" title="[status] 2021-01-18 04:53:41 UTC">6259d2</a>                                                                   |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     0 |           1 |      0 |     0 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/492752568)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/f5e3e5b2c96b598ef6cc9dd65dbc42ac5774d57c" title="Update github-metrics.svg - [Skip GitHub Action]">f5e3e5</a>                                                |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    24 |           1 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/493597515)                   | <a href="https://github.com/gadenbuie/status/commit/bcc397a811e171f7e53493328473eda0058c90e2" title="[status] 2021-01-18 04:56:42 UTC">bcc397</a>                                                                   |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     0 |           1 |      0 |     0 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/493510968)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/6dcfc32ab2a7005b3d662e56cd7b0ac8d12a979c" title="Update github-metrics.svg - [Skip GitHub Action]">6dcfc3</a>                                                |
 
 ## Repos without Github Actions
 
@@ -27,7 +27,7 @@ GitHub Dashboard
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   406 |          17 |      1 |    21 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological)                               |   293 |           9 |      8 |    17 |
 | [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   281 |           6 |     12 |    18 |
-| [gadenbuie/countdown](https://github.com/gadenbuie/countdown)                                       |   105 |           5 |      4 |     7 |
+| [gadenbuie/countdown](https://github.com/gadenbuie/countdown)                                       |   106 |           5 |      4 |     7 |
 | [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash)                           |    91 |           4 |      6 |    51 |
 | [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly)                                         |    82 |           3 |      0 |     8 |
 | [gadenbuie/gentle-ggplot2](https://github.com/gadenbuie/gentle-ggplot2)                             |    69 |           3 |      0 |    13 |
@@ -79,6 +79,7 @@ GitHub Dashboard
 | [gadenbuie/rstats-tweets](https://github.com/gadenbuie/rstats-tweets)                               |     2 |           1 |      0 |     0 |
 | [gadenbuie/rstudioconf-notes](https://github.com/gadenbuie/rstudioconf-notes)                       |     2 |           2 |      0 |     0 |
 | [gadenbuie/slides](https://github.com/gadenbuie/slides)                                             |     2 |           1 |      0 |     2 |
+| [gadenbuie/sprinkles](https://github.com/gadenbuie/sprinkles)                                       |     2 |           1 |      1 |     0 |
 | [gadenbuie/alix](https://github.com/gadenbuie/alix)                                                 |     1 |           1 |      0 |     0 |
 | [gadenbuie/docker-shinycannon](https://github.com/gadenbuie/docker-shinycannon)                     |     1 |           1 |      0 |     0 |
 | [gadenbuie/ms-render-ui-delay](https://github.com/gadenbuie/ms-render-ui-delay)                     |     1 |           1 |      0 |     0 |
@@ -96,7 +97,6 @@ GitHub Dashboard
 | [gadenbuie/gadenbuie.github.io](https://github.com/gadenbuie/gadenbuie.github.io)                   |     0 |           1 |      0 |     0 |
 | [gadenbuie/isg-2018](https://github.com/gadenbuie/isg-2018)                                         |     0 |           1 |      0 |     0 |
 | [gadenbuie/repromonkey](https://github.com/gadenbuie/repromonkey)                                   |     0 |           1 |      4 |     0 |
-| [gadenbuie/sprinkles](https://github.com/gadenbuie/sprinkles)                                       |     0 |           1 |      0 |     0 |
 | [gadenbuie/sqrrl](https://github.com/gadenbuie/sqrrl)                                               |     0 |           1 |      1 |     1 |
 | [gadenbuie/tidy-tuesday](https://github.com/gadenbuie/tidy-tuesday)                                 |     0 |           1 |      0 |     0 |
 | [gadenbuie/usf-boot-camp-R](https://github.com/gadenbuie/usf-boot-camp-R)                           |     0 |           2 |      0 |     2 |
