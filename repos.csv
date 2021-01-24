@@ -67,7 +67,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,2,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,28,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/506803065,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,25,2,2,3,FALSE,https://github.com/gadenbuie/status,25,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/506820977,NA,[status] 2021-01-24 04:48:09 UTC,7b0ad6ffc428f7ed2437d037936f45cc72b036c2
+gadenbuie,status,gadenbuie/status,25,2,2,3,FALSE,https://github.com/gadenbuie/status,25,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/506835353,NA,[status] 2021-01-24 04:58:24 UTC,f8afc1a619897774f173127db4deb6deb0340fe5
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
