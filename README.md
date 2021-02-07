@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-02-07 04:38:10 UTC
+2021-02-07 12:15:01 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                                        |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,8 +16,8 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    95 |          11 |     32 |    28 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/531476770)     | <a href="https://github.com/rstudio-education/gradethis/commit/486201184535c8e4008ae479d36e08d364da2f5f" title="Use unpiped submission in detect_mistakes() where possible (#192)">486201</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   394 |          28 |    130 |   166 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/538462756)                           | <a href="https://github.com/rstudio/learnr/commit/d3dd1a536e3ae42ea9e881f2bba958105a1809e5" title="Fix pluralization of exercise helper buttons after first init">d3dd1a</a>                  |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   394 |          28 |    130 |   166 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/488970946)                         | <a href="https://github.com/rstudio/learnr/commit/b36e840c338f5840185e6fca4a99c25fa899d57f" title="Optionally reveal (or hide) exercise solution (#470)">b36e84</a>                           |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/544571265)                   | <a href="https://github.com/gadenbuie/status/commit/c0dc0ffed906e522d0f607228103fa5de743ec55" title="[status] 2021-02-07 04:25:43 UTC">c0dc0f</a>                                             |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     2 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/544545848)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/e713a08c11f7831b350663b6cc88085ea637dde4" title="Update github-metrics.svg - [Skip GitHub Action]">e713a0</a>                          |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/545255419)                   | <a href="https://github.com/gadenbuie/status/commit/6a6eb45502fd98e4eb874ec862286dcb9464ec14" title="[status] 2021-02-07 04:38:32 UTC">6a6eb4</a>                                             |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     2 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/545169761)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/15059375086741626d0bd0b4f0ea392368cfb97b" title="Update github-metrics.svg - [Skip GitHub Action]">150593</a>                          |
 
 ## Repos without Github Actions
 
@@ -71,7 +71,7 @@ GitHub Dashboard
 | [gadenbuie/rstudio-ide-tips](https://github.com/gadenbuie/rstudio-ide-tips)                         |     5 |           1 |      0 |     2 |
 | [gadenbuie/rstudioAddinFriend](https://github.com/gadenbuie/rstudioAddinFriend)                     |     5 |           1 |      0 |     1 |
 | [gadenbuie/docker-rstudio-keras](https://github.com/gadenbuie/docker-rstudio-keras)                 |     3 |           1 |      0 |     1 |
-| [gadenbuie/extra-awesome-xaringan](https://github.com/gadenbuie/extra-awesome-xaringan)             |     3 |           1 |      0 |     0 |
+| [gadenbuie/extra-awesome-xaringan](https://github.com/gadenbuie/extra-awesome-xaringan)             |     3 |           1 |      0 |     1 |
 | [gadenbuie/fwiffer](https://github.com/gadenbuie/fwiffer)                                           |     3 |           1 |      0 |     0 |
 | [gadenbuie/js4shiny-workshop-webpage](https://github.com/gadenbuie/js4shiny-workshop-webpage)       |     3 |           2 |      0 |     5 |
 | [gadenbuie/rstatsnyc-2018-tweets](https://github.com/gadenbuie/rstatsnyc-2018-tweets)               |     3 |           1 |      0 |     0 |
