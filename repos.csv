@@ -4,7 +4,7 @@ gadenbuie,applause,gadenbuie/applause,12,1,0,1,FALSE,https://github.com/gadenbui
 gadenbuie,aws-p2-setup,gadenbuie/aws-p2-setup,0,1,0,0,FALSE,https://github.com/gadenbuie/aws-p2-setup,0,NA,NA,NA,NA,NA,NA
 gadenbuie,boostrap-v3-theme-minty,gadenbuie/boostrap-v3-theme-minty,0,2,1,1,FALSE,https://github.com/gadenbuie/boostrap-v3-theme-minty,0,NA,NA,NA,NA,NA,NA
 gadenbuie,cleanrmd,gadenbuie/cleanrmd,33,3,7,1,FALSE,https://github.com/gadenbuie/cleanrmd,33,NA,NA,NA,NA,NA,NA
-gadenbuie,countdown,gadenbuie/countdown,106,5,4,8,FALSE,https://github.com/gadenbuie/countdown,106,NA,NA,NA,NA,NA,NA
+gadenbuie,countdown,gadenbuie/countdown,107,5,4,8,FALSE,https://github.com/gadenbuie/countdown,107,NA,NA,NA,NA,NA,NA
 gadenbuie,covid19-florida,gadenbuie/covid19-florida,33,7,8,10,FALSE,https://github.com/gadenbuie/covid19-florida,33,NA,NA,NA,NA,NA,NA
 gadenbuie,covid19-florida-ahca,gadenbuie/covid19-florida-ahca,0,1,0,0,FALSE,https://github.com/gadenbuie/covid19-florida-ahca,0,NA,NA,NA,NA,NA,NA
 gadenbuie,covid19-florida-cases-by-day,gadenbuie/covid19-florida-cases-by-day,0,1,0,0,FALSE,https://github.com/gadenbuie/covid19-florida-cases-by-day,0,NA,NA,NA,NA,NA,NA
@@ -21,7 +21,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,20,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,3,1,0,1,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,3,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,2,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,2,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/581240718,success,Update github-metrics.svg - [Skip GitHub Action],c9af9f0b12fc096a32810c012a3228b313c3c3cc
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,2,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,2,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/583452135,success,Update github-metrics.svg - [Skip GitHub Action],f4c831194145dabfd0aad2b47034ae7a742c0b77
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,6,1,17,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,6,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,8,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA,NA,NA,NA
@@ -67,8 +67,8 @@ gadenbuie,snippets,gadenbuie/snippets,12,1,1,5,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,3,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,28,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/580305765,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,25,2,2,3,FALSE,https://github.com/gadenbuie/status,25,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/581370589,NA,[status] 2021-02-19 04:38:40 UTC,81e8c7bd16ec9d4d41f1d18c259ee1e6c7250563
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,28,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/583436164,NA,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
+gadenbuie,status,gadenbuie/status,25,2,2,3,FALSE,https://github.com/gadenbuie/status,25,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/583455069,NA,[status] 2021-02-19 12:16:11 UTC,d62d299b164d9759feba5f058756e99014fbf123
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -84,26 +84,22 @@ gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,0,2,0,2,FALSE,https://github
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,12,1,0,8,FALSE,https://github.com/gadenbuie/xaringan-logo,12,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,7,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,7,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,220,6,20,17,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/580321010,success,v0.2.5,9943220eb2412a4485b6f8bf3ac3769df6597395
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,221,6,20,17,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/583448532,NA,v0.2.5,9943220eb2412a4485b6f8bf3ac3769df6597395
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,327,9,8,15,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/580335516,success,"Add brand prefixes for fontawesome icons
 
 Noticed some of your icons in the upper navbar was broken, this one bit me too!",300908a77eb83c55763e9f6bd79ca838dad45870
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,20,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,20,NA,NA,NA,NA,NA,NA
-rstudio-education,gradethis,rstudio-education/gradethis,96,11,28,28,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/575679723,success,"Adjust gradethis_setup() function signature (#213)
+rstudio-education,gradethis,rstudio-education/gradethis,96,11,32,28,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/582417644,success,"Bring pass_if() and fail_if() to grade_this()
+
+but don't allow formula or functions",6cb80ca974f8d926eb8235f6116af5faa3213eec
+rstudio-education,gradethis,rstudio-education/gradethis,96,11,32,28,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/575679722,success,"Adjust gradethis_setup() function signature (#213)
 
 * Adjust gradethis_setup() function signature
 
 And attach gradethis if running gradethis_setup()
 
 BREAKING CHANGE: new order of arguments in gradethis_setup()",5a39f7ab3f0f5d1119565fb1d597f2a169327ba8
-rstudio-education,gradethis,rstudio-education/gradethis,96,11,28,28,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/575679722,success,"Adjust gradethis_setup() function signature (#213)
-
-* Adjust gradethis_setup() function signature
-
-And attach gradethis if running gradethis_setup()
-
-BREAKING CHANGE: new order of arguments in gradethis_setup()",5a39f7ab3f0f5d1119565fb1d597f2a169327ba8
-rstudio,learnr,rstudio/learnr,396,28,129,169,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/579662092,success,"Add tutorial id, version, and user_id to exercise object",e9de77b0f91617c4cfb31a259b1c03f28737c3f0
+rstudio,learnr,rstudio/learnr,396,28,129,169,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/582061360,success,refactor(upgrade_exercise): provide forward and backwards compatibility,d3f31948e282c374fccd447038faf56a179a932c
 rstudio,learnr,rstudio/learnr,396,28,129,169,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/488970946,success,"Optionally reveal (or hide) exercise solution (#470)
 
 Co-authored-by: Barret Schloerke <barret@rstudio.com>
