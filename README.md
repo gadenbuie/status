@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-02-20 04:37:02 UTC
+2021-02-20 12:15:44 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                                 |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,8 +16,8 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    96 |          11 |     32 |    28 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/575679722)     | <a href="https://github.com/rstudio-education/gradethis/commit/5a39f7ab3f0f5d1119565fb1d597f2a169327ba8" title="Adjust gradethis_setup() function signature (#213)">5a39f7</a>         |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   396 |          28 |    129 |   169 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/582061360)                           | <a href="https://github.com/rstudio/learnr/commit/d3f31948e282c374fccd447038faf56a179a932c" title="refactor(upgrade_exercise): provide forward and backwards compatibility">d3f319</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   396 |          28 |    129 |   169 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/488970946)                         | <a href="https://github.com/rstudio/learnr/commit/b36e840c338f5840185e6fca4a99c25fa899d57f" title="Optionally reveal (or hide) exercise solution (#470)">b36e84</a>                    |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/583475515)                   | <a href="https://github.com/gadenbuie/status/commit/3832af589fb085dc4e35a44486400d472709d41b" title="[status] 2021-02-20 04:24:33 UTC">3832af</a>                                      |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     2 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/583452135)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/f4c831194145dabfd0aad2b47034ae7a742c0b77" title="Update github-metrics.svg - [Skip GitHub Action]">f4c831</a>                   |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/584168720)                   | <a href="https://github.com/gadenbuie/status/commit/7529e3059d8d8b59062b70744e05b3e1a710d3df" title="[status] 2021-02-20 04:37:26 UTC">7529e3</a>                                      |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     2 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/584085942)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/c62bcf00234ffceb6460b5084b5bb5e4708d813f" title="Update github-metrics.svg - [Skip GitHub Action]">c62bcf</a>                   |
 
 ## Repos without Github Actions
 
@@ -32,10 +32,10 @@ GitHub Dashboard
 | [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly)                                         |    82 |           3 |      0 |     8 |
 | [gadenbuie/epoxy](https://github.com/gadenbuie/epoxy)                                               |    77 |           2 |      3 |     3 |
 | [gadenbuie/gentle-ggplot2](https://github.com/gadenbuie/gentle-ggplot2)                             |    69 |           3 |      0 |    13 |
-| [gadenbuie/tweetrmd](https://github.com/gadenbuie/tweetrmd)                                         |    63 |           3 |      3 |     4 |
+| [gadenbuie/tweetrmd](https://github.com/gadenbuie/tweetrmd)                                         |    64 |           3 |      3 |     6 |
 | [gadenbuie/mueller-report](https://github.com/gadenbuie/mueller-report)                             |    46 |           4 |      0 |    26 |
 | [gadenbuie/grkstyle](https://github.com/gadenbuie/grkstyle)                                         |    43 |           2 |      2 |     6 |
-| [gadenbuie/shinyComponents](https://github.com/gadenbuie/shinyComponents)                           |    37 |           2 |      5 |     3 |
+| [gadenbuie/shinyComponents](https://github.com/gadenbuie/shinyComponents)                           |    38 |           2 |      5 |     3 |
 | [gadenbuie/trump-tweet-time](https://github.com/gadenbuie/trump-tweet-time)                         |    36 |           1 |      0 |     0 |
 | [gadenbuie/cleanrmd](https://github.com/gadenbuie/cleanrmd)                                         |    33 |           3 |      7 |     1 |
 | [gadenbuie/covid19-florida](https://github.com/gadenbuie/covid19-florida)                           |    33 |           7 |      8 |    10 |
