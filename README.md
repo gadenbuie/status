@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-02-23 04:35:43 UTC
+2021-02-23 12:16:21 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                                 |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,8 +16,8 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    96 |          11 |     32 |    28 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/575679722)     | <a href="https://github.com/rstudio-education/gradethis/commit/5a39f7ab3f0f5d1119565fb1d597f2a169327ba8" title="Adjust gradethis_setup() function signature (#213)">5a39f7</a>         |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   396 |          28 |    129 |   168 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/582061360)                           | <a href="https://github.com/rstudio/learnr/commit/d3f31948e282c374fccd447038faf56a179a932c" title="refactor(upgrade_exercise): provide forward and backwards compatibility">d3f319</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   396 |          28 |    129 |   168 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/488970946)                         | <a href="https://github.com/rstudio/learnr/commit/b36e840c338f5840185e6fca4a99c25fa899d57f" title="Optionally reveal (or hide) exercise solution (#470)">b36e84</a>                    |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/591420321)                   | <a href="https://github.com/gadenbuie/status/commit/5b050d3308ea43686463b8c570262c38142201c8" title="[status] 2021-02-23 04:23:40 UTC">5b050d</a>                                      |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     3 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/591390997)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/8a1242b623bd3bb0184cff2d7e7e49ddddeac6fb" title="Update github-metrics.svg - [Skip GitHub Action]">8a1242</a>                   |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     3 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/592491502)                   | <a href="https://github.com/gadenbuie/status/commit/adeab4cf8ff5325b9b8f60df481e41edf21399ee" title="[status] 2021-02-23 04:36:10 UTC">adeab4</a>                                      |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     3 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/592354738)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/d9845d6ea3203c6f32fa7c4a45c13ff38acff3d6" title="Update github-metrics.svg - [Skip GitHub Action]">d9845d</a>                   |
 
 ## Repos without Github Actions
 
@@ -35,7 +35,7 @@ GitHub Dashboard
 | [gadenbuie/tweetrmd](https://github.com/gadenbuie/tweetrmd)                                         |    64 |           3 |      3 |     6 |
 | [gadenbuie/mueller-report](https://github.com/gadenbuie/mueller-report)                             |    46 |           4 |      0 |    26 |
 | [gadenbuie/grkstyle](https://github.com/gadenbuie/grkstyle)                                         |    43 |           2 |      2 |     6 |
-| [gadenbuie/shinyComponents](https://github.com/gadenbuie/shinyComponents)                           |    38 |           2 |      5 |     3 |
+| [gadenbuie/shinyComponents](https://github.com/gadenbuie/shinyComponents)                           |    38 |           2 |      6 |     3 |
 | [gadenbuie/trump-tweet-time](https://github.com/gadenbuie/trump-tweet-time)                         |    36 |           1 |      0 |     0 |
 | [gadenbuie/cleanrmd](https://github.com/gadenbuie/cleanrmd)                                         |    34 |           3 |      7 |     1 |
 | [gadenbuie/covid19-florida](https://github.com/gadenbuie/covid19-florida)                           |    33 |           7 |      8 |    10 |
