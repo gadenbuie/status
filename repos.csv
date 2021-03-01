@@ -21,7 +21,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,20,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,3,1,0,1,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,3,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,3,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,3,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/609194367,success,Update github-metrics.svg - [Skip GitHub Action],b74acfed7aa165efaa8b1172c7ac1feb0f7b4466
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,3,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,3,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/609309952,success,Update github-metrics.svg - [Skip GitHub Action],8bbbfd63856a55ac0fdcad05116a19a0349cf1cb
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,6,1,17,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,6,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,8,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA,NA,NA,NA
@@ -33,13 +33,13 @@ gadenbuie,grkstyle,gadenbuie/grkstyle,43,2,2,6,FALSE,https://github.com/gadenbui
 gadenbuie,intro-to-git-for-scientists,gadenbuie/intro-to-git-for-scientists,9,1,0,1,FALSE,https://github.com/gadenbuie/intro-to-git-for-scientists,9,NA,NA,NA,NA,NA,NA
 gadenbuie,isg-2018,gadenbuie/isg-2018,0,1,0,0,FALSE,https://github.com/gadenbuie/isg-2018,0,NA,NA,NA,NA,NA,NA
 gadenbuie,iyo-apero-awesome,gadenbuie/iyo-apero-awesome,0,1,0,0,FALSE,https://github.com/gadenbuie/iyo-apero-awesome,0,NA,NA,NA,NA,NA,NA
-gadenbuie,js4shiny,gadenbuie/js4shiny,42,4,2,2,FALSE,https://github.com/gadenbuie/js4shiny,NA,2005499,https://github.com/gadenbuie/js4shiny/workflows/tic/badge.svg,https://github.com/gadenbuie/js4shiny/actions/runs/587938422,failure,Prefix font awesome icons,29bd23560d8f1c8ff39db08495f8eb6fe44e30bc
+gadenbuie,js4shiny,gadenbuie/js4shiny,42,4,2,2,FALSE,https://github.com/gadenbuie/js4shiny,NA,2005499,https://github.com/gadenbuie/js4shiny/workflows/tic/badge.svg,https://github.com/gadenbuie/js4shiny/actions/runs/609299946,NA,Prefix font awesome icons,29bd23560d8f1c8ff39db08495f8eb6fe44e30bc
 gadenbuie,js4shiny-drumkit,gadenbuie/js4shiny-drumkit,7,1,0,1,FALSE,https://github.com/gadenbuie/js4shiny-drumkit,7,NA,NA,NA,NA,NA,NA
 gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,9,1,0,3,FALSE,https://github.com/gadenbuie/js4shiny-frappeCharts,9,NA,NA,NA,NA,NA,NA
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,2,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,16,1,3,1,FALSE,https://github.com/gadenbuie/lorem,16,NA,NA,NA,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,5,1,5,2,FALSE,https://github.com/gadenbuie/mctestanalysis,5,NA,NA,NA,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,49,2,6,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/609279706,NA,master -> main && prefix font awesome icons,7b547da65e5cd12d0d97003634ee37aa2992aeea
+gadenbuie,metathis,gadenbuie/metathis,49,2,6,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/609279706,success,master -> main && prefix font awesome icons,7b547da65e5cd12d0d97003634ee37aa2992aeea
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,2,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,2,NA,NA,NA,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,46,4,0,26,FALSE,https://github.com/gadenbuie/mueller-report,46,NA,NA,NA,NA,NA,NA
@@ -61,14 +61,14 @@ gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,1,0,1,FALSE,https://
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,38,2,5,3,FALSE,https://github.com/gadenbuie/shinyComponents,38,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,19,1,1,2,FALSE,https://github.com/gadenbuie/shinyThings,19,NA,NA,NA,NA,NA,NA
-gadenbuie,shrtcts,gadenbuie/shrtcts,69,1,2,2,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/609282863,NA,master -> main && Prefix font awesome icons,3a03311a030edff97e906743182b07ede88095a3
+gadenbuie,shrtcts,gadenbuie/shrtcts,69,1,2,2,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/609282863,success,master -> main && Prefix font awesome icons,3a03311a030edff97e906743182b07ede88095a3
 gadenbuie,slides,gadenbuie/slides,2,1,0,3,FALSE,https://github.com/gadenbuie/slides,2,NA,NA,NA,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,12,1,1,5,FALSE,https://github.com/gadenbuie/snippets,12,NA,NA,NA,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,3,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,28,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/609289989,NA,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,25,2,2,3,FALSE,https://github.com/gadenbuie/status,25,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/609296107,NA,[status] 2021-02-28 12:16:15 UTC,bf379a54e6fff1c99f7438a501057882c9fab189
+gadenbuie,status,gadenbuie/status,25,2,2,3,FALSE,https://github.com/gadenbuie/status,25,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/609311253,NA,[status] 2021-03-01 04:14:47 UTC,bebc946881d0bd4f4b96470747513f7c646d7fe1
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -84,7 +84,7 @@ gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,0,2,0,2,FALSE,https://github
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,12,1,0,8,FALSE,https://github.com/gadenbuie/xaringan-logo,12,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,7,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,7,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,223,6,20,18,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/608496702,success,remove inst from src,5145f0fa9fada6316aa714f7bc4ff38f957dc30f
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,223,6,20,18,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/609305562,NA,docs: rebuild,14fb86d8c829d98428e31c379724f0bf2a8d2027
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,329,9,8,16,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/606987460,success,"Add brand prefixes for fontawesome icons
 
 Noticed some of your icons in the upper navbar was broken, this one bit me too!",300908a77eb83c55763e9f6bd79ca838dad45870
