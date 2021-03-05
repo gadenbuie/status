@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-03-05 04:48:29 UTC
+2021-03-05 12:16:36 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                                              |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,8 +16,8 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    96 |          11 |     27 |    28 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/618824442)     | <a href="https://github.com/rstudio-education/gradethis/commit/6dfaecf14bbb3e58b08cff7be6cde145bb58be10" title="refactor: Import missing_arg() and related from rlang and call directly">6dfaec</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   398 |          28 |    135 |   173 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/611521342)                           | <a href="https://github.com/rstudio/learnr/commit/1a364a1cc692eb8493136347054b4934b75388a5" title="fix: Relocate tabset init in tutorial pandoc template">1a364a</a>                                |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   398 |          28 |    135 |   173 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/488970946)                         | <a href="https://github.com/rstudio/learnr/commit/b36e840c338f5840185e6fca4a99c25fa899d57f" title="Optionally reveal (or hide) exercise solution (#470)">b36e84</a>                                 |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/623343508)                   | <a href="https://github.com/gadenbuie/status/commit/2bffe21d558ab9f6bf7c62ae7b8c16255c903bf1" title="[status] 2021-03-05 04:27:41 UTC">2bffe2</a>                                                   |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     3 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/623296221)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/b8e9a75876a4d9696d62dae828b089b5c1368851" title="Update github-metrics.svg - [Skip GitHub Action]">b8e9a7</a>                                |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/624366881)                   | <a href="https://github.com/gadenbuie/status/commit/ef5efe52bec73374cdea633906b35f8c35983ab2" title="[status] 2021-03-05 04:48:55 UTC">ef5efe</a>                                                   |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     3 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/624234518)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/f2c1c8a611af9393d0d84a69fea7f91acc029264" title="Update github-metrics.svg - [Skip GitHub Action]">f2c1c8</a>                                |
 
 ## Repos without Github Actions
 
@@ -25,7 +25,7 @@ GitHub Dashboard
 | :-------------------------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: |
 | [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)                                   |   553 |          30 |     13 |    96 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   411 |          16 |      1 |    21 |
-| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   302 |           6 |     16 |    21 |
+| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   302 |           6 |     17 |    21 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological)                               |   292 |           9 |      8 |    17 |
 | [gadenbuie/countdown](https://github.com/gadenbuie/countdown)                                       |   108 |           5 |      4 |     8 |
 | [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash)                           |    96 |           4 |      6 |    56 |
@@ -53,7 +53,7 @@ GitHub Dashboard
 | [gadenbuie/getcitations](https://github.com/gadenbuie/getcitations)                                 |    12 |           1 |      0 |     3 |
 | [gadenbuie/rstudio-global-2021-calendar](https://github.com/gadenbuie/rstudio-global-2021-calendar) |    12 |           1 |      1 |     3 |
 | [gadenbuie/snippets](https://github.com/gadenbuie/snippets)                                         |    12 |           1 |      1 |     5 |
-| [gadenbuie/xaringan-logo](https://github.com/gadenbuie/xaringan-logo)                               |    12 |           1 |      0 |     8 |
+| [gadenbuie/xaringan-logo](https://github.com/gadenbuie/xaringan-logo)                               |    12 |           1 |      0 |     9 |
 | [gadenbuie/de-iris-my-repos](https://github.com/gadenbuie/de-iris-my-repos)                         |    11 |           1 |      0 |     0 |
 | [gadenbuie/intro-to-git-for-scientists](https://github.com/gadenbuie/intro-to-git-for-scientists)   |     9 |           1 |      0 |     1 |
 | [gadenbuie/js4shiny-frappeCharts](https://github.com/gadenbuie/js4shiny-frappeCharts)               |     9 |           1 |      0 |     3 |
