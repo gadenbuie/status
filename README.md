@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-03-17 04:41:36 UTC
+2021-03-17 12:21:20 UTC
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                       | Commit                                                                                                                                                                 |
 | :---------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,8 +16,8 @@ GitHub Dashboard
 | [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) |    97 |          12 |     27 |    29 | [![](https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio-education/gradethis/actions/runs/655492619)     | <a href="https://github.com/rstudio-education/gradethis/commit/d80d9bdeea5141143bdc7fe9efd93b66f4093519" title="Add gradethis_error_checker() (#234)">d80d9b</a>       |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   400 |          29 |    132 |   172 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/655470707)                           | <a href="https://github.com/rstudio/learnr/commit/29c5ac488ed142b4924c285b51b9d521bbb967f4" title="exercise$tutorial$learnr_version must be character">29c5ac</a>      |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                           |   400 |          29 |    132 |   172 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/488970946)                         | <a href="https://github.com/rstudio/learnr/commit/b36e840c338f5840185e6fca4a99c25fa899d57f" title="Optionally reveal (or hide) exercise solution (#470)">b36e84</a>    |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/659907564)                   | <a href="https://github.com/gadenbuie/status/commit/16c7a227344d45208822122f760fb84e7e92a4d1" title="[status] 2021-03-17 04:30:08 UTC">16c7a2</a>                      |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     3 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/659873496)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/b350003272954d359b127747421e3d67ce9e373b" title="Update github-metrics.svg - [Skip GitHub Action]">b35000</a>   |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                       |    25 |           2 |      2 |     4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/660991218)                   | <a href="https://github.com/gadenbuie/status/commit/f6770ae774d923fb9f18472cedca2579fe044200" title="[status] 2021-03-17 04:42:03 UTC">f6770a</a>                      |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)                 |     3 |           1 |      0 |     2 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/660846419)                     | <a href="https://github.com/gadenbuie/gadenbuie/commit/dec2c9795a6fa98f3501344329c370d06b8db505" title="Update github-metrics.svg - [Skip GitHub Action]">dec2c9</a>   |
 
 ## Repos without Github Actions
 
@@ -55,18 +55,18 @@ GitHub Dashboard
 | [gadenbuie/getcitations](https://github.com/gadenbuie/getcitations)                                 |    12 |           1 |      0 |     3 |
 | [gadenbuie/snippets](https://github.com/gadenbuie/snippets)                                         |    12 |           1 |      1 |     5 |
 | [gadenbuie/de-iris-my-repos](https://github.com/gadenbuie/de-iris-my-repos)                         |    11 |           1 |      0 |     0 |
+| [gadenbuie/oceanic-eighties](https://github.com/gadenbuie/oceanic-eighties)                         |    10 |           1 |      0 |     3 |
 | [gadenbuie/intro-to-git-for-scientists](https://github.com/gadenbuie/intro-to-git-for-scientists)   |     9 |           1 |      0 |     1 |
 | [gadenbuie/js4shiny-frappeCharts](https://github.com/gadenbuie/js4shiny-frappeCharts)               |     9 |           1 |      0 |     3 |
-| [gadenbuie/oceanic-eighties](https://github.com/gadenbuie/oceanic-eighties)                         |     9 |           1 |      0 |     3 |
 | [gadenbuie/synamyn](https://github.com/gadenbuie/synamyn)                                           |     9 |           1 |      0 |     0 |
 | [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r)                                         |     9 |           1 |      0 |     0 |
 | [gadenbuie/gathertweet](https://github.com/gadenbuie/gathertweet)                                   |     8 |           1 |      3 |     2 |
 | [gadenbuie/r-colors-css](https://github.com/gadenbuie/r-colors-css)                                 |     8 |           1 |      0 |     2 |
 | [gadenbuie/js4shiny-drumkit](https://github.com/gadenbuie/js4shiny-drumkit)                         |     7 |           1 |      0 |     1 |
 | [gadenbuie/rstudio-ide-tips-demo](https://github.com/gadenbuie/rstudio-ide-tips-demo)               |     7 |           1 |      0 |     2 |
+| [gadenbuie/slides](https://github.com/gadenbuie/slides)                                             |     7 |           1 |      0 |     5 |
 | [gadenbuie/xaringan2powerpoint](https://github.com/gadenbuie/xaringan2powerpoint)                   |     7 |           1 |      0 |     1 |
 | [gadenbuie/garrickadenbuie-com](https://github.com/gadenbuie/garrickadenbuie-com)                   |     6 |           1 |     18 |     4 |
-| [gadenbuie/slides](https://github.com/gadenbuie/slides)                                             |     6 |           1 |      0 |     5 |
 | [gadenbuie/drake-rstudio-jobs-example](https://github.com/gadenbuie/drake-rstudio-jobs-example)     |     5 |           1 |      0 |     0 |
 | [gadenbuie/mctestanalysis](https://github.com/gadenbuie/mctestanalysis)                             |     5 |           1 |      5 |     2 |
 | [gadenbuie/rstudio-ide-tips](https://github.com/gadenbuie/rstudio-ide-tips)                         |     5 |           1 |      0 |     2 |
