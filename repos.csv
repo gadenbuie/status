@@ -21,7 +21,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,20,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,3,1,0,1,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,3,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,3,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,3,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/731855649,success,Update github-metrics.svg - [Skip GitHub Action],93742c3b37135bf8434a82c3a3cb653e363b2e55
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,3,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,3,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/732841617,success,Update github-metrics.svg - [Skip GitHub Action],a628f4ae5e864b263fb6df9638c8693448c44396
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,6,1,18,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,6,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,8,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA,NA,NA,NA
@@ -53,7 +53,7 @@ gadenbuie,rocker-verse-metaflow,gadenbuie/rocker-verse-metaflow,2,1,0,0,FALSE,ht
 gadenbuie,rsconf_tweets,gadenbuie/rsconf_tweets,31,3,0,13,FALSE,https://github.com/gadenbuie/rsconf_tweets,31,NA,NA,NA,NA,NA,NA
 gadenbuie,rstats-tweets,gadenbuie/rstats-tweets,2,1,0,0,FALSE,https://github.com/gadenbuie/rstats-tweets,2,NA,NA,NA,NA,NA,NA
 gadenbuie,rstatsnyc-2018-tweets,gadenbuie/rstatsnyc-2018-tweets,3,1,0,0,FALSE,https://github.com/gadenbuie/rstatsnyc-2018-tweets,3,NA,NA,NA,NA,NA,NA
-gadenbuie,rsthemes,gadenbuie/rsthemes,310,6,18,22,FALSE,https://github.com/gadenbuie/rsthemes,310,NA,NA,NA,NA,NA,NA
+gadenbuie,rsthemes,gadenbuie/rsthemes,311,6,18,22,FALSE,https://github.com/gadenbuie/rsthemes,311,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-global-2021-calendar,gadenbuie/rstudio-global-2021-calendar,13,1,1,4,FALSE,https://github.com/gadenbuie/rstudio-global-2021-calendar,13,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-ide-tips,gadenbuie/rstudio-ide-tips,5,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips,5,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,7,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips-demo,7,NA,NA,NA,NA,NA,NA
@@ -68,11 +68,11 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,3,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,29,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/670007904,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,25,2,2,4,FALSE,https://github.com/gadenbuie/status,25,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/731877724,NA,[status] 2021-04-09 04:30:27 UTC,c93c31842e347b18d9aaeaf59406773c7093deda
+gadenbuie,status,gadenbuie/status,25,2,2,4,FALSE,https://github.com/gadenbuie/status,25,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/732998413,NA,[status] 2021-04-09 04:40:47 UTC,8881c93ff481fee93e618ed278b1114abe5d4448
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,567,30,13,97,FALSE,https://github.com/gadenbuie/tidyexplain,567,NA,NA,NA,NA,NA,NA
+gadenbuie,tidyexplain,gadenbuie/tidyexplain,568,30,13,97,FALSE,https://github.com/gadenbuie/tidyexplain,568,NA,NA,NA,NA,NA,NA
 gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,9,1,0,0,FALSE,https://github.com/gadenbuie/tidyjs-r,9,NA,NA,NA,NA,NA,NA
 gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,15,1,0,0,FALSE,https://github.com/gadenbuie/tiktokrmd,15,NA,NA,NA,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,1,0,5,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA,NA,NA,NA
@@ -86,12 +86,12 @@ gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https:
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,14,1,0,9,FALSE,https://github.com/gadenbuie/xaringan-logo,14,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,7,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,7,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,261,6,22,23,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/731851244,success,v0.4.0,f3ab769ccca2a0aa6ce6abc44e5377e02c8492e8
-gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,346,9,6,16,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/731864323,NA,v0.3.3,dd577766840430c02fb602e13f413160f61eb64d
+gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,346,9,6,16,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/731864323,success,v0.3.3,dd577766840430c02fb602e13f413160f61eb64d
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,21,NA,NA,NA,NA,NA,NA
 rstudio-education,gradethis,rstudio-education/gradethis,102,13,27,29,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/690621730,success,Refactor prepare_check_obj_envir() into prepare_check_env() (#238),c89ce91c07c81a96ecbbea14c999d3a92eb28ab0
 rstudio-education,gradethis,rstudio-education/gradethis,102,13,27,29,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/690642544,success,Refactor prepare_check_obj_envir() into prepare_check_env() (#238),c89ce91c07c81a96ecbbea14c999d3a92eb28ab0
-rstudio,learnr,rstudio/learnr,399,29,133,173,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/706088214,success,"Adds ""quick restore"" option (#509)",2f2ba2fc492045d949594b34f3e49ecc87ec4b20
-rstudio,learnr,rstudio/learnr,399,29,133,173,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/488970946,success,"Optionally reveal (or hide) exercise solution (#470)
+rstudio,learnr,rstudio/learnr,399,30,133,173,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/706088214,success,"Adds ""quick restore"" option (#509)",2f2ba2fc492045d949594b34f3e49ecc87ec4b20
+rstudio,learnr,rstudio/learnr,399,30,133,173,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/488970946,success,"Optionally reveal (or hide) exercise solution (#470)
 
 Co-authored-by: Barret Schloerke <barret@rstudio.com>
 Co-authored-by: gadenbuie <gadenbuie@users.noreply.github.com>",b36e840c338f5840185e6fca4a99c25fa899d57f
