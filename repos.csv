@@ -22,9 +22,9 @@ gadenbuie,ermoji,gadenbuie/ermoji,24,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,1,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/949653259,success,Update github-metrics.svg - [Skip GitHub Action],113c8623355e229628495ba5966471441bf3e247
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/951784904,NA,Update github-metrics.svg - [Skip GitHub Action],5fcd870d6e49d9f4e9ec798c1fc9efb4b4c54c95
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
-gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,7,1,19,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,7,NA,NA,NA,NA,NA,NA
+gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,7,1,20,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,7,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,8,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA,NA,NA,NA
 gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,69,3,0,13,FALSE,https://github.com/gadenbuie/gentle-ggplot2,69,NA,NA,NA,NA,NA,NA
 gadenbuie,getcitations,gadenbuie/getcitations,12,1,0,3,FALSE,https://github.com/gadenbuie/getcitations,12,NA,NA,NA,NA,NA,NA
@@ -69,12 +69,12 @@ gadenbuie,snippets,gadenbuie/snippets,13,2,1,5,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,3,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,29,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/948668567,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,27,2,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/949809614,NA,[status] 2021-06-18 04:40:55 UTC,8469275f45e8acca6742772d19be11c9d9e51d3d
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,29,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/951777517,NA,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
+gadenbuie,status,gadenbuie/status,27,2,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/951783013,NA,[status] 2021-06-18 12:19:09 UTC,71753a9b3d002f3289a634f813c29d43b231822c
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,581,30,14,101,FALSE,https://github.com/gadenbuie/tidyexplain,581,NA,NA,NA,NA,NA,NA
+gadenbuie,tidyexplain,gadenbuie/tidyexplain,582,30,14,101,FALSE,https://github.com/gadenbuie/tidyexplain,582,NA,NA,NA,NA,NA,NA
 gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,9,1,0,0,FALSE,https://github.com/gadenbuie/tidyjs-r,9,10540278,https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg,https://github.com/gadenbuie/tidyjs-r/actions/runs/948641526,success,[ci] Add tidyjs workflow update,146ce3888588bf8d93af630d3d3978fdf135686a
 gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,15,1,0,0,FALSE,https://github.com/gadenbuie/tiktokrmd,15,NA,NA,NA,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,24,1,0,6,FALSE,https://github.com/gadenbuie/trug-ggplot2,24,NA,NA,NA,NA,NA,NA
@@ -89,7 +89,7 @@ gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https:
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,14,1,0,9,FALSE,https://github.com/gadenbuie/xaringan-logo,14,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,8,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,8,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,302,8,23,25,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,10367494,https://github.com/gadenbuie/xaringanExtra/workflows/Commands/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/936036185,success,Keep sideways panelset tabs on screen with long-scrolling content (#123),5ca5d1c6dd5af0c9bf3d4d94a792b9184351518d
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,302,8,23,25,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/948675081,success,"roll back to 0.5.2 (#124)
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,302,8,23,25,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/951782401,NA,"roll back to 0.5.2 (#124)
 
 I accidentally incremented the wrong version number",2dfa2e2c72d91761244d4ed3708cfb522de70a4d
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,369,8,7,18,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/948687222,success,Merge pull request #51 from gadenbuie/50-bold-font-weight,ce808c74f5facc69b8b789c4879d54f6338796df
