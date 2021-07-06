@@ -22,11 +22,11 @@ gadenbuie,ermoji,gadenbuie/ermoji,24,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,1,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1003151927,success,Update github-metrics.svg - [Skip GitHub Action],dd69470470e2185f38246e3b800f00c6d870ef50
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,2,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1004176004,success,Update github-metrics.svg - [Skip GitHub Action],970dc72f9bfa24daeeb9d1d3213ff62c96154c46
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,7,1,20,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,7,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,8,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA,NA,NA,NA
-gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,70,3,0,14,FALSE,https://github.com/gadenbuie/gentle-ggplot2,70,NA,NA,NA,NA,NA,NA
+gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,70,3,0,13,FALSE,https://github.com/gadenbuie/gentle-ggplot2,70,NA,NA,NA,NA,NA,NA
 gadenbuie,getcitations,gadenbuie/getcitations,12,1,0,3,FALSE,https://github.com/gadenbuie/getcitations,12,NA,NA,NA,NA,NA,NA
 gadenbuie,ggpomological,gadenbuie/ggpomological,296,9,9,18,FALSE,https://github.com/gadenbuie/ggpomological,296,NA,NA,NA,NA,NA,NA
 gadenbuie,ggweekly,gadenbuie/ggweekly,91,3,0,9,FALSE,https://github.com/gadenbuie/ggweekly,91,NA,NA,NA,NA,NA,NA
@@ -82,7 +82,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,3,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,29,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1003140704,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,27,2,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1003177000,NA,[status] 2021-07-06 04:26:28 UTC,addf9940cb21cd65aa02a050153f7c9d1a61a256
+gadenbuie,status,gadenbuie/status,27,2,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1004346664,NA,[status] 2021-07-06 04:39:18 UTC,c05e32010c3536f155b8d0facca2d7b152353447
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
