@@ -81,8 +81,8 @@ gadenbuie,snippets,gadenbuie/snippets,14,2,1,6,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,3,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,29,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1071767562,NA,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,2,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1071772047,NA,[status] 2021-07-27 12:19:49 UTC,0c6c8160426da71434aace0c650a5738a5769578
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,29,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1071767562,success,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
+gadenbuie,status,gadenbuie/status,27,2,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1071795452,NA,[status] 2021-07-27 15:38:54 UTC,cd3badd6a4e4567bcd5457853e3c5c8a75e22940
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -107,12 +107,12 @@ gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,387,8,9,20,FALSE,https://githu
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,21,NA,NA,NA,NA,NA,NA
 rstudio-education,gradethis,rstudio/gradethis,112,14,30,34,FALSE,https://github.com/rstudio/gradethis,NA,3340437,https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1068673404,failure,Update arguments to `surplus_argument()`,60ad2f8c889ed8f81102433ed0211da83e7e6360
 rstudio-education,gradethis,rstudio/gradethis,112,14,30,34,FALSE,https://github.com/rstudio/gradethis,NA,3574267,https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1068673403,success,Update arguments to `surplus_argument()`,60ad2f8c889ed8f81102433ed0211da83e7e6360
-rstudio,learnr,rstudio/learnr,427,28,139,190,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/1060643133,success,Try to inherit a base R translation if the tutorial language is a variant of a translated language (e.g. `pt` will inherit `pt_BR`),bad1d8a350053465564e850cfe29a5602249f59f
-rstudio,learnr,rstudio/learnr,427,28,139,190,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/1015484666,success,"Make `data/` directory automatically accessible to exercises (#539)
+rstudio,learnr,rstudio/learnr,427,28,140,190,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/1071801310,NA,Support bs4+ popover dispose method,37b7df423ee6db7866029f40249b2b5d4c3074d3
+rstudio,learnr,rstudio/learnr,427,28,140,190,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/1015484666,success,"Make `data/` directory automatically accessible to exercises (#539)
 
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>
 Co-authored-by: Barret Schloerke <barret@rstudio.com>",14d679a91f7afef36442729c8ad5a485918fad98
-rstudio,learnr,rstudio/learnr,427,28,139,190,FALSE,https://github.com/rstudio/learnr,NA,11065885,https://github.com/rstudio/learnr/workflows/Commands/badge.svg,https://github.com/rstudio/learnr/actions/runs/1071776645,skipped,"Move error checking from `render_exercise()` to `evaluate_exercise()` (#544)
+rstudio,learnr,rstudio/learnr,427,28,140,190,FALSE,https://github.com/rstudio/learnr,NA,11065885,https://github.com/rstudio/learnr/workflows/Commands/badge.svg,https://github.com/rstudio/learnr/actions/runs/1071776645,skipped,"Move error checking from `render_exercise()` to `evaluate_exercise()` (#544)
 
 Co-authored-by: rossellhayes <rossellhayes@users.noreply.github.com>
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",cb9ba29c26583ece1f904cd99487a11328edf21d
