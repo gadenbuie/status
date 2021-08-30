@@ -40,7 +40,7 @@ gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,10,1,1,3,FALSE,h
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,2,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,18,1,3,1,FALSE,https://github.com/gadenbuie/lorem,18,NA,NA,NA,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,6,2,5,3,FALSE,https://github.com/gadenbuie/mctestanalysis,6,NA,NA,NA,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,56,2,4,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/1180870604,NA,"Hotfix v1.1.1 (#24)
+gadenbuie,metathis,gadenbuie/metathis,56,2,4,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/1180870604,success,"Hotfix v1.1.1 (#24)
 
 * Increment version number
 
@@ -82,7 +82,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,3,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,30,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1158056150,success,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,2,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1180882982,NA,[status] 2021-08-30 04:26:42 UTC,0b773231e2a2596595a42b8bb375745b2ad5f6b4
+gadenbuie,status,gadenbuie/status,27,2,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1180896214,NA,[status] 2021-08-30 04:29:31 UTC,0f23a83d9850b864522589d1f64d4678465b9d84
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -103,7 +103,7 @@ gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,14,1,0,12,FALSE,https://github.c
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,12,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,12,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,339,9,28,29,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,10367494,https://github.com/gadenbuie/xaringanExtra/workflows/Commands/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1122332240,skipped,v0.5.4,5e2d80bd0c53065cf1c3e55c3f21efb28c44ab5d
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,339,9,28,29,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1180868146,success,v0.5.4,5e2d80bd0c53065cf1c3e55c3f21efb28c44ab5d
-gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,392,8,10,20,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1180882416,NA,Remove trailing comma in `_colors.Rmd` (#64),9f7460eee9d755c32b2417feee7dada79a2a4019
+gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,392,8,10,20,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1180882416,success,Remove trailing comma in `_colors.Rmd` (#64),9f7460eee9d755c32b2417feee7dada79a2a4019
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,21,NA,NA,NA,NA,NA,NA
 rstudio-education,gradethis,rstudio/gradethis,113,15,31,35,FALSE,https://github.com/rstudio/gradethis,NA,3340437,https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1128958984,success,Prefix gradethis functions in default messages (#250),e9b10ae3aa30de377a70f766591bb7153c008f09
 rstudio-education,gradethis,rstudio/gradethis,113,15,31,35,FALSE,https://github.com/rstudio/gradethis,NA,3574267,https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1128958981,failure,Prefix gradethis functions in default messages (#250),e9b10ae3aa30de377a70f766591bb7153c008f09
