@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2021-10-08 04:41:46 UTC
+2021-10-08 12:20:16 UTC
 
 | Repo                                                                    | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                               | Commit                                                                                                                                                                                 |
 | :---------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,9 +18,9 @@ GitHub Dashboard
 | [rstudio/learnr](https://github.com/rstudio/learnr)                     |   453 |          30 |    135 |   202 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/1317960927)                                  | <a href="https://github.com/rstudio/learnr/commit/b000739c03c1e3427fc3e709a49a6626b95365cb" title="Hand off parse error to error checker if one is available (#596)">b00073</a>        |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                     |   453 |          30 |    135 |   202 | [![](https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg)](https://github.com/rstudio/learnr/actions/runs/1163119801)                                | <a href="https://github.com/rstudio/learnr/commit/dc5ef9eab1fd571dbf02416cb604cd4eb2f95b53" title="Detect blanks with `exercise.blanks` opt, and add parse checking (#547)">dc5ef9</a> |
 | [rstudio/learnr](https://github.com/rstudio/learnr)                     |   453 |          30 |    135 |   202 | [![](https://github.com/rstudio/learnr/workflows/Commands/badge.svg)](https://github.com/rstudio/learnr/actions/runs/1317324753)                                     | <a href="https://github.com/rstudio/learnr/commit/325746143d13b80283d2eee88b064e57a52d5669" title="Make Garrick maintainer. Add Alex + Nischal as `ctb` (#588)">325746</a>             |
-| [gadenbuie/status](https://github.com/gadenbuie/status)                 |    27 |           3 |      2 |     4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/1318967705)                          | <a href="https://github.com/gadenbuie/status/commit/d2c96e5d07eaf57de3ab743824213be2a89ccd4a" title="[status] 2021-10-07 12:21:47 UTC">d2c96e</a>                                      |
+| [gadenbuie/status](https://github.com/gadenbuie/status)                 |    27 |           3 |      2 |     4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/1320261337)                          | <a href="https://github.com/gadenbuie/status/commit/1a289f6823a8be9cfbef2f440cb565674f87fe0d" title="[status] 2021-10-08 04:42:25 UTC">1a289f</a>                                      |
 | [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r)             |    11 |           1 |      0 |     0 | [![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/1156929625) | <a href="https://github.com/gadenbuie/tidyjs-r/commit/6bea56d0424f673769faba258f8b5135d6c3a892" title="v2.4.2">6bea56</a>                                                              |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)           |     4 |           1 |      0 |     4 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/1318936205)                            | <a href="https://github.com/gadenbuie/gadenbuie/commit/f1a2980c8cfab66cd738d0163f8b7f3704eced07" title="Update github-metrics.svg - [Skip GitHub Action]">f1a298</a>                   |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie)           |     4 |           1 |      0 |     4 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/1320074924)                            | <a href="https://github.com/gadenbuie/gadenbuie/commit/89b36085725c8f7ef7125d7a981a5adca63ce624" title="Update github-metrics.svg - [Skip GitHub Action]">89b360</a>                   |
 | [gadenbuie/actionTest](https://github.com/gadenbuie/actionTest)         |     0 |           1 |      1 |     0 | [![](https://github.com/gadenbuie/actionTest/workflows/Commands/badge.svg)](https://github.com/gadenbuie/actionTest/actions/runs/900346028)                          | <a href="https://github.com/gadenbuie/actionTest/commit/a823d4a36d20ae7992028e8f40b45357880065a1" title="stringify version">a823d4</a>                                                 |
 
 ## Repos without Github Actions
@@ -29,7 +29,7 @@ GitHub Dashboard
 | :-------------------------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: |
 | [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)                                   |   603 |          30 |     15 |   106 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   434 |          17 |      1 |    23 |
-| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   349 |           5 |     23 |    31 |
+| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   350 |           5 |     23 |    31 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological)                               |   304 |           9 |      9 |    18 |
 | [gadenbuie/countdown](https://github.com/gadenbuie/countdown)                                       |   113 |           5 |      4 |    11 |
 | [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash)                           |   105 |           5 |      6 |    62 |
@@ -94,6 +94,7 @@ GitHub Dashboard
 | [gadenbuie/ms-render-ui-delay](https://github.com/gadenbuie/ms-render-ui-delay)                     |     1 |           1 |      0 |     0 |
 | [gadenbuie/resume](https://github.com/gadenbuie/resume)                                             |     1 |           1 |      2 |     0 |
 | [gadenbuie/speedDate](https://github.com/gadenbuie/speedDate)                                       |     1 |           1 |      0 |     1 |
+| [gadenbuie/usf-boot-camp-R](https://github.com/gadenbuie/usf-boot-camp-R)                           |     1 |           2 |      0 |     2 |
 | [gadenbuie/xaringan-line-focus](https://github.com/gadenbuie/xaringan-line-focus)                   |     1 |           1 |      0 |     0 |
 | [gadenbuie/boostrap-v3-theme-minty](https://github.com/gadenbuie/boostrap-v3-theme-minty)           |     0 |           2 |      1 |     1 |
 | [gadenbuie/covid19-florida-ahca](https://github.com/gadenbuie/covid19-florida-ahca)                 |     0 |           1 |      0 |     0 |
@@ -109,5 +110,4 @@ GitHub Dashboard
 | [gadenbuie/sqrrl](https://github.com/gadenbuie/sqrrl)                                               |     0 |           1 |      1 |     1 |
 | [gadenbuie/tidy-tuesday](https://github.com/gadenbuie/tidy-tuesday)                                 |     0 |           1 |      0 |     0 |
 | [gadenbuie/universe](https://github.com/gadenbuie/universe)                                         |     0 |           1 |      0 |     0 |
-| [gadenbuie/usf-boot-camp-R](https://github.com/gadenbuie/usf-boot-camp-R)                           |     0 |           2 |      0 |     2 |
 | [gadenbuie/xaringan-accessible-plot](https://github.com/gadenbuie/xaringan-accessible-plot)         |     0 |           1 |      0 |     0 |
