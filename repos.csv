@@ -22,7 +22,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,24,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,1,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,4,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1332826870,success,Update github-metrics.svg - [Skip GitHub Action],c4e17d676147bdbd70760bf9e28fef8c82d1f59a
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,4,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1335963128,success,Update github-metrics.svg - [Skip GitHub Action],cb15804c434c5143c4c8927c87c2169716aac04b
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,8,1,19,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,8,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,8,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA,NA,NA,NA
@@ -34,7 +34,7 @@ gadenbuie,grkstyle,gadenbuie/grkstyle,45,2,1,8,FALSE,https://github.com/gadenbui
 gadenbuie,intro-to-git-for-scientists,gadenbuie/intro-to-git-for-scientists,10,1,0,2,FALSE,https://github.com/gadenbuie/intro-to-git-for-scientists,10,NA,NA,NA,NA,NA,NA
 gadenbuie,isg-2018,gadenbuie/isg-2018,0,1,0,0,FALSE,https://github.com/gadenbuie/isg-2018,0,NA,NA,NA,NA,NA,NA
 gadenbuie,iyo-apero-awesome,gadenbuie/iyo-apero-awesome,0,1,0,0,FALSE,https://github.com/gadenbuie/iyo-apero-awesome,0,NA,NA,NA,NA,NA,NA
-gadenbuie,js4shiny,gadenbuie/js4shiny,44,4,2,2,FALSE,https://github.com/gadenbuie/js4shiny,NA,2005499,https://github.com/gadenbuie/js4shiny/workflows/tic/badge.svg,https://github.com/gadenbuie/js4shiny/actions/runs/955868839,failure,Prefix font awesome icons,29bd23560d8f1c8ff39db08495f8eb6fe44e30bc
+gadenbuie,js4shiny,gadenbuie/js4shiny,44,4,2,2,FALSE,https://github.com/gadenbuie/js4shiny,NA,2005499,https://github.com/gadenbuie/js4shiny/workflows/tic/badge.svg,https://github.com/gadenbuie/js4shiny/actions/runs/1333975533,failure,Prefix font awesome icons,29bd23560d8f1c8ff39db08495f8eb6fe44e30bc
 gadenbuie,js4shiny-drumkit,gadenbuie/js4shiny-drumkit,7,1,0,1,FALSE,https://github.com/gadenbuie/js4shiny-drumkit,7,NA,NA,NA,NA,NA,NA
 gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,10,1,1,3,FALSE,https://github.com/gadenbuie/js4shiny-frappeCharts,10,NA,NA,NA,NA,NA,NA
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,2,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA,NA,NA,NA
@@ -68,7 +68,7 @@ gadenbuie,rocker-verse-metaflow,gadenbuie/rocker-verse-metaflow,2,1,0,0,FALSE,ht
 gadenbuie,rsconf_tweets,gadenbuie/rsconf_tweets,30,3,0,13,FALSE,https://github.com/gadenbuie/rsconf_tweets,30,NA,NA,NA,NA,NA,NA
 gadenbuie,rstats-tweets,gadenbuie/rstats-tweets,2,1,0,0,FALSE,https://github.com/gadenbuie/rstats-tweets,2,NA,NA,NA,NA,NA,NA
 gadenbuie,rstatsnyc-2018-tweets,gadenbuie/rstatsnyc-2018-tweets,3,1,0,0,FALSE,https://github.com/gadenbuie/rstatsnyc-2018-tweets,3,NA,NA,NA,NA,NA,NA
-gadenbuie,rsthemes,gadenbuie/rsthemes,352,5,23,32,FALSE,https://github.com/gadenbuie/rsthemes,352,NA,NA,NA,NA,NA,NA
+gadenbuie,rsthemes,gadenbuie/rsthemes,355,5,23,32,FALSE,https://github.com/gadenbuie/rsthemes,355,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-global-2021-calendar,gadenbuie/rstudio-global-2021-calendar,13,1,1,4,FALSE,https://github.com/gadenbuie/rstudio-global-2021-calendar,13,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-ide-tips,gadenbuie/rstudio-ide-tips,5,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips,5,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,7,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips-demo,7,NA,NA,NA,NA,NA,NA
@@ -83,7 +83,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,4,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,33,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1328303794,success,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1333046054,NA,[status] 2021-10-12 04:43:30 UTC,a960929818c301582b3b3b560537f47dff9095f9
+gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1335976674,NA,[status] 2021-10-12 12:21:01 UTC,b627e1e99c4d3bd713c1ffdf6e85c172a8bd07eb
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -102,9 +102,9 @@ gadenbuie,xaringan-club,gadenbuie/xaringan-club,3,1,0,0,FALSE,https://github.com
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,14,1,0,12,FALSE,https://github.com/gadenbuie/xaringan-logo,14,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,12,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,12,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,352,7,29,30,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,10367494,https://github.com/gadenbuie/xaringanExtra/workflows/Commands/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1296837405,skipped,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,352,7,29,30,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1331595851,success,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
-gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,411,8,10,20,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1331609909,success,Fix tests for {testthat} 3.1.0,046187ae846301cfc0cfc83beaef7e7ed214a91b
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,353,7,29,30,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,10367494,https://github.com/gadenbuie/xaringanExtra/workflows/Commands/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1296837405,skipped,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,353,7,29,30,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1335957972,success,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
+gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,412,8,10,20,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1335973278,NA,Fix tests for {testthat} 3.1.0,046187ae846301cfc0cfc83beaef7e7ed214a91b
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,2,0,9,FALSE,https://github.com/gadenbuie/yule-rstudio,21,NA,NA,NA,NA,NA,NA
 rstudio-education,gradethis,rstudio/gradethis,121,15,32,37,FALSE,https://github.com/rstudio/gradethis,NA,3340437,https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1292622104,success,Add alt text to README image (#261),26741c624a5d7d3bf4b14828eca2fb1da13927ff
 rstudio-education,gradethis,rstudio/gradethis,121,15,32,37,FALSE,https://github.com/rstudio/gradethis,NA,3574267,https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1292622107,success,Add alt text to README image (#261),26741c624a5d7d3bf4b14828eca2fb1da13927ff
