@@ -22,7 +22,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,24,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,1,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,4,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1385352044,success,Update github-metrics.svg - [Skip GitHub Action],ffcbe2758564974961ca7c1bfe83cdc388ff6571
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,4,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1388593854,success,Update github-metrics.svg - [Skip GitHub Action],0bf9015c6082b953533d3d165c089ce53b2794d8
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,8,1,19,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,8,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,8,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA,NA,NA,NA
@@ -60,7 +60,7 @@ gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,2,3,0,3,FALSE,https:
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,10,1,0,5,FALSE,https://github.com/gadenbuie/oceanic-eighties,10,NA,NA,NA,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,2,1,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,2,NA,NA,NA,NA,NA,NA
 gadenbuie,r-colors-css,gadenbuie/r-colors-css,8,1,0,2,FALSE,https://github.com/gadenbuie/r-colors-css,8,NA,NA,NA,NA,NA,NA
-gadenbuie,regexplain,gadenbuie/regexplain,436,17,2,23,FALSE,https://github.com/gadenbuie/regexplain,436,NA,NA,NA,NA,NA,NA
+gadenbuie,regexplain,gadenbuie/regexplain,437,17,2,23,FALSE,https://github.com/gadenbuie/regexplain,437,NA,NA,NA,NA,NA,NA
 gadenbuie,renv-wrong-remote-ref,gadenbuie/renv-wrong-remote-ref,0,1,0,0,FALSE,https://github.com/gadenbuie/renv-wrong-remote-ref,0,NA,NA,NA,NA,NA,NA
 gadenbuie,repromonkey,gadenbuie/repromonkey,10,1,4,0,FALSE,https://github.com/gadenbuie/repromonkey,10,NA,NA,NA,NA,NA,NA
 gadenbuie,resume,gadenbuie/resume,1,1,2,0,FALSE,https://github.com/gadenbuie/resume,1,NA,NA,NA,NA,NA,NA
@@ -77,22 +77,22 @@ gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://gi
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,39,2,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,39,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,21,1,1,3,FALSE,https://github.com/gadenbuie/shinyThings,21,NA,NA,NA,NA,NA,NA
 gadenbuie,shrtcts,gadenbuie/shrtcts,76,1,3,3,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/848462154,success,master -> main && Prefix font awesome icons,3a03311a030edff97e906743182b07ede88095a3
-gadenbuie,slides,gadenbuie/slides,16,2,0,11,FALSE,https://github.com/gadenbuie/slides,16,NA,NA,NA,NA,NA,NA
+gadenbuie,slides,gadenbuie/slides,16,2,0,12,FALSE,https://github.com/gadenbuie/slides,16,NA,NA,NA,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,15,2,1,7,FALSE,https://github.com/gadenbuie/snippets,15,NA,NA,NA,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,4,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,33,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1380388106,success,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1385577063,NA,[status] 2021-10-26 04:45:19 UTC,1a3f48c924e4cb020e030b60fca754d8e640f022
+gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1388611116,NA,[status] 2021-10-26 12:21:15 UTC,adbe964735de3cc50b697c165f2a6d72bc3f0c42
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,604,30,15,106,FALSE,https://github.com/gadenbuie/tidyexplain,604,NA,NA,NA,NA,NA,NA
+gadenbuie,tidyexplain,gadenbuie/tidyexplain,604,30,15,107,FALSE,https://github.com/gadenbuie/tidyexplain,604,NA,NA,NA,NA,NA,NA
 gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,11,1,0,0,FALSE,https://github.com/gadenbuie/tidyjs-r,11,10540278,https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg,https://github.com/gadenbuie/tidyjs-r/actions/runs/1156929625,success,v2.4.2,6bea56d0424f673769faba258f8b5135d6c3a892
 gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,16,1,0,0,FALSE,https://github.com/gadenbuie/tiktokrmd,16,NA,NA,NA,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,24,1,0,6,FALSE,https://github.com/gadenbuie/trug-ggplot2,24,NA,NA,NA,NA,NA,NA
 gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,1,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA,NA,NA,NA
-gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,106,5,6,62,FALSE,https://github.com/gadenbuie/tweet-conf-dash,106,NA,NA,NA,NA,NA,NA
+gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,106,5,6,63,FALSE,https://github.com/gadenbuie/tweet-conf-dash,106,NA,NA,NA,NA,NA,NA
 gadenbuie,tweetrmd,gadenbuie/tweetrmd,82,3,5,8,FALSE,https://github.com/gadenbuie/tweetrmd,82,NA,NA,NA,NA,NA,NA
 gadenbuie,tweets-of-the-year,gadenbuie/tweets-of-the-year,16,1,4,2,FALSE,https://github.com/gadenbuie/tweets-of-the-year,16,NA,NA,NA,NA,NA,NA
 gadenbuie,universe,gadenbuie/universe,0,1,0,0,FALSE,https://github.com/gadenbuie/universe,0,NA,NA,NA,NA,NA,NA
@@ -102,15 +102,35 @@ gadenbuie,xaringan-club,gadenbuie/xaringan-club,3,1,0,0,FALSE,https://github.com
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,15,1,0,13,FALSE,https://github.com/gadenbuie/xaringan-logo,15,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,12,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,12,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,355,7,29,31,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,10367494,https://github.com/gadenbuie/xaringanExtra/workflows/Commands/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1365881075,skipped,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,355,7,29,31,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1384079683,success,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
-gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,419,8,10,22,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1384094353,success,Fix pkgdown link title for 0.3.0 release,22429e71e70bb1ccbd3a0a781200193f43dcca44
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,356,7,29,31,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,10367494,https://github.com/gadenbuie/xaringanExtra/workflows/Commands/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1365881075,skipped,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,356,7,29,31,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1388589265,success,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
+gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,419,8,10,22,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1388604258,NA,"Update {tic} workflow, deploy pkgdown from ubuntu",42da40c62a82984a0f37d88d9ef8352c15741367
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,2,0,9,FALSE,https://github.com/gadenbuie/yule-rstudio,21,NA,NA,NA,NA,NA,NA
 rstudio-education,gradethis,rstudio/gradethis,121,15,33,36,FALSE,https://github.com/rstudio/gradethis,NA,3340437,https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1292622104,success,Add alt text to README image (#261),26741c624a5d7d3bf4b14828eca2fb1da13927ff
 rstudio-education,gradethis,rstudio/gradethis,121,15,33,36,FALSE,https://github.com/rstudio/gradethis,NA,3574267,https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1292622107,success,Add alt text to README image (#261),26741c624a5d7d3bf4b14828eca2fb1da13927ff
-rstudio,learnr,rstudio/learnr,458,31,138,202,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/1356588150,success,update docs,8b3182129c7be41679802c75307de56cd522b2b2
-rstudio,learnr,rstudio/learnr,458,31,138,202,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/1163119801,success,"Detect blanks with `exercise.blanks` opt, and add parse checking (#547)
+rstudio,learnr,rstudio/learnr,458,31,137,202,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/1387451838,success,Don't run default error checker unless other checking was requested (#605),edf14b50895a7d8cc07056b79d7c0219f0caa6bf
+rstudio,learnr,rstudio/learnr,458,31,137,202,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/1163119801,success,"Detect blanks with `exercise.blanks` opt, and add parse checking (#547)
 
 Co-authored-by: Alex Rossell Hayes <alexander@rossellhayes.com>
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",dc5ef9eab1fd571dbf02416cb604cd4eb2f95b53
-rstudio,learnr,rstudio/learnr,458,31,138,202,FALSE,https://github.com/rstudio/learnr,NA,11065885,https://github.com/rstudio/learnr/workflows/Commands/badge.svg,https://github.com/rstudio/learnr/actions/runs/1372678770,skipped,Refactor tutorial knitr hooks and set them in the tutorial format (#599),27f28545b3d649bdcfe70e4f737514fb120f5393
+rstudio,learnr,rstudio/learnr,458,31,137,202,FALSE,https://github.com/rstudio/learnr,NA,11065885,https://github.com/rstudio/learnr/workflows/Commands/badge.svg,https://github.com/rstudio/learnr/actions/runs/1387338115,skipped,"Do not allow for completions inside comments (#604)
+
+* Do not allow for completions inside comments
+
+* Move autocompletion logic to new file/function for testing
+
+Also move comment checking to top. It does not matter if it is within a quote or not, the result is still ""no autocompletion"". So move the logic to the top to avoid performing unnecessary actions.
+
+* Add tests
+
+* Add more tests using test local envs
+
+* Add news entry
+
+* Add failing test for end-of-line comment detection
+
+* Add `detect_comments()` with additional tests
+
+* Qualify utils::tail()
+
+Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",f1d0ec9bd7023fe684c0c8c803eb9b779ea492b7
