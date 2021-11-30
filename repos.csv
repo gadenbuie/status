@@ -23,7 +23,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,24,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,1,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1515653535,success,Update github-metrics.svg - [Skip GitHub Action],62a6e07df890ef2c24e13b89f98d17153ed94c36
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1519186161,success,Update github-metrics.svg - [Skip GitHub Action],ff551b7d020bd27f995c2e632334be9e42475112
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,8,1,20,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,8,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA,NA,NA,NA
@@ -69,7 +69,7 @@ gadenbuie,rocker-verse-metaflow,gadenbuie/rocker-verse-metaflow,2,1,0,0,FALSE,ht
 gadenbuie,rsconf_tweets,gadenbuie/rsconf_tweets,30,3,0,13,FALSE,https://github.com/gadenbuie/rsconf_tweets,30,NA,NA,NA,NA,NA,NA
 gadenbuie,rstats-tweets,gadenbuie/rstats-tweets,2,1,0,0,FALSE,https://github.com/gadenbuie/rstats-tweets,2,NA,NA,NA,NA,NA,NA
 gadenbuie,rstatsnyc-2018-tweets,gadenbuie/rstatsnyc-2018-tweets,3,1,0,0,FALSE,https://github.com/gadenbuie/rstatsnyc-2018-tweets,3,NA,NA,NA,NA,NA,NA
-gadenbuie,rsthemes,gadenbuie/rsthemes,382,5,22,31,FALSE,https://github.com/gadenbuie/rsthemes,382,NA,NA,NA,NA,NA,NA
+gadenbuie,rsthemes,gadenbuie/rsthemes,383,5,22,31,FALSE,https://github.com/gadenbuie/rsthemes,383,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-global-2021-calendar,gadenbuie/rstudio-global-2021-calendar,13,1,1,4,FALSE,https://github.com/gadenbuie/rstudio-global-2021-calendar,13,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-ide-tips,gadenbuie/rstudio-ide-tips,5,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips,5,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,7,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips-demo,7,NA,NA,NA,NA,NA,NA
@@ -84,7 +84,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,4,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1515232353,failure,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1515882390,NA,[status] 2021-11-29 04:37:11 UTC,79918475aa6fb0be4a0ca337ca3de6798e1350c5
+gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1519222794,NA,[status] 2021-11-29 12:23:28 UTC,e5911a31e118c28c71030696841a2d71faa908d0
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -104,7 +104,7 @@ gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https:
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,15,1,0,13,FALSE,https://github.com/gadenbuie/xaringan-logo,15,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,13,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,13,NA,NA,NA,NA,NA,NA
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,371,7,30,31,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,10367494,https://github.com/gadenbuie/xaringanExtra/workflows/Commands/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1488528854,skipped,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,371,7,30,31,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1514441147,success,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,371,7,30,31,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/1519181222,NA,[scribble] Hide controls in print media (#139),cc1f613b6c41fc1ee8d14e66e5b0b237703fb75f
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,426,8,9,22,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,15493306,https://github.com/gadenbuie/xaringanthemer/workflows/R-CMD-check/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1487516938,success,Bump version to 0.4.1,fb8ca3d99448e05d379f40b6beca9ec64119ec7f
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,426,8,9,22,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,15493307,https://github.com/gadenbuie/xaringanthemer/workflows/Package%20Maintenance/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1487516940,success,Bump version to 0.4.1,fb8ca3d99448e05d379f40b6beca9ec64119ec7f
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,426,8,9,22,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,15493308,https://github.com/gadenbuie/xaringanthemer/workflows/pkgdown/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1487516936,success,Bump version to 0.4.1,fb8ca3d99448e05d379f40b6beca9ec64119ec7f
@@ -112,12 +112,12 @@ gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,2,0,9,FALSE,https://github.com/
 rstudio-education,gradethis,rstudio/gradethis,121,15,34,36,FALSE,https://github.com/rstudio/gradethis,NA,3340437,https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1482974634,success,Replace `rlang::is_installed()` with base equivalent,b55308ddf628d04cdedd088e846215adcc15bd63
 rstudio-education,gradethis,rstudio/gradethis,121,15,34,36,FALSE,https://github.com/rstudio/gradethis,NA,14968387,https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1482974626,success,Replace `rlang::is_installed()` with base equivalent,b55308ddf628d04cdedd088e846215adcc15bd63
 rstudio-education,gradethis,rstudio/gradethis,121,15,34,36,FALSE,https://github.com/rstudio/gradethis,NA,3574267,https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio/gradethis/actions/runs/1482974633,success,Replace `rlang::is_installed()` with base equivalent,b55308ddf628d04cdedd088e846215adcc15bd63
-rstudio,learnr,rstudio/learnr,467,31,138,203,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/1500899641,success,"Update tutorial pandoc template for head content in header-includes
+rstudio,learnr,rstudio/learnr,468,31,139,203,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/1500899641,success,"Update tutorial pandoc template for head content in header-includes
 
 In preparation for upcoming changes in rmarkdown that will move the dynamically inserted `HEAD_CONTENT` to the end of the `header-includes` list.",42ebf79d51d3ff206d8deb35d1fedb0267ff87a3
-rstudio,learnr,rstudio/learnr,467,31,138,203,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/1472587174,success,"Add `stage` argument to tell checking functions what type of check is being performed (#610)
+rstudio,learnr,rstudio/learnr,468,31,139,203,FALSE,https://github.com/rstudio/learnr,NA,4584552,https://github.com/rstudio/learnr/workflows/Render%20docs/badge.svg,https://github.com/rstudio/learnr/actions/runs/1472587174,success,"Add `stage` argument to tell checking functions what type of check is being performed (#610)
 
 Co-authored-by: rossellhayes <rossellhayes@users.noreply.github.com>",2cb52ae1e786a169ae00434e96d8c5fdd7f0081d
-rstudio,learnr,rstudio/learnr,467,31,138,203,FALSE,https://github.com/rstudio/learnr,NA,11065885,https://github.com/rstudio/learnr/workflows/Commands/badge.svg,https://github.com/rstudio/learnr/actions/runs/1506925039,skipped,"Add `stage` argument to tell checking functions what type of check is being performed (#610)
+rstudio,learnr,rstudio/learnr,468,31,139,203,FALSE,https://github.com/rstudio/learnr,NA,11065885,https://github.com/rstudio/learnr/workflows/Commands/badge.svg,https://github.com/rstudio/learnr/actions/runs/1517088787,skipped,"Add `stage` argument to tell checking functions what type of check is being performed (#610)
 
 Co-authored-by: rossellhayes <rossellhayes@users.noreply.github.com>",2cb52ae1e786a169ae00434e96d8c5fdd7f0081d
