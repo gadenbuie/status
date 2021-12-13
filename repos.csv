@@ -41,7 +41,7 @@ gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,10,1,1,3,FALSE,h
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,2,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,18,1,3,2,FALSE,https://github.com/gadenbuie/lorem,18,NA,NA,NA,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,6,2,7,2,FALSE,https://github.com/gadenbuie/mctestanalysis,6,NA,NA,NA,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,58,2,5,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/1571329822,NA,"Hotfix v1.1.1 (#24)
+gadenbuie,metathis,gadenbuie/metathis,58,2,5,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/1571329822,cancelled,"Hotfix v1.1.1 (#24)
 
 * Increment version number
 
@@ -84,7 +84,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,4,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1543903911,success,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1571343987,NA,[status] 2021-12-12 12:21:02 UTC,a1b7e9a9b84fdb76bc5d7ac353952595bc24cc9a
+gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1571353067,NA,[status] 2021-12-13 04:31:04 UTC,ded25c78d00a36106ebb2f734fa1e681fe06443e
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
