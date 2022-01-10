@@ -23,7 +23,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,25,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,1,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,4,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1676641384,success,Update github-metrics.svg - [Skip GitHub Action],f938e20034da6939769153cccbd7bdf6767035e7
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,4,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/1677081772,success,Update github-metrics.svg - [Skip GitHub Action],4e2bc84e648662572611f91a418651bcc99d8060
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,8,1,21,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,8,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA,NA,NA,NA
@@ -73,8 +73,8 @@ gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,1,0,1,FALSE,https://
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,39,2,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,39,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,22,1,1,3,FALSE,https://github.com/gadenbuie/shinyThings,22,NA,NA,NA,NA,NA,NA
-gadenbuie,shrtcts,gadenbuie/shrtcts,81,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/1675804475,NA,docs: Poppins not Montserrat,58d3887ecdd34e54e33bee0fbd061f6e8002b870
-gadenbuie,shrtcts,gadenbuie/shrtcts,81,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,17584737,https://github.com/gadenbuie/shrtcts/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/1671410814,success,"Deploy from Github Actions build 1671391015 [ci skip]
+gadenbuie,shrtcts,gadenbuie/shrtcts,82,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/1675804475,failure,docs: Poppins not Montserrat,58d3887ecdd34e54e33bee0fbd061f6e8002b870
+gadenbuie,shrtcts,gadenbuie/shrtcts,82,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,17584737,https://github.com/gadenbuie/shrtcts/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/1671410814,success,"Deploy from Github Actions build 1671391015 [ci skip]
 
 Build URL: https://github.com/gadenbuie/shrtcts/actions/runs/1671391015
 Commit: 58d3887ecdd34e54e33bee0fbd061f6e8002b870",c7ab33f23552f8a4c978c25d9403cdca1d100618
@@ -83,9 +83,9 @@ gadenbuie,snippets,gadenbuie/snippets,16,2,1,7,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,4,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1676638494,NA,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1676682350,NA,[status] 2022-01-10 06:21:38 UTC,e9d0a0d1deb66e6b84f70e2f2af3be494086ad58
-gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,16409201,https://github.com/gadenbuie/status/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/status/actions/runs/1676097248,success,[status] 2022-01-10 06:21:38 UTC,e9d0a0d1deb66e6b84f70e2f2af3be494086ad58
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1676638494,success,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
+gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1677323644,NA,[status] 2022-01-10 09:32:02 UTC,66dfdf88f77532f693754f1c801442cf667057e4
+gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,16409201,https://github.com/gadenbuie/status/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/status/actions/runs/1676691559,success,[status] 2022-01-10 09:32:02 UTC,66dfdf88f77532f693754f1c801442cf667057e4
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
