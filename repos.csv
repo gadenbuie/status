@@ -45,11 +45,11 @@ gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,10,1,1,3,FALSE,h
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,2,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,18,1,3,2,FALSE,https://github.com/gadenbuie/lorem,18,NA,NA,NA,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,6,2,7,2,FALSE,https://github.com/gadenbuie/mctestanalysis,6,NA,NA,NA,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,59,2,5,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/1738048454,NA,new pkgdown theme,2ce85ec9b81995c8da41119c23bfe27fbe4fd35c
-gadenbuie,metathis,gadenbuie/metathis,59,2,5,2,FALSE,https://github.com/gadenbuie/metathis,NA,16581485,https://github.com/gadenbuie/metathis/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/1706292901,success,"Deploy from Github Actions build 1706275705 [ci skip]
+gadenbuie,metathis,gadenbuie/metathis,59,2,5,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/1738048454,success,new pkgdown theme,2ce85ec9b81995c8da41119c23bfe27fbe4fd35c
+gadenbuie,metathis,gadenbuie/metathis,59,2,5,2,FALSE,https://github.com/gadenbuie/metathis,NA,16581485,https://github.com/gadenbuie/metathis/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/1738078807,success,"Deploy from Github Actions build 1738048454 [ci skip]
 
-Build URL: https://github.com/gadenbuie/metathis/actions/runs/1706275705
-Commit: 2ce85ec9b81995c8da41119c23bfe27fbe4fd35c",7fccc677d790baeedd80c79ba0bbd00b4746a8de
+Build URL: https://github.com/gadenbuie/metathis/actions/runs/1738048454
+Commit: 2ce85ec9b81995c8da41119c23bfe27fbe4fd35c",3a1439328dc9ae5b5d7f617df74211176fb7cb4d
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,2,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,2,NA,NA,NA,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,47,4,0,26,FALSE,https://github.com/gadenbuie/mueller-report,47,NA,NA,NA,NA,NA,NA
@@ -86,8 +86,8 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,4,0,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/1707168832,success,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1738063775,NA,[status] 2022-01-24 04:26:06 UTC,c8123f9232cc56750221a27791a0060d89d69c74
-gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,16409201,https://github.com/gadenbuie/status/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/status/actions/runs/1738062825,success,[status] 2022-01-24 04:26:06 UTC,c8123f9232cc56750221a27791a0060d89d69c74
+gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/1738078876,NA,[status] 2022-01-24 04:29:10 UTC,17bfb5bdb4abbd72266eab9738e2fd90198fb7c4
+gadenbuie,status,gadenbuie/status,27,3,2,4,FALSE,https://github.com/gadenbuie/status,27,16409201,https://github.com/gadenbuie/status/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/status/actions/runs/1738070771,success,[status] 2022-01-24 04:29:10 UTC,17bfb5bdb4abbd72266eab9738e2fd90198fb7c4
 gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
