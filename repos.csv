@@ -23,12 +23,12 @@ gadenbuie,ermoji,gadenbuie/ermoji,25,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/2102065265,success,Update github-metrics.svg - [Skip GitHub Action],b332468eddfb255de3800c64285b6892d14ab76b
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/2108514853,success,Update github-metrics.svg - [Skip GitHub Action],de16047f86f26e6d89810b5d0b1d41662f57f644
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,8,1,27,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,8,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,1,3,3,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA,NA,NA,NA
 gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,75,3,0,20,FALSE,https://github.com/gadenbuie/gentle-ggplot2,75,NA,NA,NA,NA,NA,NA
-gadenbuie,getcitations,gadenbuie/getcitations,13,1,0,3,FALSE,https://github.com/gadenbuie/getcitations,13,NA,NA,NA,NA,NA,NA
+gadenbuie,getcitations,gadenbuie/getcitations,13,1,1,4,FALSE,https://github.com/gadenbuie/getcitations,13,NA,NA,NA,NA,NA,NA
 gadenbuie,ggpomological,gadenbuie/ggpomological,314,9,11,21,FALSE,https://github.com/gadenbuie/ggpomological,314,NA,NA,NA,NA,NA,NA
 gadenbuie,ggweekly,gadenbuie/ggweekly,97,3,0,11,FALSE,https://github.com/gadenbuie/ggweekly,97,NA,NA,NA,NA,NA,NA
 gadenbuie,grkgdown,gadenbuie/grkgdown,0,1,0,0,FALSE,https://github.com/gadenbuie/grkgdown,0,21593707,https://github.com/gadenbuie/grkgdown/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/grkgdown/actions/runs/1966917212,success,rerender docs,28fbf7cafda119191c2fc7ce9cd8ab4d048949f7
@@ -55,7 +55,7 @@ gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://
 gadenbuie,msglooker,gadenbuie/msglooker,2,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,2,NA,NA,NA,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,47,4,0,26,FALSE,https://github.com/gadenbuie/mueller-report,47,NA,NA,NA,NA,NA,NA
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,2,3,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,2,NA,NA,NA,NA,NA,NA
-gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,10,1,0,5,FALSE,https://github.com/gadenbuie/oceanic-eighties,10,NA,NA,NA,NA,NA,NA
+gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,11,1,0,5,FALSE,https://github.com/gadenbuie/oceanic-eighties,11,NA,NA,NA,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,2,1,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,2,NA,NA,NA,NA,NA,NA
 gadenbuie,pkgDocsWorkflowTest,gadenbuie/pkgDocsWorkflowTest,0,1,0,0,FALSE,https://github.com/gadenbuie/pkgDocsWorkflowTest,0,17697096,https://github.com/gadenbuie/pkgDocsWorkflowTest/workflows/pkgdown/badge.svg,https://github.com/gadenbuie/pkgDocsWorkflowTest/actions/runs/1679456881,success,"Filter tags to v1, v1.2, or v1.2.3 only",c14d6fd2ba1e3e1afdc979f531c7dffb529419ef
 gadenbuie,pkgDocsWorkflowTest,gadenbuie/pkgDocsWorkflowTest,0,1,0,0,FALSE,https://github.com/gadenbuie/pkgDocsWorkflowTest,0,17704666,https://github.com/gadenbuie/pkgDocsWorkflowTest/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/pkgDocsWorkflowTest/actions/runs/1679468888,success,Built site for testpackage: 0.0.1.9001@c14d6fd,dab83b1721db1803cf5e4caef362fc1093e47f36
@@ -91,8 +91,8 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,4,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/2088850047,failure,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,3,3,5,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/2102394608,NA,[status] 2022-04-05 12:24:43 UTC,20a4435b42a7f10d111f5926930828e54ce97288
-gadenbuie,status,gadenbuie/status,27,3,3,5,FALSE,https://github.com/gadenbuie/status,27,16409201,https://github.com/gadenbuie/status/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/status/actions/runs/2096107793,success,[status] 2022-04-05 12:24:43 UTC,20a4435b42a7f10d111f5926930828e54ce97288
+gadenbuie,status,gadenbuie/status,27,3,3,5,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/2108861143,NA,[status] 2022-04-06 12:27:16 UTC,3514c8307ce9229b185dc05d27700e6d568277e8
+gadenbuie,status,gadenbuie/status,27,3,3,5,FALSE,https://github.com/gadenbuie/status,27,16409201,https://github.com/gadenbuie/status/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/status/actions/runs/2102409067,success,[status] 2022-04-06 12:27:16 UTC,3514c8307ce9229b185dc05d27700e6d568277e8
 gadenbuie,synamyn,gadenbuie/synamyn,10,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
@@ -103,7 +103,7 @@ gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,17,1,0,0,FALSE,https://github.com/gadenb
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,24,1,0,7,FALSE,https://github.com/gadenbuie/trug-ggplot2,24,NA,NA,NA,NA,NA,NA
 gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,1,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA,NA,NA,NA
 gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,111,5,6,70,FALSE,https://github.com/gadenbuie/tweet-conf-dash,111,NA,NA,NA,NA,NA,NA
-gadenbuie,tweetrmd,gadenbuie/tweetrmd,89,3,5,9,FALSE,https://github.com/gadenbuie/tweetrmd,89,NA,NA,NA,NA,NA,NA
+gadenbuie,tweetrmd,gadenbuie/tweetrmd,90,3,5,9,FALSE,https://github.com/gadenbuie/tweetrmd,90,NA,NA,NA,NA,NA,NA
 gadenbuie,tweets-of-the-year,gadenbuie/tweets-of-the-year,16,1,4,2,FALSE,https://github.com/gadenbuie/tweets-of-the-year,16,NA,NA,NA,NA,NA,NA
 gadenbuie,universe,gadenbuie/universe,0,1,0,0,FALSE,https://github.com/gadenbuie/universe,0,NA,NA,NA,NA,NA,NA
 gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,1,2,0,3,FALSE,https://github.com/gadenbuie/usf-boot-camp-R,1,NA,NA,NA,NA,NA,NA
@@ -123,11 +123,11 @@ gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,2,0,9,FALSE,https://github.com/
 rstudio-education,gradethis,rstudio/gradethis,136,17,42,44,FALSE,https://github.com/rstudio/gradethis,NA,3340437,https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/gradethis/actions/runs/2061070238,success,Attemp to construct `solution_code_all` in `grade_code()` if it's missing (#302),64254b04e035fe5be61a09441d3ea7121c5da258
 rstudio-education,gradethis,rstudio/gradethis,136,17,42,44,FALSE,https://github.com/rstudio/gradethis,NA,17088127,https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg,https://github.com/rstudio/gradethis/actions/runs/2061070273,success,Attemp to construct `solution_code_all` in `grade_code()` if it's missing (#302),64254b04e035fe5be61a09441d3ea7121c5da258
 rstudio-education,gradethis,rstudio/gradethis,136,17,42,44,FALSE,https://github.com/rstudio/gradethis,NA,3574267,https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio/gradethis/actions/runs/2061070251,success,Attemp to construct `solution_code_all` in `grade_code()` if it's missing (#302),64254b04e035fe5be61a09441d3ea7121c5da258
-rstudio,learnr,rstudio/learnr,503,32,145,215,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/2033218823,action_required,add random-pharses,59023fc858d5347aeba3deb603913827412926f2
-rstudio,learnr,rstudio/learnr,503,32,145,215,FALSE,https://github.com/rstudio/learnr,NA,11065885,https://github.com/rstudio/learnr/workflows/Commands/badge.svg,https://github.com/rstudio/learnr/actions/runs/2072921714,skipped,"Allow whitespace after code headers in `split_code_headers()` (#678)
+rstudio,learnr,rstudio/learnr,504,32,145,215,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/2033218823,action_required,add random-pharses,59023fc858d5347aeba3deb603913827412926f2
+rstudio,learnr,rstudio/learnr,504,32,145,215,FALSE,https://github.com/rstudio/learnr,NA,11065885,https://github.com/rstudio/learnr/workflows/Commands/badge.svg,https://github.com/rstudio/learnr/actions/runs/2072921714,skipped,"Allow whitespace after code headers in `split_code_headers()` (#678)
 
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",1c01ac258230cbe217eee16c77cc71924faab1d3
-rstudio,learnr,rstudio/learnr,503,32,145,215,FALSE,https://github.com/rstudio/learnr,NA,17031284,https://github.com/rstudio/learnr/workflows/pages-build-deployment/badge.svg,https://github.com/rstudio/learnr/actions/runs/2006193471,success,Built site for learnr: 0.10.1.9020@1c01ac2,3e8e892252cfe07b5af9edb94c69457c3439b8ac
-rstudio,learnr,rstudio/learnr,503,32,145,215,FALSE,https://github.com/rstudio/learnr,NA,21678104,https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg,https://github.com/rstudio/learnr/actions/runs/2006171882,success,"Allow whitespace after code headers in `split_code_headers()` (#678)
+rstudio,learnr,rstudio/learnr,504,32,145,215,FALSE,https://github.com/rstudio/learnr,NA,17031284,https://github.com/rstudio/learnr/workflows/pages-build-deployment/badge.svg,https://github.com/rstudio/learnr/actions/runs/2006193471,success,Built site for learnr: 0.10.1.9020@1c01ac2,3e8e892252cfe07b5af9edb94c69457c3439b8ac
+rstudio,learnr,rstudio/learnr,504,32,145,215,FALSE,https://github.com/rstudio/learnr,NA,21678104,https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg,https://github.com/rstudio/learnr/actions/runs/2006171882,success,"Allow whitespace after code headers in `split_code_headers()` (#678)
 
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",1c01ac258230cbe217eee16c77cc71924faab1d3
