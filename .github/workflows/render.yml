@@ -22,23 +22,40 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 2 # This is important to set for `git diff-tree` to work below
-      - uses: r-lib/actions/setup-r@v1
+
+      - uses: r-lib/actions/setup-r@v2
         with:
           r-version: '4.0.3'
-      - uses: r-lib/actions/setup-pandoc@v1
+
+      - uses: r-lib/actions/setup-pandoc@v2
+
       - name: Install system dependencies
         run: |
           sudo apt-get install -y libcurl4-openssl-dev
+
       - name: Install dependencies
         run: |
           install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
-          options(repos = c(REPO_NAME = "https://packagemanager.rstudio.com/all/__linux__/bionic/latest"))
-          pak::pkg_install(c("rmarkdown", "gh", "memoise", "purrr", "dplyr", "tidyr", "glue", "readr"))
+          options(repos = c(
+            RSPM = "https://packagemanager.rstudio.com/all/__linux__/bionic/latest",
+            gadenbuie = 'https://gadenbuie.r-universe.dev'
+          ))
+          pak::pkg_install(c("rmarkdown", "gh", "memoise", "purrr", "dplyr", "tidyr", "glue", "readr", "cleanrmd"))
         shell: Rscript {0}
+
       - name: Render Status Page
         run: |
-          RMD_PATH=$(ls -r *.Rmd)
-          Rscript -e 'for (file in commandArgs(TRUE)) rmarkdown::render(file)' ${RMD_PATH[*]}
+          # render readme
+          rmarkdown::render("README.Rmd")
+          # render status index.html
+          rmarkdown::render(
+            "README.Rmd",
+            output_file = "index.html",
+            output_format = cleanrmd::html_document_clean(theme = "stylize"),
+            params = list(set_main_width = TRUE)
+          )
+        shell: Rscript {0}
+
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"

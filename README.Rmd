@@ -1,6 +1,8 @@
 ---
 title: "GitHub Dashboard"
 output: github_document
+params:
+  set_main_width: false
 # provide user name to include all public, non-fork repos from the owner
 all_by_owner: gadenbuie
 # the repository where this repo exists
@@ -31,7 +33,9 @@ library(glue)
 ```
 
 ```{r gh-get-repos}
-source("gh-repo-info.R")
+if (!exists("gh_get_repo_status")) {
+  source("gh-repo-info.R")
+}
 
 metadata <- 
   if (interactive()) {
@@ -61,6 +65,7 @@ repos %>%
     commit_message = map_chr(commit_message, ~ strsplit(.x, "\n")[[1]][1]),
     commit_id_6 = substr(commit_id, 1, 6)
   ) %>%
+  arrange(desc(stargazers_count)) %>%
   transmute(
     Repo = glue("[{full_name}]({html_url_repo})"),
     Stars = stargazers_count,
@@ -79,6 +84,7 @@ cat("## Repos without Github Actions")
 repos %>% 
   select_if(negate(is.list)) %>%
   filter(is.na(badge)) %>%
+  arrange(desc(stargazers_count)) %>%
   transmute(
     Repo = glue("[{full_name}]({html_url_repo})"),
     Stars = stargazers_count,
@@ -89,3 +95,6 @@ repos %>%
   knitr::kable(escape = FALSE)
 ```
 
+```{css eval=isTRUE(params$set_main_width)}
+main { max-width: 54em; }
+```
