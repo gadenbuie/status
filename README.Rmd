@@ -33,8 +33,15 @@ library(glue)
 ```{r gh-get-repos}
 source("gh-repo-info.R")
 
-repo_list <- rmarkdown::metadata$repos
-owner <- rmarkdown::metadata$all_by_owner
+metadata <- 
+  if (interactive()) {
+    rmarkdown::yaml_front_matter("README.Rmd") 
+  } else {
+    rmarkdown::metadata
+  }
+
+repo_list <- metadata$repos
+owner <- metadata$all_by_owner
 if (!is.character(owner) && length(owner) == 1) {
   warning("`all_by_owner` should be a single GitHub user account")
   owner <- NULL
@@ -42,25 +49,25 @@ if (!is.character(owner) && length(owner) == 1) {
 
 repos <- gh_get_repo_status(repo_list, all_by_owner = owner)
 
-has_repos_without_actions <- any(is.na(repos$badge_url))
+has_repos_without_actions <- any(is.na(repos$badge))
 ```
 
 ```{r repo-status}
 repos %>% 
   select_if(negate(is.list)) %>%
   # repos with Github Actions have badges
-  filter(!is.na(badge_url)) %>%
+  filter(!is.na(badge)) %>%
   mutate(
     commit_message = map_chr(commit_message, ~ strsplit(.x, "\n")[[1]][1]),
     commit_id_6 = substr(commit_id, 1, 6)
-  ) %>% 
+  ) %>%
   transmute(
     Repo = glue("[{full_name}]({html_url_repo})"),
     Stars = stargazers_count,
     Subscribers = subscribers_count,
     Issues = open_issues_count,
     Forks = forks_count,
-    Status = ifelse(!is.na(badge_url), glue("[![]({badge_url})]({html_url_run})"), ""),
+    Status = ifelse(!is.na(badge), badge, ""),
     Commit = glue('<a href="{html_url_repo}/commit/{commit_id}" title="{commit_message}">{commit_id_6}</a>')
   ) %>% 
   knitr::kable(escape = FALSE)
@@ -71,7 +78,7 @@ cat("## Repos without Github Actions")
 
 repos %>% 
   select_if(negate(is.list)) %>%
-  filter(is.na(badge_url)) %>%
+  filter(is.na(badge)) %>%
   transmute(
     Repo = glue("[{full_name}]({html_url_repo})"),
     Stars = stargazers_count,
