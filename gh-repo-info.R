@@ -122,7 +122,7 @@ gh_get_repo_status <- function(
 
   workflows <-
     workflows %>%
-    filter(event %in% c("push", "scheduled")) %>%
+    filter(event %in% c("push", "schedule")) %>%
     mutate(badge = glue::glue("[![]({badge_url})]({html_url_run})")) %>%
     group_by(owner, repo, commit_id, commit_message) %>%
     summarize(badge = paste(badge, collapse = " ")) %>%
