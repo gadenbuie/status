@@ -3,6 +3,7 @@ on:
     paths:
       - '**.Rmd'
       - '.github/workflows/*'
+  workflow_dispatch:
   schedule:
     # daily in the morning for America/New_York (hours in UTC)
     - cron: '0 12 * * *'
