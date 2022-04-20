@@ -1,0 +1,31 @@
+# - name: Update status dashboard
+#   uses: gadenbuie/status/actions/status-update-rcmdcheck@main
+#   with:
+#     github-token-repo-scope: ${{ secrets.GITHUB_STATUS_UPDATE_TOKEN }}
+#     status-repo: gadenbuie/status
+
+name: Update Status
+description: Trigger a status dashboard update
+
+inputs:
+  github-token-repo-scope:
+    type: string
+    required: true
+  status-repo:
+    type: string
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: "[Status] Update dashboard at ${{ inputs.status-repo }}"
+      uses: peter-evans/repository-dispatch@v1
+      if: |
+        (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main') &&
+        matrix.config.os == 'ubuntu-latest' &&
+        matrix.config.r == 'release'
+      with:
+        token: ${{ inputs.github-token-repo-scope }}
+        event-type: status-update
+        repository: ${{ inputs.status-repo }}
+        client-payload: '{"repo": "${{ github.repository }} "}'

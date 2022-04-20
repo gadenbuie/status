@@ -57,9 +57,17 @@ jobs:
           )
         shell: Rscript {0}
 
-      - name: Commit results
+      - name: Config git
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+
+      - name: Commit status update
+        if: github.event_name != "repository_dispatch"
           git commit --all -m "[status] $(date +'%F %T %Z')" || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
+
+      - name: Commit dispatched status update
+        if: github.event_name != "repository_dispatch"
+          git commit --all -m "[status] ${{ github.event.client_payload.repo }}$(date +'%F %T %Z')" || echo "No changes to commit"
           git push origin || echo "No changes to commit"
