@@ -18,7 +18,7 @@ gadenbuie,docker-snowplowr,gadenbuie/docker-snowplowr,0,1,0,0,FALSE,https://gith
 gadenbuie,DragDrop,gadenbuie/DragDrop,0,0,0,0,FALSE,https://github.com/gadenbuie/DragDrop,0,NA,NA,NA
 gadenbuie,drake-intro,gadenbuie/drake-intro,14,2,1,5,FALSE,https://github.com/gadenbuie/drake-intro,14,NA,NA,NA
 gadenbuie,drake-rstudio-jobs-example,gadenbuie/drake-rstudio-jobs-example,5,1,0,0,FALSE,https://github.com/gadenbuie/drake-rstudio-jobs-example,5,NA,NA,NA
-gadenbuie,epoxy,gadenbuie/epoxy,107,3,4,6,FALSE,https://github.com/gadenbuie/epoxy,107,2b96250d109f6857653ae484ad74a5f6c06797ed,small hex logo tweak,[![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2221515790) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2221515770) [![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2221515772)
+gadenbuie,epoxy,gadenbuie/epoxy,107,3,5,6,FALSE,https://github.com/gadenbuie/epoxy,107,1599e25167c8a76a0332fb4cbeaff99b887c59b1,"Remove ""expirmental"" from description",[![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2221587315) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2221587295) [![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2221587312)
 gadenbuie,ermoji,gadenbuie/ermoji,25,1,0,1,FALSE,https://github.com/gadenbuie/ermoji,25,NA,NA,NA
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
@@ -67,7 +67,7 @@ gadenbuie,rstudio-ide-tips,gadenbuie/rstudio-ide-tips,5,1,0,1,FALSE,https://gith
 gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,7,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips-demo,7,NA,NA,NA
 gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,1,0,1,FALSE,https://github.com/gadenbuie/rstudioAddinFriend,5,NA,NA,NA
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA
-gadenbuie,shinyComponents,gadenbuie/shinyComponents,41,2,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,41,NA,NA,NA
+gadenbuie,shinyComponents,gadenbuie/shinyComponents,42,2,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,42,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,22,1,1,3,FALSE,https://github.com/gadenbuie/shinyThings,22,NA,NA,NA
 gadenbuie,shrtcts,gadenbuie/shrtcts,93,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,12ef67f860ede6e8989abbaeca9147cc73cc3877,v0.1.2,[![](https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/2217982374)
 gadenbuie,slides,gadenbuie/slides,18,2,0,17,FALSE,https://github.com/gadenbuie/slides,18,NA,NA,NA
