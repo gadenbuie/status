@@ -37,7 +37,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,0a0099f605b06a7db559525584b0cd4e7a6b6ffd,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2263477456)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,cc4a937f8ea63ee9ce6b0d3818b85e39feae854f,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2269400215)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,8,1,26,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,8,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,1,3,3,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
@@ -58,7 +58,7 @@ gadenbuie,lorem,gadenbuie/lorem,18,1,3,2,FALSE,https://github.com/gadenbuie/lore
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,6,2,7,2,FALSE,https://github.com/gadenbuie/mctestanalysis,6,NA,NA,NA
 gadenbuie,metathis,gadenbuie/metathis,59,2,5,3,FALSE,https://github.com/gadenbuie/metathis,NA,2ce85ec9b81995c8da41119c23bfe27fbe4fd35c,new pkgdown theme,[![](https://github.com/gadenbuie/metathis/workflows/tic/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/2256074337)
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
-gadenbuie,msglooker,gadenbuie/msglooker,2,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,2,NA,NA,NA
+gadenbuie,msglooker,gadenbuie/msglooker,3,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,3,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,47,4,0,26,FALSE,https://github.com/gadenbuie/mueller-report,47,NA,NA,NA
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,2,3,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,2,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,11,1,0,5,FALSE,https://github.com/gadenbuie/oceanic-eighties,11,NA,NA,NA
@@ -75,7 +75,7 @@ gadenbuie,rsconf_tweets,gadenbuie/rsconf_tweets,30,3,0,13,FALSE,https://github.c
 gadenbuie,rsprefs,gadenbuie/rsprefs,7,2,0,0,FALSE,https://github.com/gadenbuie/rsprefs,7,5f0d07787d47564ce33386951512b5836fa57a3a,Fix github navbar link,[![](https://github.com/gadenbuie/rsprefs/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/2177592057) [![](https://github.com/gadenbuie/rsprefs/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/2177592053)
 gadenbuie,rstats-tweets,gadenbuie/rstats-tweets,2,1,0,0,FALSE,https://github.com/gadenbuie/rstats-tweets,2,NA,NA,NA
 gadenbuie,rstatsnyc-2018-tweets,gadenbuie/rstatsnyc-2018-tweets,3,1,0,0,FALSE,https://github.com/gadenbuie/rstatsnyc-2018-tweets,3,NA,NA,NA
-gadenbuie,rsthemes,gadenbuie/rsthemes,441,6,26,39,FALSE,https://github.com/gadenbuie/rsthemes,441,NA,NA,NA
+gadenbuie,rsthemes,gadenbuie/rsthemes,442,6,26,39,FALSE,https://github.com/gadenbuie/rsthemes,442,NA,NA,NA
 gadenbuie,rstudio-global-2021-calendar,gadenbuie/rstudio-global-2021-calendar,13,1,1,4,FALSE,https://github.com/gadenbuie/rstudio-global-2021-calendar,13,NA,NA,NA
 gadenbuie,rstudio-ide-tips,gadenbuie/rstudio-ide-tips,5,1,0,1,FALSE,https://github.com/gadenbuie/rstudio-ide-tips,5,NA,NA,NA
 gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,7,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips-demo,7,NA,NA,NA
@@ -90,11 +90,11 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,b6339df02e2a2394120ddf36d74b746d1f141f33,Update {tic} badge in README (#5),[![](https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/2257035583)
-gadenbuie,status,gadenbuie/status,27,3,1,5,FALSE,https://github.com/gadenbuie/status,27,2a781a9c1675a415f441659a1395e872d2cda90e,[status] 2022-05-02 12:18:12 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/2263724006)
+gadenbuie,status,gadenbuie/status,27,3,1,5,FALSE,https://github.com/gadenbuie/status,27,aa15d0b54082b805e9253a3787fe98043cc0f037,[status] 2022-05-03 12:18:39 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/2269675487)
 gadenbuie,synamyn,gadenbuie/synamyn,10,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,638,27,12,115,FALSE,https://github.com/gadenbuie/tidyexplain,638,NA,NA,NA
+gadenbuie,tidyexplain,gadenbuie/tidyexplain,640,27,12,115,FALSE,https://github.com/gadenbuie/tidyexplain,640,NA,NA,NA
 gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,12,1,0,0,FALSE,https://github.com/gadenbuie/tidyjs-r,12,9efea655ee07664a42729d8c5e4aa729fdf12633,v2.4.5,[![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/2255641218)
 gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,17,1,0,0,FALSE,https://github.com/gadenbuie/tiktokrmd,17,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,1,0,7,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA
