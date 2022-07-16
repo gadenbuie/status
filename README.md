@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2022-07-16 12:05:49 UTC
+2022-07-16 12:14:22 UTC
 
 | Repo                                                                              | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Commit                                                                                                                                                                               |
 |:----------------------------------------------------------------------------------|------:|------------:|-------:|------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ GitHub Dashboard
 | [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain)                                   |   655 |          27 |     12 |   116 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   462 |          17 |      2 |    24 |
 | [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes)                                         |   453 |           6 |     27 |    39 |
-| [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra)                               |   425 |           9 |     39 |    34 |
+| [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra)                               |   425 |           9 |     38 |    34 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological)                               |   320 |           9 |     11 |    21 |
 | [gadenbuie/countdown](https://github.com/gadenbuie/countdown)                                       |   123 |           5 |      5 |    11 |
 | [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash)                           |   113 |           6 |      6 |    69 |
