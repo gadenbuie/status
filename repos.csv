@@ -18,12 +18,12 @@ gadenbuie,docker-snowplowr,gadenbuie/docker-snowplowr,0,1,0,0,FALSE,https://gith
 gadenbuie,DragDrop,gadenbuie/DragDrop,0,0,0,0,FALSE,https://github.com/gadenbuie/DragDrop,0,NA,NA,NA
 gadenbuie,drake-intro,gadenbuie/drake-intro,14,2,1,5,FALSE,https://github.com/gadenbuie/drake-intro,14,NA,NA,NA
 gadenbuie,drake-rstudio-jobs-example,gadenbuie/drake-rstudio-jobs-example,5,1,0,0,FALSE,https://github.com/gadenbuie/drake-rstudio-jobs-example,5,NA,NA,NA
-gadenbuie,epoxy,gadenbuie/epoxy,126,2,5,7,FALSE,https://github.com/gadenbuie/epoxy,126,ccea8f601ab6b5de94f305ee3e060dc67193d1b2,chore: Don't depend on {stats} or include doc functions in coverage,[![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2418930978)
+gadenbuie,epoxy,gadenbuie/epoxy,127,2,5,7,FALSE,https://github.com/gadenbuie/epoxy,127,ccea8f601ab6b5de94f305ee3e060dc67193d1b2,chore: Don't depend on {stats} or include doc functions in coverage,[![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2418930978)
 gadenbuie,ermoji,gadenbuie/ermoji,26,1,0,1,FALSE,https://github.com/gadenbuie/ermoji,26,NA,NA,NA
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,c4fb697b8cc2881fec0cdd86fc9ad34c4b277240,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2704304321)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,3c1a21d02747845a43f336804ef78c20f85ba303,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2711352903)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,9,1,29,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,9,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
@@ -61,7 +61,7 @@ gadenbuie,rsconf_tweets,gadenbuie/rsconf_tweets,30,3,0,13,FALSE,https://github.c
 gadenbuie,rsprefs,gadenbuie/rsprefs,7,2,0,0,FALSE,https://github.com/gadenbuie/rsprefs,7,5b31dc9a7a6ddbe7fc80ecf04c6ef239b419f61c,Update rstudio prefs,[![](https://github.com/gadenbuie/rsprefs/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/2657796218) [![](https://github.com/gadenbuie/rsprefs/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/2657796217)
 gadenbuie,rstats-tweets,gadenbuie/rstats-tweets,2,1,0,0,FALSE,https://github.com/gadenbuie/rstats-tweets,2,NA,NA,NA
 gadenbuie,rstatsnyc-2018-tweets,gadenbuie/rstatsnyc-2018-tweets,3,1,0,0,FALSE,https://github.com/gadenbuie/rstatsnyc-2018-tweets,3,NA,NA,NA
-gadenbuie,rsthemes,gadenbuie/rsthemes,454,6,27,39,FALSE,https://github.com/gadenbuie/rsthemes,454,NA,NA,NA
+gadenbuie,rsthemes,gadenbuie/rsthemes,455,6,27,39,FALSE,https://github.com/gadenbuie/rsthemes,455,NA,NA,NA
 gadenbuie,rstudio-global-2021-calendar,gadenbuie/rstudio-global-2021-calendar,13,1,1,4,FALSE,https://github.com/gadenbuie/rstudio-global-2021-calendar,13,NA,NA,NA
 gadenbuie,rstudio-ide-tips,gadenbuie/rstudio-ide-tips,5,1,0,1,FALSE,https://github.com/gadenbuie/rstudio-ide-tips,5,NA,NA,NA
 gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,7,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips-demo,7,NA,NA,NA
@@ -76,7 +76,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,b6339df02e2a2394120ddf36d74b746d1f141f33,Update {tic} badge in README (#5),[![](https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/2689461067)
-gadenbuie,status,gadenbuie/status,26,3,1,5,FALSE,https://github.com/gadenbuie/status,26,77a7bad66918f253d35581492247e2b4dbce0690,[status] 2022-07-19 12:20:35 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/2704628980)
+gadenbuie,status,gadenbuie/status,26,3,1,5,FALSE,https://github.com/gadenbuie/status,26,4c7feae5d909b9c02a70c3ac22ae6890f9a62537,[status] 2022-07-20 12:18:08 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/2711672226)
 gadenbuie,synamyn,gadenbuie/synamyn,10,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
