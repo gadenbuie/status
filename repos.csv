@@ -23,7 +23,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,5532fb7c3af92679a96bc3feb13892883f64fe3b,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2788975595)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,f74f2eb005331c72775c8145a62422a4b0af8406,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2796216928)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,10,1,29,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,10,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
@@ -32,7 +32,7 @@ gadenbuie,getcitations,gadenbuie/getcitations,14,1,0,4,FALSE,https://github.com/
 gadenbuie,ggpomological,gadenbuie/ggpomological,320,9,11,21,FALSE,https://github.com/gadenbuie/ggpomological,320,NA,NA,NA
 gadenbuie,ggweekly,gadenbuie/ggweekly,99,3,0,11,FALSE,https://github.com/gadenbuie/ggweekly,99,NA,NA,NA
 gadenbuie,grkgdown,gadenbuie/grkgdown,0,1,0,0,FALSE,https://github.com/gadenbuie/grkgdown,0,NA,NA,NA
-gadenbuie,grkstyle,gadenbuie/grkstyle,64,2,2,11,FALSE,https://github.com/gadenbuie/grkstyle,64,5d29abb02b9d4f91d420b084e08382e836e6ff46,v0.2.1,[![](https://github.com/gadenbuie/grkstyle/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/grkstyle/actions/runs/2617542055)
+gadenbuie,grkstyle,gadenbuie/grkstyle,69,2,2,11,FALSE,https://github.com/gadenbuie/grkstyle,69,5d29abb02b9d4f91d420b084e08382e836e6ff46,v0.2.1,[![](https://github.com/gadenbuie/grkstyle/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/grkstyle/actions/runs/2617542055)
 gadenbuie,intro-to-git-for-scientists,gadenbuie/intro-to-git-for-scientists,11,1,0,2,FALSE,https://github.com/gadenbuie/intro-to-git-for-scientists,11,NA,NA,NA
 gadenbuie,isg-2018,gadenbuie/isg-2018,0,1,0,0,FALSE,https://github.com/gadenbuie/isg-2018,0,NA,NA,NA
 gadenbuie,iyo-apero-awesome,gadenbuie/iyo-apero-awesome,0,1,0,0,FALSE,https://github.com/gadenbuie/iyo-apero-awesome,0,NA,NA,NA
@@ -70,13 +70,13 @@ gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://gi
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,43,2,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,43,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,23,1,1,3,FALSE,https://github.com/gadenbuie/shinyThings,23,NA,NA,NA
 gadenbuie,shrtcts,gadenbuie/shrtcts,97,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,12ef67f860ede6e8989abbaeca9147cc73cc3877,v0.1.2,[![](https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/2772425702)
-gadenbuie,slides,gadenbuie/slides,19,3,0,17,FALSE,https://github.com/gadenbuie/slides,19,NA,NA,NA
+gadenbuie,slides,gadenbuie/slides,19,3,0,16,FALSE,https://github.com/gadenbuie/slides,19,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,17,1,1,6,FALSE,https://github.com/gadenbuie/snippets,17,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,b6339df02e2a2394120ddf36d74b746d1f141f33,Update {tic} badge in README (#5),[![](https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/2773741498)
-gadenbuie,status,gadenbuie/status,26,3,1,5,FALSE,https://github.com/gadenbuie/status,26,9ca30a8dd188e4f9f9b5053bff332545a011c3b7,[status] 2022-08-02 12:21:56 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/2789311735)
+gadenbuie,status,gadenbuie/status,26,3,1,5,FALSE,https://github.com/gadenbuie/status,26,276fbd423f15673b96f05771343b42933dec23c1,[status] 2022-08-03 12:18:15 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/2796539345)
 gadenbuie,synamyn,gadenbuie/synamyn,10,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
@@ -86,7 +86,7 @@ gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,18,1,0,0,FALSE,https://github.com/gadenb
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,1,0,7,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA
 gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,1,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA
 gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,113,6,6,69,FALSE,https://github.com/gadenbuie/tweet-conf-dash,113,NA,NA,NA
-gadenbuie,tweetrmd,gadenbuie/tweetrmd,93,3,5,11,FALSE,https://github.com/gadenbuie/tweetrmd,93,NA,NA,NA
+gadenbuie,tweetrmd,gadenbuie/tweetrmd,94,3,5,11,FALSE,https://github.com/gadenbuie/tweetrmd,94,NA,NA,NA
 gadenbuie,tweets-of-the-year,gadenbuie/tweets-of-the-year,16,1,4,2,FALSE,https://github.com/gadenbuie/tweets-of-the-year,16,NA,NA,NA
 gadenbuie,universe,gadenbuie/universe,0,1,0,0,FALSE,https://github.com/gadenbuie/universe,0,NA,NA,NA
 gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,1,2,0,3,FALSE,https://github.com/gadenbuie/usf-boot-camp-R,1,NA,NA,NA
@@ -98,5 +98,5 @@ gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,14,1,0,1,FALSE,https
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,424,9,36,35,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,5ebc3f05143ba3f199f63c0ce7e37778115ebb4b,v0.7.0 (#180),[![](https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg)](https://github.com/gadenbuie/xaringanExtra/actions/runs/2772732920)
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,433,9,9,25,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,10d67c898f40175f944054a34236b69753c0f7f9,docs: poppins for headings,[![](https://github.com/gadenbuie/xaringanthemer/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/1671399796) [![](https://github.com/gadenbuie/xaringanthemer/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/1671399797) [![](https://github.com/gadenbuie/xaringanthemer/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/1671399795)
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,22,2,0,9,FALSE,https://github.com/gadenbuie/yule-rstudio,22,NA,NA,NA
-rstudio-education,gradethis,rstudio/gradethis,147,16,38,45,FALSE,https://github.com/rstudio/gradethis,NA,b42f81d027b8074d8e2924e70ddb7376efc19144,Error checker follows global `fail.hint` option (#315),[![](https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/2650331000) [![](https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/2650331031) [![](https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/2650330994)
-rstudio,learnr,rstudio/learnr,528,31,137,219,FALSE,https://github.com/rstudio/learnr,NA,5cefff90953a168f241b96673852cbeaafebd4c1,fix: Reset `indent` chunk option during render (#717),[![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/2775605760) [![](https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg)](https://github.com/rstudio/learnr/actions/runs/2775605762)
+rstudio-education,gradethis,rstudio/gradethis,147,16,38,44,FALSE,https://github.com/rstudio/gradethis,NA,b42f81d027b8074d8e2924e70ddb7376efc19144,Error checker follows global `fail.hint` option (#315),[![](https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/2650331000) [![](https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/2650331031) [![](https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/2650330994)
+rstudio,learnr,rstudio/learnr,528,31,138,219,FALSE,https://github.com/rstudio/learnr,NA,8d1384ab3a7e24a64c823f456c72ab6121be4d9e,Account for question `type` possibly being a vector (#721),[![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/2791150474)
