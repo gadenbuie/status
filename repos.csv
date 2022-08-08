@@ -23,7 +23,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,1,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,38cbd95912cd1354a07306d1a7bdab30eeef8dec,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2812414419)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,00d4b1cacc080cb1bd430b6ee4937537b06c8688,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2815428650)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,10,1,29,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,10,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
@@ -36,13 +36,13 @@ gadenbuie,grkstyle,gadenbuie/grkstyle,74,2,3,12,FALSE,https://github.com/gadenbu
 gadenbuie,intro-to-git-for-scientists,gadenbuie/intro-to-git-for-scientists,11,1,0,2,FALSE,https://github.com/gadenbuie/intro-to-git-for-scientists,11,NA,NA,NA
 gadenbuie,isg-2018,gadenbuie/isg-2018,0,1,0,0,FALSE,https://github.com/gadenbuie/isg-2018,0,NA,NA,NA
 gadenbuie,iyo-apero-awesome,gadenbuie/iyo-apero-awesome,0,1,0,0,FALSE,https://github.com/gadenbuie/iyo-apero-awesome,0,NA,NA,NA
-gadenbuie,js4shiny,gadenbuie/js4shiny,50,4,2,2,FALSE,https://github.com/gadenbuie/js4shiny,NA,e7d2e9b55032452f532c8dc9ad069edd16b811ed,Match pkgdown docs to my site styles (#21),[![](https://github.com/gadenbuie/js4shiny/workflows/tic/badge.svg)](https://github.com/gadenbuie/js4shiny/actions/runs/2772421566)
+gadenbuie,js4shiny,gadenbuie/js4shiny,50,4,2,2,FALSE,https://github.com/gadenbuie/js4shiny,NA,e7d2e9b55032452f532c8dc9ad069edd16b811ed,Match pkgdown docs to my site styles (#21),[![](https://github.com/gadenbuie/js4shiny/workflows/tic/badge.svg)](https://github.com/gadenbuie/js4shiny/actions/runs/2815406987)
 gadenbuie,js4shiny-drumkit,gadenbuie/js4shiny-drumkit,7,1,0,1,FALSE,https://github.com/gadenbuie/js4shiny-drumkit,7,NA,NA,NA
 gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,10,1,1,3,FALSE,https://github.com/gadenbuie/js4shiny-frappeCharts,10,NA,NA,NA
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,2,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,19,1,3,2,FALSE,https://github.com/gadenbuie/lorem,19,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,6,2,7,2,FALSE,https://github.com/gadenbuie/mctestanalysis,6,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,59,2,4,3,FALSE,https://github.com/gadenbuie/metathis,NA,46a8c19c2e7362a236f8310c57c891a052c34de3,ci(pkgdown): Ensure we don't clean the docs from the last release,[![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/2772433061) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/2482116545)
+gadenbuie,metathis,gadenbuie/metathis,59,2,4,3,FALSE,https://github.com/gadenbuie/metathis,NA,46a8c19c2e7362a236f8310c57c891a052c34de3,ci(pkgdown): Ensure we don't clean the docs from the last release,[![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/2815422468) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/2482116545)
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,3,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,3,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,47,4,0,26,FALSE,https://github.com/gadenbuie/mueller-report,47,NA,NA,NA
@@ -69,19 +69,19 @@ gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,1,0,0,FALSE,https://
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,43,2,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,43,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,23,1,1,3,FALSE,https://github.com/gadenbuie/shinyThings,23,NA,NA,NA
-gadenbuie,shrtcts,gadenbuie/shrtcts,97,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,12ef67f860ede6e8989abbaeca9147cc73cc3877,v0.1.2,[![](https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/2772425702)
+gadenbuie,shrtcts,gadenbuie/shrtcts,97,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,12ef67f860ede6e8989abbaeca9147cc73cc3877,v0.1.2,[![](https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/2815410627)
 gadenbuie,slides,gadenbuie/slides,19,3,0,16,FALSE,https://github.com/gadenbuie/slides,19,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,17,1,1,6,FALSE,https://github.com/gadenbuie/snippets,17,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,b6339df02e2a2394120ddf36d74b746d1f141f33,Update {tic} badge in README (#5),[![](https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/2773741498)
-gadenbuie,status,gadenbuie/status,26,3,1,5,FALSE,https://github.com/gadenbuie/status,26,8a039a2b6adf889b30db6670b98fa6e0695b89b4,[status] 2022-08-06 12:15:52 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/2812570238)
+gadenbuie,status,gadenbuie/status,26,3,1,5,FALSE,https://github.com/gadenbuie/status,26,NA,NA,NA
 gadenbuie,synamyn,gadenbuie/synamyn,10,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
 gadenbuie,tidyexplain,gadenbuie/tidyexplain,660,28,12,116,FALSE,https://github.com/gadenbuie/tidyexplain,660,NA,NA,NA
-gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,14,1,0,0,FALSE,https://github.com/gadenbuie/tidyjs-r,14,abe516d9379d8481693c818f3a62ecf8411115c7,v2.4.6,[![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/2771858938)
+gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,14,1,0,0,FALSE,https://github.com/gadenbuie/tidyjs-r,14,abe516d9379d8481693c818f3a62ecf8411115c7,v2.4.6,[![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/2814920560)
 gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,18,1,0,0,FALSE,https://github.com/gadenbuie/tiktokrmd,18,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,1,0,7,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA
 gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,1,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA
