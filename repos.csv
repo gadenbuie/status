@@ -42,7 +42,7 @@ gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,10,1,1,3,FALSE,h
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,2,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,19,1,3,2,FALSE,https://github.com/gadenbuie/lorem,19,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,6,2,7,2,FALSE,https://github.com/gadenbuie/mctestanalysis,6,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,59,2,4,3,FALSE,https://github.com/gadenbuie/metathis,NA,ec21f8da7e45268d0b8dbec11aadadbd0686df09,docs: Redocument with roxygen2 7.2.1,[![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/2841013938) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/2841013940)
+gadenbuie,metathis,gadenbuie/metathis,59,2,4,3,FALSE,https://github.com/gadenbuie/metathis,NA,ec21f8da7e45268d0b8dbec11aadadbd0686df09,docs: Redocument with roxygen2 7.2.1,[![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/2841200640) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/2841200648)
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,3,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,3,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,47,4,0,26,FALSE,https://github.com/gadenbuie/mueller-report,47,NA,NA,NA
