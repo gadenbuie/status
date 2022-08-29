@@ -18,12 +18,12 @@ gadenbuie,docker-snowplowr,gadenbuie/docker-snowplowr,0,2,0,0,FALSE,https://gith
 gadenbuie,DragDrop,gadenbuie/DragDrop,0,1,0,0,FALSE,https://github.com/gadenbuie/DragDrop,0,NA,NA,NA
 gadenbuie,drake-intro,gadenbuie/drake-intro,14,3,1,5,FALSE,https://github.com/gadenbuie/drake-intro,14,NA,NA,NA
 gadenbuie,drake-rstudio-jobs-example,gadenbuie/drake-rstudio-jobs-example,5,2,0,0,FALSE,https://github.com/gadenbuie/drake-rstudio-jobs-example,5,NA,NA,NA
-gadenbuie,epoxy,gadenbuie/epoxy,136,3,6,7,FALSE,https://github.com/gadenbuie/epoxy,136,6af551fda1a16e8e25671f7a5e8f794869d92837,chore: use CRAN release of `and` (#48),[![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2943012440) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2943012432) [![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2943012426)
+gadenbuie,epoxy,gadenbuie/epoxy,137,3,6,7,FALSE,https://github.com/gadenbuie/epoxy,137,6af551fda1a16e8e25671f7a5e8f794869d92837,chore: use CRAN release of `and` (#48),[![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2943012440) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2943012432) [![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/2943012426)
 gadenbuie,ermoji,gadenbuie/ermoji,26,2,0,1,FALSE,https://github.com/gadenbuie/ermoji,26,NA,NA,NA
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,1,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,2,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,2,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,2,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,4013b03eb4d835fa85a6eae2c6c19f89681d83d4,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2947369305)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,2,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,9c42873698360b88dd80feaa5e86a2e31691ef83,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/2948076191)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,2,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,10,2,29,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,10,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,2,4,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
@@ -76,11 +76,11 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,2,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,2,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,2,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,2,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,b6339df02e2a2394120ddf36d74b746d1f141f33,Update {tic} badge in README (#5),[![](https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/2947334806)
-gadenbuie,status,gadenbuie/status,26,4,1,5,FALSE,https://github.com/gadenbuie/status,26,NA,NA,NA
+gadenbuie,status,gadenbuie/status,26,4,1,5,FALSE,https://github.com/gadenbuie/status,26,c0fa556b8e6f3cc7ccf35dae59e6aab4856cb2ea,[status] 2022-08-29 09:24:13 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/2948430835)
 gadenbuie,synamyn,gadenbuie/synamyn,10,2,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,1,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,2,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,664,28,12,118,FALSE,https://github.com/gadenbuie/tidyexplain,664,NA,NA,NA
+gadenbuie,tidyexplain,gadenbuie/tidyexplain,665,28,12,118,FALSE,https://github.com/gadenbuie/tidyexplain,665,NA,NA,NA
 gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,14,2,0,0,FALSE,https://github.com/gadenbuie/tidyjs-r,14,6fa12090a1b594e7e9913b4becd764271314b2ff,v2.5.1,[![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/2945536460)
 gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,18,2,0,0,FALSE,https://github.com/gadenbuie/tiktokrmd,18,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,2,0,7,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA
