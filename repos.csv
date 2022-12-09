@@ -23,9 +23,9 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,2,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,1,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,2,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,2,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,2,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,965d01ac3ebd2fc062bde23e65186c9b9a400951,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/3647745456)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,2,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,a6efbd7ccaf57a5c22129b35a24f9fbf585a6c6c,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/3656860786)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,2,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
-gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,10,2,33,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,10,NA,NA,NA
+gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,10,2,32,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,10,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,2,4,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
 gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,81,4,0,19,FALSE,https://github.com/gadenbuie/gentle-ggplot2,81,NA,NA,NA
 gadenbuie,getcitations,gadenbuie/getcitations,14,2,0,4,FALSE,https://github.com/gadenbuie/getcitations,14,NA,NA,NA
@@ -59,7 +59,7 @@ gadenbuie,repromonkey,gadenbuie/repromonkey,12,2,4,0,FALSE,https://github.com/ga
 gadenbuie,resume,gadenbuie/resume,1,2,4,0,FALSE,https://github.com/gadenbuie/resume,1,NA,NA,NA
 gadenbuie,rocker-verse-metaflow,gadenbuie/rocker-verse-metaflow,2,2,0,0,FALSE,https://github.com/gadenbuie/rocker-verse-metaflow,2,NA,NA,NA
 gadenbuie,rsconf_tweets,gadenbuie/rsconf_tweets,30,4,0,13,FALSE,https://github.com/gadenbuie/rsconf_tweets,30,NA,NA,NA
-gadenbuie,rsprefs,gadenbuie/rsprefs,8,3,0,0,FALSE,https://github.com/gadenbuie/rsprefs,8,36a573b4f36cdf72b6ca212e5688dbbde4932803,Re-document,[![](https://github.com/gadenbuie/rsprefs/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/3329511543) [![](https://github.com/gadenbuie/rsprefs/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/3329511560)
+gadenbuie,rsprefs,gadenbuie/rsprefs,8,3,0,0,FALSE,https://github.com/gadenbuie/rsprefs,8,cc88d731d5f1dbee17c4e251397ca73b645390c9,2022-12-08 update prefs,[![](https://github.com/gadenbuie/rsprefs/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/3654131930) [![](https://github.com/gadenbuie/rsprefs/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/3654131929)
 gadenbuie,rstats-tweets,gadenbuie/rstats-tweets,2,2,0,0,FALSE,https://github.com/gadenbuie/rstats-tweets,2,NA,NA,NA
 gadenbuie,rstatsnyc-2018-tweets,gadenbuie/rstatsnyc-2018-tweets,3,2,0,0,FALSE,https://github.com/gadenbuie/rstatsnyc-2018-tweets,3,NA,NA,NA
 gadenbuie,rsthemes,gadenbuie/rsthemes,475,7,26,39,FALSE,https://github.com/gadenbuie/rsthemes,475,NA,NA,NA
@@ -76,8 +76,8 @@ gadenbuie,snippets,gadenbuie/snippets,18,2,1,6,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,1,2,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,2,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,2,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,2,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,d008c78962cdb2b5fe3e3f757cd7f6b65ddb3ec5,Use gadenbuie/status/actions/status-update-rcmdcheck,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/3644908824) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/3644908835)
-gadenbuie,status,gadenbuie/status,31,4,2,6,FALSE,https://github.com/gadenbuie/status,31,ae67f329d465d0c7ce0b1480f74a0d3e83e3f3e1,[status] gadenbuie/js4shiny 2022-12-08 03:19:40 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/3648141280)
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,2,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,1421b5fa7ce7fd0e41ebcf94cc8698adc5fb2bbb,New pkgdown site and small readme updates,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/3649990348) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/3649990339)
+gadenbuie,status,gadenbuie/status,31,4,2,6,FALSE,https://github.com/gadenbuie/status,31,1f3e76611030d11cd8abc2e3f203d47e83352320,[status] 2022-12-08 12:16:43 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/3657226860)
 gadenbuie,synamyn,gadenbuie/synamyn,10,2,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,1,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,2,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
@@ -103,4 +103,4 @@ rstudio-education,gradethis,rstudio/gradethis,153,17,40,40,FALSE,https://github.
 
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>
 Co-authored-by: rossellhayes <rossellhayes@users.noreply.github.com>",[![](https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/3333729000) [![](https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/3333729029) [![](https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/3333729001)
-rstudio,learnr,rstudio/learnr,564,31,137,226,FALSE,https://github.com/rstudio/learnr,NA,cb378b274f75568ea0649ce855a752a121d70d77,Increment version number to 0.11.2.9000,[![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/3423117091) [![](https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg)](https://github.com/rstudio/learnr/actions/runs/3423117096)
+rstudio,learnr,rstudio/learnr,565,31,137,226,FALSE,https://github.com/rstudio/learnr,NA,cb378b274f75568ea0649ce855a752a121d70d77,Increment version number to 0.11.2.9000,[![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/3423117091) [![](https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg)](https://github.com/rstudio/learnr/actions/runs/3423117096)
