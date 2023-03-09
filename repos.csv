@@ -23,7 +23,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,2,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,1,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,2,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,2,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,5,2,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,5,38c22105070b31de39598d77dec56400d803eedb,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/4373837956)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,5,2,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,5,dbeb37fe6bc7b7e45bb6a35cd4b219f56485c8d1,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/4374955796)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,2,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,11,2,32,6,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,11,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,2,4,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
@@ -40,7 +40,8 @@ gadenbuie,js4shiny,gadenbuie/js4shiny,51,5,2,3,FALSE,https://github.com/gadenbui
 gadenbuie,js4shiny-drumkit,gadenbuie/js4shiny-drumkit,8,2,0,1,FALSE,https://github.com/gadenbuie/js4shiny-drumkit,8,NA,NA,NA
 gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,11,2,2,3,FALSE,https://github.com/gadenbuie/js4shiny-frappeCharts,11,NA,NA,NA
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,2,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA
-gadenbuie,lorem,gadenbuie/lorem,20,2,4,2,FALSE,https://github.com/gadenbuie/lorem,20,NA,NA,NA
+gadenbuie,lorem,gadenbuie/lorem,20,2,2,2,FALSE,https://github.com/gadenbuie/lorem,20,461331fb43f9ee1ee07b9d384e6d5d920797de31,build ignore usethis files,[![](https://github.com/gadenbuie/lorem/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/lorem/actions/runs/4375069480)
+gadenbuie,lorem,gadenbuie/lorem,20,2,2,2,FALSE,https://github.com/gadenbuie/lorem,20,8c68da52cdb7130e21e1ce0b54deef2575728a26,Merge pull request #10 from gadenbuie/rc-v1.0.0,[![](https://github.com/gadenbuie/lorem/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/lorem/actions/runs/4375069264) [![](https://github.com/gadenbuie/lorem/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/lorem/actions/runs/4375069238)
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,6,4,9,2,FALSE,https://github.com/gadenbuie/mctestanalysis,6,NA,NA,NA
 gadenbuie,metathis,gadenbuie/metathis,61,2,4,3,FALSE,https://github.com/gadenbuie/metathis,NA,046f6e9b1d3087851a5f85bceb39b434a0111c60,Use gadenbuie/status/actions/status-update-rcmdcheck,[![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/4339923383) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/3644901708)
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,2,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
@@ -78,7 +79,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,2,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,2,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,2,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,35,2,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,1421b5fa7ce7fd0e41ebcf94cc8698adc5fb2bbb,New pkgdown site and small readme updates,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/4339907785) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/3649990339)
-gadenbuie,status,gadenbuie/status,30,4,2,6,FALSE,https://github.com/gadenbuie/status,30,ba90bd91096b22e55d19a39871d8977093b75000,[status] gadenbuie/lorem 2023-03-09 02:48:57 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/4374297177)
+gadenbuie,status,gadenbuie/status,30,4,2,6,FALSE,https://github.com/gadenbuie/status,30,NA,NA,NA
 gadenbuie,synamyn,gadenbuie/synamyn,10,2,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,1,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,2,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
