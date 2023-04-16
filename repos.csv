@@ -18,9 +18,7 @@ gadenbuie,docker-shinycannon,gadenbuie/docker-shinycannon,1,3,0,0,FALSE,https://
 gadenbuie,docker-snowplowr,gadenbuie/docker-snowplowr,0,3,0,0,FALSE,https://github.com/gadenbuie/docker-snowplowr,0,NA,NA,NA
 gadenbuie,drake-intro,gadenbuie/drake-intro,14,4,1,5,FALSE,https://github.com/gadenbuie/drake-intro,14,NA,NA,NA
 gadenbuie,drake-rstudio-jobs-example,gadenbuie/drake-rstudio-jobs-example,5,3,0,0,FALSE,https://github.com/gadenbuie/drake-rstudio-jobs-example,5,NA,NA,NA
-gadenbuie,epoxy,gadenbuie/epoxy,146,4,5,8,FALSE,https://github.com/gadenbuie/epoxy,146,3e7b9f10c2bb894c32e710b6f827966fdd92b040,"Expose internal stylers, throw better error if inline fails
-
-Fixes #71",[![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/4713407120) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/4713407089) [![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/4713407088)
+gadenbuie,epoxy,gadenbuie/epoxy,146,4,4,8,FALSE,https://github.com/gadenbuie/epoxy,146,f628c38704d92bae3aea9b602916ec5c1666e6ab,Automated package maintenance (#77),[![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/4713455798) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/4713455767) [![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/4713455779)
 gadenbuie,ermoji,gadenbuie/ermoji,26,3,0,0,FALSE,https://github.com/gadenbuie/ermoji,26,NA,NA,NA
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
