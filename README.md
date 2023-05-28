@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2023-05-28 13:21:35 UTC
+2023-05-28 13:27:03 UTC
 
 | Repo                                                                              | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                                                                                                                                                                                                                                                                                  | Commit                                                                                                                                                                 |
 |:----------------------------------------------------------------------------------|------:|------------:|-------:|------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,7 +31,7 @@ GitHub Dashboard
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain)                                     |   479 |          19 |      2 |    26 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological)                               |   327 |          11 |     11 |    21 |
 | [rstudio/gradethis](https://github.com/rstudio/gradethis)                                           |   158 |          15 |     38 |    39 |
-| [gadenbuie/epoxy](https://github.com/gadenbuie/epoxy)                                               |   150 |           4 |      5 |     8 |
+| [gadenbuie/epoxy](https://github.com/gadenbuie/epoxy)                                               |   150 |           4 |      6 |     8 |
 | [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash)                           |   121 |           8 |      6 |    76 |
 | [gadenbuie/tweetrmd](https://github.com/gadenbuie/tweetrmd)                                         |   101 |           4 |      6 |    13 |
 | [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly)                                         |   100 |           5 |      0 |    10 |
