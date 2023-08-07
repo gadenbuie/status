@@ -29,17 +29,7 @@ jobs:
       - uses: r-lib/actions/setup-r-dependencies@v2
 
       - name: Render Status Page
-        run: |
-          # render readme
-          rmarkdown::render("README.Rmd")
-          # render status index.html
-          rmarkdown::render(
-            "README.Rmd",
-            output_file = "index.html",
-            output_format = cleanrmd::html_document_clean(theme = "stylize"),
-            params = list(set_main_width = TRUE)
-          )
-        shell: Rscript {0}
+        run: Rscript .github/render.R
 
       - name: Config git
         run: |
