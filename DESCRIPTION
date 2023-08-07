@@ -1,0 +1,22 @@
+Type: Project
+Package: status
+Title: Automated GitHub Workflow Status Dashboard
+Version: 0.0.0.9000
+Authors@R:
+    person("Garrick", "Aden-Buie", , "garrick@adenbuie.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7111-0077"))
+Description: A simple dashboard for monitoring the status of GitHub workflows.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    cleanrmd,
+    dplyr,
+    gh,
+    glue,
+    memoise,
+    purrr,
+    readr,
+    rmarkdown,
+    tidyr
