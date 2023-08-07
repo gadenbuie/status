@@ -10,6 +10,7 @@ library(readr)
 
 # gh functions ----
 gh_workflows <- function(owner, repo, ...) {
+  message(glue("[{owner}/{repo}] Getting workflows"))
   tryCatch(
     gh("/repos/{owner}/{repo}/actions/workflows", owner = owner, repo = repo) %>%
       .$workflows,
@@ -18,13 +19,15 @@ gh_workflows <- function(owner, repo, ...) {
 }
 
 gh_runs <- function(owner, repo, workflow_id, ...) {
-  gh(
+  runs <- gh(
     "/repos/{owner}/{repo}/actions/workflows/{workflow_id}/runs",
     owner = owner,
     repo = repo,
     workflow_id = workflow_id,
     per_page = 1
-  )$workflow_runs[[1]]
+  )
+  if (runs$total_count == 0) return(NULL)
+  runs$workflow_runs[[1]]
 }
 
 gh_url <- function(url) {
@@ -84,11 +87,11 @@ gh_repo_workflows <- function(repos) {
   workflows$runs <- pmap(workflows, gh_runs)
   workflows %>%
     mutate(
-      event = map_chr(runs, "event"),
-      html_url_run = map_chr(runs, "html_url"),
+      event = map_chr(runs, "event", .default = NA_character_),
+      html_url_run = map_chr(runs, "html_url", .default = NA_character_),
       run_conclusion = map_chr(runs, "conclusion", .default = NA_character_),
-      commit_message = map_chr(runs, ~ .x$head_commit$message),
-      commit_id = map_chr(runs, `[[`, c("head_commit", "id"))
+      commit_message = map_chr(runs, ~ .x$head_commit$message %||% NA_character_),
+      commit_id = map_chr(runs, ~ .x$head_commit$id %||% NA_character_)
     )
 }
 
