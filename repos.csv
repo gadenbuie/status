@@ -18,12 +18,12 @@ gadenbuie,docker-shinycannon,gadenbuie/docker-shinycannon,1,3,0,0,FALSE,https://
 gadenbuie,docker-snowplowr,gadenbuie/docker-snowplowr,0,3,0,0,FALSE,https://github.com/gadenbuie/docker-snowplowr,0,NA,NA,NA
 gadenbuie,drake-intro,gadenbuie/drake-intro,14,4,1,5,FALSE,https://github.com/gadenbuie/drake-intro,14,NA,NA,NA
 gadenbuie,drake-rstudio-jobs-example,gadenbuie/drake-rstudio-jobs-example,5,3,0,0,FALSE,https://github.com/gadenbuie/drake-rstudio-jobs-example,5,NA,NA,NA
-gadenbuie,epoxy,gadenbuie/epoxy,163,4,5,9,FALSE,https://github.com/gadenbuie/epoxy,163,546b17e182b03c4fd9386341cb0fa54c9250050f,fix(epoxy_use_chunk): Fix engine aliases,[![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/5984850584) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/5984850557) [![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/5984850556) [![](https://github.com/gadenbuie/epoxy/workflows/test-coverage/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/5984850562)
+gadenbuie,epoxy,gadenbuie/epoxy,163,4,7,9,FALSE,https://github.com/gadenbuie/epoxy,163,NA,NA,NA
 gadenbuie,ermoji,gadenbuie/ermoji,25,3,0,0,FALSE,https://github.com/gadenbuie/ermoji,25,NA,NA,NA
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,3,0,1,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,e4ded0478bedfd6862fc01be0e7861c0dd67fb49,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/5984754353)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,e012db3d0adf05e3a251f1455e543657f42559b8,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/5985789452)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,3,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,13,3,34,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,13,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,3,4,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
