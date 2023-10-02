@@ -73,7 +73,7 @@ gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,3,0,0,FALSE,https://
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,4,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,44,4,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,44,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,25,3,1,3,FALSE,https://github.com/gadenbuie/shinyThings,25,NA,NA,NA
-gadenbuie,shrtcts,gadenbuie/shrtcts,107,3,5,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,41051cf25ee8bfd66da45315013ade9d894435bd,Use gadenbuie/status/actions/status-update-rcmdcheck,[![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/6294783874) [![](https://github.com/gadenbuie/shrtcts/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/3644905688)
+gadenbuie,shrtcts,gadenbuie/shrtcts,107,3,5,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,41051cf25ee8bfd66da45315013ade9d894435bd,Use gadenbuie/status/actions/status-update-rcmdcheck,[![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/6375887137) [![](https://github.com/gadenbuie/shrtcts/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/3644905688)
 gadenbuie,slides,gadenbuie/slides,22,5,0,14,FALSE,https://github.com/gadenbuie/slides,22,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,21,3,1,6,FALSE,https://github.com/gadenbuie/snippets,21,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,2,3,0,1,FALSE,https://github.com/gadenbuie/speedDate,2,NA,NA,NA
