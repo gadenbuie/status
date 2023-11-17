@@ -23,7 +23,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,25,3,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,3,0,1,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,5,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,5,f64fbc411e91e8514859dc951063869a846f2922,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/6889923529)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,5,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,5,a7eda18defb998621aec404fc2b0d58550ddeba1,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/6903234570)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,3,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,14,3,34,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,14,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,3,4,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
@@ -46,7 +46,7 @@ gadenbuie,metathis,gadenbuie/metathis,65,3,5,3,FALSE,https://github.com/gadenbui
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,3,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,3,3,1,0,FALSE,https://github.com/gadenbuie/msglooker,3,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,47,6,0,26,FALSE,https://github.com/gadenbuie/mueller-report,47,NA,NA,NA
-gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,6,1,0,0,FALSE,https://github.com/gadenbuie/mynorfolk-dash,6,b81bc9997ca0105721f087f916ee8611c1daa28e,[auto] Build Dashboard 2023-11-13 16:18,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/6883014838)
+gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,6,2,0,0,FALSE,https://github.com/gadenbuie/mynorfolk-dash,6,b81bc9997ca0105721f087f916ee8611c1daa28e,[auto] Build Dashboard 2023-11-13 16:18,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/6896591412)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,2,4,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,2,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,10,3,0,5,FALSE,https://github.com/gadenbuie/oceanic-eighties,10,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,3,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
@@ -60,7 +60,7 @@ gadenbuie,renv-git-submodules,gadenbuie/renv-git-submodules,0,2,0,0,FALSE,https:
 gadenbuie,renv-wrong-remote-ref,gadenbuie/renv-wrong-remote-ref,0,3,0,0,FALSE,https://github.com/gadenbuie/renv-wrong-remote-ref,0,NA,NA,NA
 gadenbuie,repromonkey,gadenbuie/repromonkey,12,3,4,0,FALSE,https://github.com/gadenbuie/repromonkey,12,NA,NA,NA
 gadenbuie,resume,gadenbuie/resume,1,3,4,1,FALSE,https://github.com/gadenbuie/resume,1,NA,NA,NA
-gadenbuie,revealjs-text-resizer,gadenbuie/revealjs-text-resizer,2,1,0,0,FALSE,https://github.com/gadenbuie/revealjs-text-resizer,2,NA,NA,NA
+gadenbuie,revealjs-text-resizer,gadenbuie/revealjs-text-resizer,2,2,0,0,FALSE,https://github.com/gadenbuie/revealjs-text-resizer,2,NA,NA,NA
 gadenbuie,rocker-verse-metaflow,gadenbuie/rocker-verse-metaflow,2,3,0,0,FALSE,https://github.com/gadenbuie/rocker-verse-metaflow,2,NA,NA,NA
 gadenbuie,rsconf_tweets,gadenbuie/rsconf_tweets,30,5,0,13,FALSE,https://github.com/gadenbuie/rsconf_tweets,30,NA,NA,NA
 gadenbuie,rsprefs,gadenbuie/rsprefs,8,4,0,0,FALSE,https://github.com/gadenbuie/rsprefs,8,41f863f16cb66803adeaca11a60baaa9bcc4bc17,tweak rspref print method,[![](https://github.com/gadenbuie/rsprefs/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/5425355763) [![](https://github.com/gadenbuie/rsprefs/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/rsprefs/actions/runs/5425355760)
@@ -81,7 +81,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,3,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,13,3,6,1,FALSE,https://github.com/gadenbuie/sprinkles,13,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,3,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,37,3,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,1421b5fa7ce7fd0e41ebcf94cc8698adc5fb2bbb,New pkgdown site and small readme updates,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/6845555454) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/3649990339)
-gadenbuie,status,gadenbuie/status,29,5,2,6,FALSE,https://github.com/gadenbuie/status,29,46526ac9679aca4a084c35f6ebe68e3db1e0c1a5,[status] 2023-11-15 12:14:15 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/6890532389)
+gadenbuie,status,gadenbuie/status,29,5,2,6,FALSE,https://github.com/gadenbuie/status,29,efaba91a70f315f2ad027252bbd9e5edc5d67c31,[status] 2023-11-16 12:14:22 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/6903795673)
 gadenbuie,synamyn,gadenbuie/synamyn,10,3,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,2,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,3,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
