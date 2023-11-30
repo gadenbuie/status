@@ -23,7 +23,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,25,3,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,3,0,1,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,5,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,5,6793fbed8fb610bffaa294eda03312fec11494fd,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/7031722771)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,5,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,5,6ad56cea09a9b72495b2be108bdf8bf16a5db918,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/7045652001)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,3,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,14,3,35,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,14,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,3,4,2,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA
@@ -46,7 +46,7 @@ gadenbuie,metathis,gadenbuie/metathis,65,3,5,3,FALSE,https://github.com/gadenbui
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,3,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,3,3,1,0,FALSE,https://github.com/gadenbuie/msglooker,3,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,47,6,0,26,FALSE,https://github.com/gadenbuie/mueller-report,47,NA,NA,NA
-gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,8,2,1,2,FALSE,https://github.com/gadenbuie/mynorfolk-dash,8,d202ba09b1e4e0abaaa68f8f3b1d366ebf2f3bf8,[auto] Build Dashboard 2023-11-28 09:21,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/7024630668)
+gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,8,2,1,2,FALSE,https://github.com/gadenbuie/mynorfolk-dash,8,9c9d5c13db950cbf33b3b0215fd5f07ed715c651,[auto] Build Dashboard 2023-11-29 09:19,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/7038605778)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,2,4,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,2,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,10,3,0,5,FALSE,https://github.com/gadenbuie/oceanic-eighties,10,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,3,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
@@ -81,11 +81,11 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,3,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,13,3,6,1,FALSE,https://github.com/gadenbuie/sprinkles,13,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,3,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,37,3,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,1421b5fa7ce7fd0e41ebcf94cc8698adc5fb2bbb,New pkgdown site and small readme updates,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/7000493529) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/3649990339)
-gadenbuie,status,gadenbuie/status,29,5,2,6,FALSE,https://github.com/gadenbuie/status,29,0c58940d13e5e926e2ac6360932e7ecbe2243736,[status] 2023-11-28 12:14:16 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/7032348018)
+gadenbuie,status,gadenbuie/status,29,5,2,6,FALSE,https://github.com/gadenbuie/status,29,46f39f8f19b922838016f1a65756ba83bf99e4b6,[status] 2023-11-29 12:15:05 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/7046274208)
 gadenbuie,synamyn,gadenbuie/synamyn,10,3,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,2,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,3,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,712,30,13,127,FALSE,https://github.com/gadenbuie/tidyexplain,712,NA,NA,NA
+gadenbuie,tidyexplain,gadenbuie/tidyexplain,713,30,13,127,FALSE,https://github.com/gadenbuie/tidyexplain,713,NA,NA,NA
 gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,15,3,0,1,FALSE,https://github.com/gadenbuie/tidyjs-r,15,08d01a7dd6d90a799a52b18cf4cf19f2b287d3d8,Use latest tidy,[![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/6999262754)
 gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,19,3,0,0,FALSE,https://github.com/gadenbuie/tiktokrmd,19,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,3,0,9,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA
@@ -100,8 +100,8 @@ gadenbuie,xaringan-club,gadenbuie/xaringan-club,3,3,0,0,FALSE,https://github.com
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,3,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,17,3,0,18,FALSE,https://github.com/gadenbuie/xaringan-logo,17,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,16,3,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,16,NA,NA,NA
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,438,13,41,36,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,NA,NA,NA
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,438,13,39,36,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,6d7b6d937a3aef9a998f0aeea765f5a8156b9f3d,panelset: Fully support nested panelsets (#194),[![](https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg)](https://github.com/gadenbuie/xaringanExtra/actions/runs/7033913779)
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,443,11,7,24,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,NA,NA,NA
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,4,0,9,FALSE,https://github.com/gadenbuie/yule-rstudio,21,NA,NA,NA
 rstudio-education,gradethis,rstudio/gradethis,162,17,37,39,FALSE,https://github.com/rstudio/gradethis,NA,502af700437db1b648a35200ce7b940db0cc3d45,Update maintainership (#360),[![](https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/5466996508) [![](https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/5466996593) [![](https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/5466996501)
-rstudio,learnr,rstudio/learnr,671,36,143,238,FALSE,https://github.com/rstudio/learnr,NA,aeb8144f5335a1132dbb1c0a0302fd2f3e94b875,Add Norwegian translation. (#806),[![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/6852388626) [![](https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg)](https://github.com/rstudio/learnr/actions/runs/6852388618)
+rstudio,learnr,rstudio/learnr,672,36,143,238,FALSE,https://github.com/rstudio/learnr,NA,aeb8144f5335a1132dbb1c0a0302fd2f3e94b875,Add Norwegian translation. (#806),[![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/6852388626) [![](https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg)](https://github.com/rstudio/learnr/actions/runs/6852388618)
