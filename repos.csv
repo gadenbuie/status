@@ -23,7 +23,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,25,3,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,3,0,1,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,5,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,5,2260f079daf6397df8e37ba8a09decd485aa749f,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/7779511732)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,5,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,5,575e54e0715aadacf51f8ff19322f259b33f7d30,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/7780394533)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,3,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,3,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,14,3,37,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,14,NA,NA,NA
@@ -101,7 +101,7 @@ gadenbuie,xaringan-club,gadenbuie/xaringan-club,3,3,0,0,FALSE,https://github.com
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,3,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,17,3,0,18,FALSE,https://github.com/gadenbuie/xaringan-logo,17,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,16,3,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,16,NA,NA,NA
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,438,13,40,37,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,4f3f922859ffbf32689045f65cd954471d35a93c,"docs: tweak news, update docs",[![](https://github.com/gadenbuie/xaringanExtra/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanExtra/actions/runs/7692031556)
+gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,438,13,40,37,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,4f3f922859ffbf32689045f65cd954471d35a93c,"docs: tweak news, update docs",[![](https://github.com/gadenbuie/xaringanExtra/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanExtra/actions/runs/7780428228)
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,442,11,7,24,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,NA,NA,NA
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,4,0,9,FALSE,https://github.com/gadenbuie/yule-rstudio,21,NA,NA,NA
 rstudio-education,gradethis,rstudio/gradethis,161,16,38,39,FALSE,https://github.com/rstudio/gradethis,NA,502af700437db1b648a35200ce7b940db0cc3d45,Update maintainership (#360),[![](https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/5466996508) [![](https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/5466996593) [![](https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/5466996501)
