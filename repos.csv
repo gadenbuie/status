@@ -45,7 +45,7 @@ gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,8,3,2,3,FALSE,ht
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,3,0,5,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,31,3,2,2,FALSE,https://github.com/gadenbuie/lorem,31,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,7,5,10,2,FALSE,https://github.com/gadenbuie/mctestanalysis,7,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,65,3,5,3,FALSE,https://github.com/gadenbuie/metathis,NA,5fcb4c6320d33e75e94c4f15c4d3d0314f824f17,ci: update secret name,[![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/8963963885) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/7529649928)
+gadenbuie,metathis,gadenbuie/metathis,65,3,5,3,FALSE,https://github.com/gadenbuie/metathis,NA,5fcb4c6320d33e75e94c4f15c4d3d0314f824f17,ci: update secret name,[![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/9057166346) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/7529649928)
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,3,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,6,3,1,0,FALSE,https://github.com/gadenbuie/msglooker,6,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,47,6,0,26,FALSE,https://github.com/gadenbuie/mueller-report,47,NA,NA,NA
@@ -79,7 +79,7 @@ gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,3,0,0,FALSE,https://
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,4,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,45,4,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,45,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,24,3,1,3,FALSE,https://github.com/gadenbuie/shinyThings,24,NA,NA,NA
-gadenbuie,shrtcts,gadenbuie/shrtcts,118,3,6,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,41051cf25ee8bfd66da45315013ade9d894435bd,Use gadenbuie/status/actions/status-update-rcmdcheck,[![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/8963965279)
+gadenbuie,shrtcts,gadenbuie/shrtcts,118,3,6,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,41051cf25ee8bfd66da45315013ade9d894435bd,Use gadenbuie/status/actions/status-update-rcmdcheck,[![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/9057166741)
 gadenbuie,slides,gadenbuie/slides,24,5,0,14,FALSE,https://github.com/gadenbuie/slides,24,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,22,3,1,6,FALSE,https://github.com/gadenbuie/snippets,22,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,2,3,0,1,FALSE,https://github.com/gadenbuie/speedDate,2,NA,NA,NA
