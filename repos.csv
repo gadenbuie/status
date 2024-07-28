@@ -25,14 +25,14 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,3,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,3,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,c8f008ee24af879e35a68e951fd6b3770619c7ba,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/10123095795)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,d5b4243234c86f2685ff865bb3a1541ba7985003,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/10131230108)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,3,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,3,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,16,3,38,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,16,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,8,3,4,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA
 gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,84,5,0,21,FALSE,https://github.com/gadenbuie/gentle-ggplot2,84,NA,NA,NA
 gadenbuie,getcitations,gadenbuie/getcitations,14,3,0,4,FALSE,https://github.com/gadenbuie/getcitations,14,NA,NA,NA
-gadenbuie,ggpomological,gadenbuie/ggpomological,328,11,10,20,FALSE,https://github.com/gadenbuie/ggpomological,328,NA,NA,NA
+gadenbuie,ggpomological,gadenbuie/ggpomological,327,11,10,20,FALSE,https://github.com/gadenbuie/ggpomological,327,NA,NA,NA
 gadenbuie,ggweekly,gadenbuie/ggweekly,106,5,1,10,FALSE,https://github.com/gadenbuie/ggweekly,106,NA,NA,NA
 gadenbuie,grkgdown,gadenbuie/grkgdown,2,3,0,0,FALSE,https://github.com/gadenbuie/grkgdown,2,NA,NA,NA
 gadenbuie,grkstyle,gadenbuie/grkstyle,86,5,3,12,FALSE,https://github.com/gadenbuie/grkstyle,86,53051cba7772fd087e730848fb172271715b679c,"chore: use_package(""rlang"")",[![](https://github.com/gadenbuie/grkstyle/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/grkstyle/actions/runs/6615076497)
@@ -91,7 +91,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,3,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,13,3,6,1,FALSE,https://github.com/gadenbuie/sprinkles,13,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,3,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,37,3,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,1421b5fa7ce7fd0e41ebcf94cc8698adc5fb2bbb,New pkgdown site and small readme updates,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/10034621844)
-gadenbuie,status,gadenbuie/status,29,6,2,6,FALSE,https://github.com/gadenbuie/status,29,3fb79fb1b29be463cb65a5e55c874da6b7fe7dc7,[status] 2024-07-26 12:15:21 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/10123410867)
+gadenbuie,status,gadenbuie/status,29,6,2,6,FALSE,https://github.com/gadenbuie/status,29,b61045796a2bfdb2419382eb00256d5621c0b78a,[status] 2024-07-27 12:16:31 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/10131574987)
 gadenbuie,synamyn,gadenbuie/synamyn,10,3,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,2,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,3,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
