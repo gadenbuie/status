@@ -25,7 +25,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,3,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,3,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,5b136c47ad7c30fa548d2e7604a244bce1591878,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/10861956241)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,7fa26b9b305450b6e97a12c2421c644400101cf8,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/10870521053)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,3,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,3,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,17,3,38,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,17,NA,NA,NA
@@ -94,7 +94,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,3,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,13,3,6,1,FALSE,https://github.com/gadenbuie/sprinkles,13,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,3,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,37,3,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,1421b5fa7ce7fd0e41ebcf94cc8698adc5fb2bbb,New pkgdown site and small readme updates,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/10766519231)
-gadenbuie,status,gadenbuie/status,29,5,2,6,FALSE,https://github.com/gadenbuie/status,29,b8cf6fb5f643bf44c27ee3da2eae87673dbb073a,[status] 2024-09-13 12:16:43 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/10862297782)
+gadenbuie,status,gadenbuie/status,29,5,2,6,FALSE,https://github.com/gadenbuie/status,29,5d3fb945fcdd21a18221eefe9e99e9ea7874db27,[status] 2024-09-14 12:15:18 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/10870891270)
 gadenbuie,synamyn,gadenbuie/synamyn,10,3,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,2,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,3,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
@@ -113,7 +113,19 @@ gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,3,0,0,FALSE,https:
 gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,17,3,0,18,FALSE,https://github.com/gadenbuie/xaringan-logo,17,NA,NA,NA
 gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,18,3,1,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,18,NA,NA,NA
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,448,13,34,36,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,0a4271a6a934e1e2878535342a21283549e0ac22,chore: build docs,[![](https://github.com/gadenbuie/xaringanExtra/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanExtra/actions/runs/10767814580)
-gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,445,11,8,28,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,NA,NA,NA
+gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,445,11,7,28,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,fc0ff801e8a13bdffc084cfc5f47a3b9cf52e755,"Compatibility with future ggplot2 (#79)
+
+* use UK spelling of colour
+
+* Increment version number to 0.4.2.9000
+
+* docs: add NEWS item
+
+* chore: devtools::document()
+
+---------
+
+Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",[![](https://github.com/gadenbuie/xaringanthemer/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/10862629145) [![](https://github.com/gadenbuie/xaringanthemer/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/10862629190) [![](https://github.com/gadenbuie/xaringanthemer/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/10862629144)
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,22,4,0,9,FALSE,https://github.com/gadenbuie/yule-rstudio,22,NA,NA,NA
 rstudio-education,gradethis,rstudio/gradethis,161,15,39,40,FALSE,https://github.com/rstudio/gradethis,NA,502af700437db1b648a35200ce7b940db0cc3d45,Update maintainership (#360),[![](https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/5466996508) [![](https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/5466996593) [![](https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/5466996501)
 rstudio,learnr,rstudio/learnr,710,34,147,240,FALSE,https://github.com/rstudio/learnr,NA,a644d2dd4c083c7596fd73edc0431bcb52811357,"feat: Slow down successive (same) exercise execution via throttle (#818)
