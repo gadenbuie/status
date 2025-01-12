@@ -25,7 +25,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,3,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,3,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,761b4096aac7c781a9bf51e78c5c37e5bf239fef,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/12723734667)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,0a158d32551b2567cf93b8e34ed9366e2cc3a8cd,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/12732991060)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,3,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,3,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,17,3,38,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,17,NA,NA,NA
@@ -56,14 +56,14 @@ gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,3,0,0,FALSE,https:
 gadenbuie,pkgDocsWorkflowTest,gadenbuie/pkgDocsWorkflowTest,0,3,1,0,FALSE,https://github.com/gadenbuie/pkgDocsWorkflowTest,0,NA,NA,NA
 gadenbuie,pkgdownArticleFormat,gadenbuie/pkgdownArticleFormat,0,2,0,0,FALSE,https://github.com/gadenbuie/pkgdownArticleFormat,0,NA,NA,NA
 gadenbuie,podcasts,gadenbuie/podcasts,1,3,0,0,FALSE,https://github.com/gadenbuie/podcasts,1,NA,NA,NA
-gadenbuie,positron-plus-1-e,gadenbuie/positron-plus-1-e,9,1,2,0,FALSE,https://github.com/gadenbuie/positron-plus-1-e,9,NA,NA,NA
+gadenbuie,positron-plus-1-e,gadenbuie/positron-plus-1-e,10,1,2,0,FALSE,https://github.com/gadenbuie/positron-plus-1-e,10,NA,NA,NA
 gadenbuie,quarto-auto-dark,gadenbuie/quarto-auto-dark,9,1,0,0,FALSE,https://github.com/gadenbuie/quarto-auto-dark,9,023964e4c027f8234ae1bb5460f51f8a269a09c0,📝 small readme edit,[![](https://github.com/gadenbuie/quarto-auto-dark/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-auto-dark/actions/runs/10578761520)
 gadenbuie,quarto-base64,gadenbuie/quarto-base64,5,1,0,0,FALSE,https://github.com/gadenbuie/quarto-base64,5,89a33243c3748cfc23954c169eb72b9e08c19c28,docs: fix toc title,[![](https://github.com/gadenbuie/quarto-base64/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-base64/actions/runs/10083557713)
 gadenbuie,quarto-bluesky-comments,gadenbuie/quarto-bluesky-comments,7,2,2,1,FALSE,https://github.com/gadenbuie/quarto-bluesky-comments,7,ea2098e803d43f5c6097c3bc7c8f911e347b764b,"fix: Show stats bar and link even if no comments
 
 Fixes #3",[![](https://github.com/gadenbuie/quarto-bluesky-comments/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-bluesky-comments/actions/runs/12298497403)
 gadenbuie,quarto-dark-light,gadenbuie/quarto-dark-light,1,1,0,0,FALSE,https://github.com/gadenbuie/quarto-dark-light,1,NA,NA,NA
-gadenbuie,quarto-now,gadenbuie/quarto-now,22,2,0,2,FALSE,https://github.com/gadenbuie/quarto-now,22,0253ae1b11026c683283571fcc18307406ca748d,"Format used with stat -c on Linux should be %y, not %Y (#1)",[![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/11444754134)
+gadenbuie,quarto-now,gadenbuie/quarto-now,23,2,0,2,FALSE,https://github.com/gadenbuie/quarto-now,23,0253ae1b11026c683283571fcc18307406ca748d,"Format used with stat -c on Linux should be %y, not %Y (#1)",[![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/11444754134)
 gadenbuie,quarto-partials,gadenbuie/quarto-partials,9,1,3,0,FALSE,https://github.com/gadenbuie/quarto-partials,9,da14cc03ce19bd08c7679c5e1029287c78c9cd1d,"fix: meta[""partial-data""] might be empty",[![](https://github.com/gadenbuie/quarto-partials/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-partials/actions/runs/10096214195)
 gadenbuie,quarto-reprex,gadenbuie/quarto-reprex,0,2,0,0,FALSE,https://github.com/gadenbuie/quarto-reprex,0,NA,NA,NA
 gadenbuie,quarto-reprex-listing-chomp,gadenbuie/quarto-reprex-listing-chomp,1,2,0,0,FALSE,https://github.com/gadenbuie/quarto-reprex-listing-chomp,1,NA,NA,NA
@@ -97,7 +97,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,3,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,13,3,6,1,FALSE,https://github.com/gadenbuie/sprinkles,13,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,3,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,37,3,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,1421b5fa7ce7fd0e41ebcf94cc8698adc5fb2bbb,New pkgdown site and small readme updates,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/10877538932)
-gadenbuie,status,gadenbuie/status,30,5,2,6,FALSE,https://github.com/gadenbuie/status,30,7b0944fd973d1058fc72a7748b226a40533928b4,[status] 2025-01-10 12:18:42 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/12724108326)
+gadenbuie,status,gadenbuie/status,30,5,2,6,FALSE,https://github.com/gadenbuie/status,30,846ea3dca3e03217e3081eeb63b3380497d9fd86,[status] 2025-01-11 12:17:30 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/12733384262)
 gadenbuie,synamyn,gadenbuie/synamyn,10,3,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,2,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,3,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
