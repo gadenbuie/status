@@ -14,7 +14,7 @@ gadenbuie,covid19-florida,gadenbuie/covid19-florida,31,9,8,7,FALSE,https://githu
 gadenbuie,covid19-florida-ahca,gadenbuie/covid19-florida-ahca,0,3,0,0,FALSE,https://github.com/gadenbuie/covid19-florida-ahca,0,NA,NA,NA
 gadenbuie,covid19-florida-cases-by-day,gadenbuie/covid19-florida-cases-by-day,0,3,0,0,FALSE,https://github.com/gadenbuie/covid19-florida-cases-by-day,0,NA,NA,NA
 gadenbuie,crantrack,gadenbuie/crantrack,3,3,0,2,FALSE,https://github.com/gadenbuie/crantrack,3,NA,NA,NA
-gadenbuie,daily-treasury,gadenbuie/daily-treasury,0,1,0,0,FALSE,https://github.com/gadenbuie/daily-treasury,0,2157066e84faa745292f5496cd1e06c6792c6570,ci: fix name,[![](https://github.com/gadenbuie/daily-treasury/workflows/update-data.yaml/badge.svg)](https://github.com/gadenbuie/daily-treasury/actions/runs/13151581321)
+gadenbuie,daily-treasury,gadenbuie/daily-treasury,0,1,0,0,FALSE,https://github.com/gadenbuie/daily-treasury,0,2157066e84faa745292f5496cd1e06c6792c6570,ci: fix name,[![](https://github.com/gadenbuie/daily-treasury/workflows/update-data.yaml/badge.svg)](https://github.com/gadenbuie/daily-treasury/actions/runs/13173158229)
 gadenbuie,de-iris-my-repos,gadenbuie/de-iris-my-repos,12,3,0,0,FALSE,https://github.com/gadenbuie/de-iris-my-repos,12,NA,NA,NA
 gadenbuie,docker-rstudio-keras,gadenbuie/docker-rstudio-keras,4,3,0,1,FALSE,https://github.com/gadenbuie/docker-rstudio-keras,4,NA,NA,NA
 gadenbuie,docker-shinycannon,gadenbuie/docker-shinycannon,1,3,0,0,FALSE,https://github.com/gadenbuie/docker-shinycannon,1,NA,NA,NA
@@ -26,7 +26,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,3,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,3,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,ec897c23cd3ff0fe414017229e83b3b8610ac8e2,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/13156132105)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,70e91b0056890d0cb5d16847f4b105eb7df55305,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/13177556711)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,3,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,3,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,18,3,38,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,18,NA,NA,NA
@@ -34,7 +34,7 @@ gadenbuie,gathertweet,gadenbuie/gathertweet,8,3,4,2,FALSE,https://github.com/gad
 gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,84,5,0,21,FALSE,https://github.com/gadenbuie/gentle-ggplot2,84,NA,NA,NA
 gadenbuie,getcitations,gadenbuie/getcitations,14,3,0,3,FALSE,https://github.com/gadenbuie/getcitations,14,NA,NA,NA
 gadenbuie,ggpomological,gadenbuie/ggpomological,330,11,10,19,FALSE,https://github.com/gadenbuie/ggpomological,330,NA,NA,NA
-gadenbuie,ggweekly,gadenbuie/ggweekly,111,5,2,12,FALSE,https://github.com/gadenbuie/ggweekly,111,NA,NA,NA
+gadenbuie,ggweekly,gadenbuie/ggweekly,110,5,2,12,FALSE,https://github.com/gadenbuie/ggweekly,110,NA,NA,NA
 gadenbuie,grkgdown,gadenbuie/grkgdown,3,3,0,0,FALSE,https://github.com/gadenbuie/grkgdown,3,NA,NA,NA
 gadenbuie,grkstyle,gadenbuie/grkstyle,89,5,3,13,FALSE,https://github.com/gadenbuie/grkstyle,89,NA,NA,NA
 gadenbuie,intro-to-git-for-scientists,gadenbuie/intro-to-git-for-scientists,12,3,0,2,FALSE,https://github.com/gadenbuie/intro-to-git-for-scientists,12,NA,NA,NA
@@ -46,11 +46,11 @@ gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,8,3,2,3,FALSE,ht
 gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,3,0,4,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA
 gadenbuie,lorem,gadenbuie/lorem,33,3,2,2,FALSE,https://github.com/gadenbuie/lorem,33,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,7,5,10,2,FALSE,https://github.com/gadenbuie/mctestanalysis,7,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,67,3,5,3,FALSE,https://github.com/gadenbuie/metathis,NA,5fcb4c6320d33e75e94c4f15c4d3d0314f824f17,ci: update secret name,[![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/10345860760) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/7529649928)
+gadenbuie,metathis,gadenbuie/metathis,67,3,6,3,FALSE,https://github.com/gadenbuie/metathis,NA,5fcb4c6320d33e75e94c4f15c4d3d0314f824f17,ci: update secret name,[![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/10345860760) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/7529649928)
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,3,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,7,3,1,0,FALSE,https://github.com/gadenbuie/msglooker,7,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,48,6,0,26,FALSE,https://github.com/gadenbuie/mueller-report,48,NA,NA,NA
-gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,34,2,1,5,FALSE,https://github.com/gadenbuie/mynorfolk-dash,34,882f4f75f08b2822c42aff46d1126538c234a435,[auto] Build Dashboard 2025-02-03 16:23,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/13145057030)
+gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,34,2,1,5,FALSE,https://github.com/gadenbuie/mynorfolk-dash,34,cad1262a3c5eeff3036768de94f5789187251ad5,[auto] Build Dashboard 2025-02-05 09:23,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/13166802453)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,2,4,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,2,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,13,3,0,5,FALSE,https://github.com/gadenbuie/oceanic-eighties,13,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,3,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
@@ -100,7 +100,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,3,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,13,3,6,1,FALSE,https://github.com/gadenbuie/sprinkles,13,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,3,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,37,3,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,1421b5fa7ce7fd0e41ebcf94cc8698adc5fb2bbb,New pkgdown site and small readme updates,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/10877538932)
-gadenbuie,status,gadenbuie/status,30,5,2,6,FALSE,https://github.com/gadenbuie/status,30,02c9e430af6134dbb97a3b57efaa6181a27a489b,[status] 2025-02-04 12:18:56 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/13157146196)
+gadenbuie,status,gadenbuie/status,30,5,2,6,FALSE,https://github.com/gadenbuie/status,30,e4ad0e13645223ca0572928b64ef3d5d0d286637,[status] 2025-02-05 12:19:25 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/13178567541)
 gadenbuie,synamyn,gadenbuie/synamyn,10,3,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,2,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,3,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
@@ -121,7 +121,7 @@ gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,18,3,1,1,FALSE,https
 gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,450,13,33,36,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,0a4271a6a934e1e2878535342a21283549e0ac22,chore: build docs,[![](https://github.com/gadenbuie/xaringanExtra/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanExtra/actions/runs/13107734869)
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,445,11,7,26,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,51b100a9a42808ae1afc8761dfe262e38845d3e2,Increment version number to 0.4.3.9000,[![](https://github.com/gadenbuie/xaringanthemer/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/10876135300) [![](https://github.com/gadenbuie/xaringanthemer/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/10876135344)
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,22,4,0,9,FALSE,https://github.com/gadenbuie/yule-rstudio,22,NA,NA,NA
-rstudio-education,gradethis,rstudio/gradethis,162,14,39,41,FALSE,https://github.com/rstudio/gradethis,NA,NA,NA,NA
+rstudio-education,gradethis,rstudio/gradethis,162,14,40,41,FALSE,https://github.com/rstudio/gradethis,NA,NA,NA,NA
 rstudio,learnr,rstudio/learnr,715,33,148,239,FALSE,https://github.com/rstudio/learnr,NA,a644d2dd4c083c7596fd73edc0431bcb52811357,"feat: Slow down successive (same) exercise execution via throttle (#818)
 
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>
