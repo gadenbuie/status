@@ -6,7 +6,7 @@ gadenbuie,applause,gadenbuie/applause,13,3,2,1,FALSE,https://github.com/gadenbui
 gadenbuie,aws-p2-setup,gadenbuie/aws-p2-setup,3,3,0,0,FALSE,https://github.com/gadenbuie/aws-p2-setup,3,NA,NA,NA
 gadenbuie,boostrap-v3-theme-minty,gadenbuie/boostrap-v3-theme-minty,0,3,1,1,FALSE,https://github.com/gadenbuie/boostrap-v3-theme-minty,0,NA,NA,NA
 gadenbuie,branchMover,gadenbuie/branchMover,9,3,1,2,FALSE,https://github.com/gadenbuie/branchMover,9,NA,NA,NA
-gadenbuie,cleanrmd,gadenbuie/cleanrmd,150,6,9,5,FALSE,https://github.com/gadenbuie/cleanrmd,150,NA,NA,NA
+gadenbuie,cleanrmd,gadenbuie/cleanrmd,151,6,9,5,FALSE,https://github.com/gadenbuie/cleanrmd,151,NA,NA,NA
 gadenbuie,countdown,gadenbuie/countdown,151,8,13,15,FALSE,https://github.com/gadenbuie/countdown,151,c810f16c6fa57294844b595ffae4535136d18810,"Merge pull request #55 from gadenbuie/make-sync
 
 Add Makefile with sync designation",[![](https://github.com/gadenbuie/countdown/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/countdown/actions/runs/7910439894)
@@ -26,7 +26,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,26,3,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,2,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,3,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,3,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,5f38d97ba682763ec9d8699ca68b97193f71e1fa,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/13482476830)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,3,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,6,a355261eb5f964a110f12fb09a1e538aa346bb7a,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/13490767868)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,3,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,3,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,19,3,38,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,19,NA,NA,NA
@@ -94,19 +94,19 @@ gadenbuie,shinyComponents,gadenbuie/shinyComponents,46,4,5,4,FALSE,https://githu
 gadenbuie,shinyThings,gadenbuie/shinyThings,25,3,2,3,FALSE,https://github.com/gadenbuie/shinyThings,25,NA,NA,NA
 gadenbuie,shrtcts,gadenbuie/shrtcts,117,3,6,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,052165f97cdcaccddd9503a6fde56b333d978304,"Merge pull request #26 from gadenbuie/feat/shortcut-run
 
-feat: Add `shortcut_run()` and `shortcut_get()`",[![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/13362806274)
+feat: Add `shortcut_run()` and `shortcut_get()`",[![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/13490763069)
 gadenbuie,slides,gadenbuie/slides,26,5,0,14,FALSE,https://github.com/gadenbuie/slides,26,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,23,3,1,6,FALSE,https://github.com/gadenbuie/snippets,23,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,2,3,0,1,FALSE,https://github.com/gadenbuie/speedDate,2,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,13,3,6,1,FALSE,https://github.com/gadenbuie/sprinkles,13,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,3,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,37,3,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,1421b5fa7ce7fd0e41ebcf94cc8698adc5fb2bbb,New pkgdown site and small readme updates,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/10877538932)
-gadenbuie,status,gadenbuie/status,30,5,2,6,FALSE,https://github.com/gadenbuie/status,30,a36283994a55d4a8217e2ef739f4c821541dd2f8,[status] 2025-02-22 12:16:08 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/13482895140)
+gadenbuie,status,gadenbuie/status,30,5,2,6,FALSE,https://github.com/gadenbuie/status,30,NA,NA,NA
 gadenbuie,synamyn,gadenbuie/synamyn,10,3,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,2,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,3,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
 gadenbuie,tidyexplain,gadenbuie/tidyexplain,774,30,14,181,FALSE,https://github.com/gadenbuie/tidyexplain,774,NA,NA,NA
-gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,19,4,0,1,FALSE,https://github.com/gadenbuie/tidyjs-r,19,929013f523605bca763d5867222895f080ba3c40,v2.5.2,[![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/13360885501)
+gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,19,4,0,1,FALSE,https://github.com/gadenbuie/tidyjs-r,19,929013f523605bca763d5867222895f080ba3c40,v2.5.2,[![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/13488957535)
 gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,19,3,0,0,FALSE,https://github.com/gadenbuie/tiktokrmd,19,NA,NA,NA
 gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,3,0,9,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA
 gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,3,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA
