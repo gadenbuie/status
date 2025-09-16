@@ -21,12 +21,12 @@ gadenbuie,docker-snowplowr,gadenbuie/docker-snowplowr,0,2,0,0,FALSE,https://gith
 gadenbuie,drake-intro,gadenbuie/drake-intro,14,3,1,5,FALSE,https://github.com/gadenbuie/drake-intro,14,NA,NA,NA
 gadenbuie,drake-rstudio-jobs-example,gadenbuie/drake-rstudio-jobs-example,5,2,0,0,FALSE,https://github.com/gadenbuie/drake-rstudio-jobs-example,5,NA,NA,NA
 gadenbuie,elm-vscode-theme,gadenbuie/elm-vscode-theme,0,2,0,0,FALSE,https://github.com/gadenbuie/elm-vscode-theme,0,NA,NA,NA
-gadenbuie,epoxy,gadenbuie/epoxy,218,3,7,10,FALSE,https://github.com/gadenbuie/epoxy,218,NA,NA,NA
+gadenbuie,epoxy,gadenbuie/epoxy,219,3,7,10,FALSE,https://github.com/gadenbuie/epoxy,219,NA,NA,NA
 gadenbuie,ermoji,gadenbuie/ermoji,26,2,0,0,FALSE,https://github.com/gadenbuie/ermoji,26,NA,NA,NA
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,1,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,2,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,2,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,7,2,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,7,729c8d3d0152231af7c29b794187be097d5407fe,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/17731200428)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,7,2,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,7,794908f2532c0116fefe70fad1998e000ac74056,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/17763973170)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,2,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,2,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,24,2,38,7,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,24,NA,NA,NA
@@ -51,7 +51,7 @@ gadenbuie,metathis,gadenbuie/metathis,67,2,5,3,FALSE,https://github.com/gadenbui
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,2,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,7,2,1,0,FALSE,https://github.com/gadenbuie/msglooker,7,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,48,5,0,25,FALSE,https://github.com/gadenbuie/mueller-report,48,NA,NA,NA
-gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,38,2,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,38,d133b53a4b7b71cc28b01a3f6b0b66317686356f,[auto] Build Dashboard 2025-09-11 17:22,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/17686319809)
+gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,38,2,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,38,572666dcaca45170dfe8c06fe8ef0140d4ab17c4,[auto] Build Dashboard 2025-09-15 10:27,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/17746998492)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,2,3,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,2,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,13,2,0,5,FALSE,https://github.com/gadenbuie/oceanic-eighties,13,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,2,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
@@ -109,8 +109,8 @@ gadenbuie,snippets,gadenbuie/snippets,23,2,1,6,FALSE,https://github.com/gadenbui
 gadenbuie,speedDate,gadenbuie/speedDate,2,2,0,1,FALSE,https://github.com/gadenbuie/speedDate,2,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,13,2,6,1,FALSE,https://github.com/gadenbuie/sprinkles,13,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,2,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,38,2,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17722119108) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473)
-gadenbuie,status,gadenbuie/status,29,4,2,6,FALSE,https://github.com/gadenbuie/status,29,8c6d0567e61d858bebeee7ed0450f22b2acc3bc9,[status] gadenbuie/shrtcts 2025-09-15 04:18:00 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/17732784124)
+gadenbuie,starwarsdb,gadenbuie/starwarsdb,39,2,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17722119108) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473)
+gadenbuie,status,gadenbuie/status,29,4,2,6,FALSE,https://github.com/gadenbuie/status,29,af8ee81fbf5647e416e6bc6aab1ecb22fb01dbf1,[status] 2025-09-15 12:29:08 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/17765510666)
 gadenbuie,synamyn,gadenbuie/synamyn,10,2,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,1,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,2,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
@@ -132,4 +132,4 @@ gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,452,12,32,37,FALSE,https://githu
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,446,10,7,26,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,5c8035bb856274d557a4b4a1ced4ada1bdce110b,Increment version number to 0.4.4.9000,[![](https://github.com/gadenbuie/xaringanthemer/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693085) [![](https://github.com/gadenbuie/xaringanthemer/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693207) [![](https://github.com/gadenbuie/xaringanthemer/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693118)
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,22,3,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,22,NA,NA,NA
 rstudio-education,gradethis,rstudio/gradethis,166,14,40,42,FALSE,https://github.com/rstudio/gradethis,NA,NA,NA,NA
-rstudio,learnr,rstudio/learnr,720,33,153,239,FALSE,https://github.com/rstudio/learnr,NA,NA,NA,NA
+rstudio,learnr,rstudio/learnr,720,33,153,240,FALSE,https://github.com/rstudio/learnr,NA,NA,NA,NA
