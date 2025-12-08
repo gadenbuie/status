@@ -80,7 +80,7 @@ gh_repo_workflows <- function(repos) {
   workflows <- repos %>%
     unnest(.workflows) %>%
     mutate(
-      workflow_id = map_chr(.workflows, "id"),
+      workflow_id = map_chr(.workflows, \(x) as.character(x$id)),
       badge_url = map_chr(.workflows, "badge_url")
     )
 
