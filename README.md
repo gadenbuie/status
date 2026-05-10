@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2026-05-09 12:52:32 UTC
+2026-05-10 12:53:02 UTC
 
 | Repo | Stars | Subscribers | Issues | Forks | Status | Commit |
 |:---|---:|---:|---:|---:|:---|:---|
@@ -15,14 +15,14 @@ GitHub Dashboard
 | [gadenbuie/mynorfolk-dash](https://github.com/gadenbuie/mynorfolk-dash) | 41 | 1 | 1 | 6 | [![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/25581821979) | <a href="https://github.com/gadenbuie/mynorfolk-dash/commit/4619c7c814725af56f2d3d6371f34dd2f5d6726b" title="[auto] Build Dashboard 2026-04-24 11:16">4619c7</a> |
 | [gadenbuie/starwarsdb](https://github.com/gadenbuie/starwarsdb) | 38 | 1 | 0 | 1 | [![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473) | <a href="https://github.com/gadenbuie/starwarsdb/commit/cd5e823ccbf88302b786bb4c6d21d42c198b715b" title="Increment version number to 0.1.3.9000">cd5e82</a> |
 | [gadenbuie/quarto-now](https://github.com/gadenbuie/quarto-now) | 30 | 1 | 0 | 3 | [![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/22318414606) | <a href="https://github.com/gadenbuie/quarto-now/commit/505802ea80099d4db0baf748c3a89c99524483bd" title="feat: add Quarto Wizard schema and snippets (#2)">505802</a> |
-| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 5 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/25601577412) | <a href="https://github.com/gadenbuie/status/commit/afe48c5e10bfc52acbad4c5774c6d72a6fb8cfbe" title="[status] 2026-05-08 13:08:11 UTC">afe48c</a> |
+| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 5 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/25629210406) | <a href="https://github.com/gadenbuie/status/commit/ebeb7d0b90e880b498b182df7a7ae259b207ea1f" title="[status] 2026-05-09 12:54:02 UTC">ebeb7d</a> |
 | [gadenbuie/quarto-partials](https://github.com/gadenbuie/quarto-partials) | 27 | 1 | 2 | 2 | [![](https://github.com/gadenbuie/quarto-partials/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-partials/actions/runs/24849283968) | <a href="https://github.com/gadenbuie/quarto-partials/commit/9da9cfbf783874f7043271d1f6f8a31fbf144f54" title="v0.1.2">9da9cf</a> |
 | [gadenbuie/quarto-auto-dark](https://github.com/gadenbuie/quarto-auto-dark) | 24 | 1 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-auto-dark/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-auto-dark/actions/runs/16419252701) | <a href="https://github.com/gadenbuie/quarto-auto-dark/commit/311a8a17c3641942d0a6df27d7dbaf73c2d38501" title="📄 include copy of license in repo root">311a8a</a> |
 | [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r) | 18 | 2 | 0 | 0 | [![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/21809936668) | <a href="https://github.com/gadenbuie/tidyjs-r/commit/ab08ac00ca174923699eccb624c44f11fe2c6804" title="fix: Use latest r-lib/actions at v2">ab08ac</a> |
 | [gadenbuie/quarto-tachyons](https://github.com/gadenbuie/quarto-tachyons) | 9 | 1 | 0 | 2 | [![](https://github.com/gadenbuie/quarto-tachyons/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-tachyons/actions/runs/17139878823) | <a href="https://github.com/gadenbuie/quarto-tachyons/commit/bff9281e8d87ee48799b63b325b6a3711747de3c" title="add inline use example (#2)">bff928</a> |
 | [gadenbuie/quarto-base64](https://github.com/gadenbuie/quarto-base64) | 7 | 1 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-base64/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-base64/actions/runs/22318385606) | <a href="https://github.com/gadenbuie/quarto-base64/commit/9f6b0ef5dfbe2763be6711b08a42660601619be1" title="feat: add Quarto Wizard schema and snippets (#2)">9f6b0e</a> |
 | [gadenbuie/quarto-panel-accordion](https://github.com/gadenbuie/quarto-panel-accordion) | 7 | 0 | 2 | 1 | [![](https://github.com/gadenbuie/quarto-panel-accordion/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-panel-accordion/actions/runs/16992888399) | <a href="https://github.com/gadenbuie/quarto-panel-accordion/commit/9b96815e093a1495e5d3d9ebdfada5557cc59a39" title="🔖 v0.0.6">9b9681</a> |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 1 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/25600513534) | <a href="https://github.com/gadenbuie/gadenbuie/commit/7de8fd2f72c122dcee7b4d7682201c4bdb809f65" title="Update github-metrics.svg - [Skip GitHub Action]">7de8fd</a> |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 1 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/25628033789) | <a href="https://github.com/gadenbuie/gadenbuie/commit/f33774ac5539f0fd6ef2ae69ef55d011b0c5bfb9" title="Update github-metrics.svg - [Skip GitHub Action]">f33774</a> |
 | [gadenbuie/daily-treasury](https://github.com/gadenbuie/daily-treasury) | 1 | 1 | 0 | 0 | [![](https://github.com/gadenbuie/daily-treasury/workflows/update-data.yaml/badge.svg)](https://github.com/gadenbuie/daily-treasury/actions/runs/14530917728) | <a href="https://github.com/gadenbuie/daily-treasury/commit/2157066e84faa745292f5496cd1e06c6792c6570" title="ci: fix name">215706</a> |
 
 ## Repos without Github Actions
@@ -30,7 +30,7 @@ GitHub Dashboard
 | Repo | Stars | Subscribers | Issues | Forks |
 |:---|---:|---:|---:|---:|
 | [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) | 794 | 29 | 14 | 240 |
-| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) | 660 | 10 | 33 | 49 |
+| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) | 661 | 10 | 33 | 49 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain) | 491 | 15 | 2 | 27 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological) | 332 | 9 | 10 | 19 |
 | [gadenbuie/epoxy](https://github.com/gadenbuie/epoxy) | 218 | 2 | 7 | 9 |
