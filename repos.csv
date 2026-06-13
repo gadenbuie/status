@@ -28,7 +28,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,27,1,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,1,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,facadd14f5933265ba073d69c4480a601049c761,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/27421011442)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,a82716240eb2892cc05837bccfd6a3e5d0b8fb7d,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/27466035718)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,25,1,39,8,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,25,NA,NA,NA
@@ -63,7 +63,7 @@ Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",[![](https://github.co
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,7,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,7,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,48,4,0,25,FALSE,https://github.com/gadenbuie/mueller-report,48,NA,NA,NA
-gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,41,1,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,41,4619c7c814725af56f2d3d6371f34dd2f5d6726b,[auto] Build Dashboard 2026-04-24 11:16,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/27382446419)
+gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,41,1,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,41,4619c7c814725af56f2d3d6371f34dd2f5d6726b,[auto] Build Dashboard 2026-04-24 11:16,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/27447236842)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,3,2,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,3,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,12,1,0,4,FALSE,https://github.com/gadenbuie/oceanic-eighties,12,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,1,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
@@ -122,7 +122,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,38,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473)
-gadenbuie,status,gadenbuie/status,29,3,1,5,FALSE,https://github.com/gadenbuie/status,29,9b444fc44d0e2f4875314b456158674c80b27684,[status] 2026-06-11 15:33:20 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/27422211284)
+gadenbuie,status,gadenbuie/status,29,3,1,5,FALSE,https://github.com/gadenbuie/status,29,40f081cb5cb23d66620f1d46722da24751168d75,[status] 2026-06-12 14:33:45 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/27467966088)
 gadenbuie,synamyn,gadenbuie/synamyn,10,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
@@ -139,7 +139,11 @@ gadenbuie,utpr,gadenbuie/utpr,0,0,0,1,FALSE,https://github.com/gadenbuie/utpr,0,
 
 isCurrentOrNewer now does a real semver comparison so a locally-built
 or pre-release version that is already ahead of the latest GitHub
-release is treated as up to date instead of being offered a downgrade.",[![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/27417632144) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/27417633255)
+release is treated as up to date instead of being offered a downgrade.",[![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/27417632144)
+gadenbuie,utpr,gadenbuie/utpr,0,0,0,1,FALSE,https://github.com/gadenbuie/utpr,0,bd7b036ccbd91f5bd66d34b654bdf26adc0d6686,"feat: include thread_id in view output comment markers
+
+Embeds both thread_id and comment_id in the non-TTY comment markers,
+falling back to the comment ID when no thread ID is present.",[![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/27432309580)
 gadenbuie,xaringan-accessible-plot,gadenbuie/xaringan-accessible-plot,0,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-accessible-plot,0,NA,NA,NA
 gadenbuie,xaringan-club,gadenbuie/xaringan-club,3,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-club,3,NA,NA,NA
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA
