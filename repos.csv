@@ -28,7 +28,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,27,1,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,1,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,f692b7c6f665ef708012b8cd95a97686a0951bfe,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/27686772114)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,147b1248a65f913d1c851e28e92c6395774e494c,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/27760902504)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,25,1,40,8,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,25,NA,NA,NA
@@ -63,7 +63,7 @@ Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",[![](https://github.co
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,7,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,7,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,48,4,0,25,FALSE,https://github.com/gadenbuie/mueller-report,48,NA,NA,NA
-gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,41,1,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,41,4619c7c814725af56f2d3d6371f34dd2f5d6726b,[auto] Build Dashboard 2026-04-24 11:16,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/27653515005)
+gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,41,1,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,41,4619c7c814725af56f2d3d6371f34dd2f5d6726b,[auto] Build Dashboard 2026-04-24 11:16,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/27724691782)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,3,2,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,3,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,12,1,0,4,FALSE,https://github.com/gadenbuie/oceanic-eighties,12,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,1,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
@@ -122,7 +122,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,38,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473)
-gadenbuie,status,gadenbuie/status,29,3,1,5,FALSE,https://github.com/gadenbuie/status,29,2451b1591cefa464d5ab461d0f4589874a05e0d9,[status] 2026-06-16 16:22:04 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/27697585756)
+gadenbuie,status,gadenbuie/status,29,3,1,5,FALSE,https://github.com/gadenbuie/status,29,13f9c2ad6cccab94a752e851a600d8854b9a5a9d,[status] 2026-06-17 14:49:41 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/27767488320)
 gadenbuie,synamyn,gadenbuie/synamyn,10,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
@@ -135,15 +135,18 @@ gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,127,6,6,75,FALSE,https://git
 gadenbuie,tweetrmd,gadenbuie/tweetrmd,101,2,6,13,FALSE,https://github.com/gadenbuie/tweetrmd,101,NA,NA,NA
 gadenbuie,tweets-of-the-year,gadenbuie/tweets-of-the-year,16,1,4,2,FALSE,https://github.com/gadenbuie/tweets-of-the-year,16,NA,NA,NA
 gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,1,2,0,3,FALSE,https://github.com/gadenbuie/usf-boot-camp-R,1,NA,NA,NA
-gadenbuie,utpr,gadenbuie/utpr,0,0,0,1,FALSE,https://github.com/gadenbuie/utpr,0,6bd02f8660e7dd55a78794ae1bcef4119c7e2718,"fix: prevent utpr update from downgrading to an older release
+gadenbuie,utpr,gadenbuie/utpr,0,0,0,1,FALSE,https://github.com/gadenbuie/utpr,0,e27b4543d4f1b7d6c90764818a8771b5a4c6147b,"fix: propagate ErrCancelled from bisect picker, offline init, and forget worktree
 
-isCurrentOrNewer now does a real semver comparison so a locally-built
-or pre-release version that is already ahead of the latest GitHub
-release is treated as up to date instead of being offered a downgrade.",[![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/27417632144)
-gadenbuie,utpr,gadenbuie/utpr,0,0,0,1,FALSE,https://github.com/gadenbuie/utpr,0,bd7b036ccbd91f5bd66d34b654bdf26adc0d6686,"feat: include thread_id in view output comment markers
+bisect: bisectPickGoodCommit returned fmt.Errorf(""cancelled"") on prompt
+errors, masking ErrCancelled from Execute() and causing exit 1 instead
+of 130. Now returns err directly on error, ui.ErrCancelled on empty
+selection or date input.
 
-Embeds both thread_id and comment_id in the non-TTY comment markers,
-falling back to the comment ID when no thread ID is present.",[![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/27432309580)
+init: split the offline branch-name prompt's combined err/empty check
+so Ctrl+C exits cleanly instead of printing ""Branch name required.""
+
+forget: split ""Remove worktree?"" so Ctrl+C aborts the whole operation
+rather than returning nil and allowing branch deletion to proceed.",[![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/27707933081) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/27707933100)
 gadenbuie,xaringan-accessible-plot,gadenbuie/xaringan-accessible-plot,0,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-accessible-plot,0,NA,NA,NA
 gadenbuie,xaringan-club,gadenbuie/xaringan-club,3,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-club,3,NA,NA,NA
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA
@@ -153,5 +156,5 @@ gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,449,11,32,37,FALSE,https://githu
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,445,9,7,27,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,5c8035bb856274d557a4b4a1ced4ada1bdce110b,Increment version number to 0.4.4.9000,[![](https://github.com/gadenbuie/xaringanthemer/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693085) [![](https://github.com/gadenbuie/xaringanthemer/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693207) [![](https://github.com/gadenbuie/xaringanthemer/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693118)
 gadenbuie,yap-with-claude,gadenbuie/yap-with-claude,0,0,0,0,FALSE,https://github.com/gadenbuie/yap-with-claude,0,NA,NA,NA
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,22,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,22,NA,NA,NA
-rstudio-education,gradethis,rstudio/gradethis,164,12,41,41,FALSE,https://github.com/rstudio/gradethis,NA,NA,NA,NA
+rstudio-education,gradethis,rstudio/gradethis,164,12,44,41,FALSE,https://github.com/rstudio/gradethis,NA,NA,NA,NA
 rstudio,learnr,rstudio/learnr,734,31,152,240,FALSE,https://github.com/rstudio/learnr,NA,e7164a86172200cdfeb53c5f17382e1f86e3e78a,Increment version number to 0.11.6.9000,[![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/19337067606) [![](https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg)](https://github.com/rstudio/learnr/actions/runs/19337067571)
