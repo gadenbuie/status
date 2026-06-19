@@ -28,7 +28,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,27,1,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,1,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,147b1248a65f913d1c851e28e92c6395774e494c,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/27760902504)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,1,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,0850ab47f51924c2b02b460a0000c2155fe0bdb1,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/27824766972)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,25,1,40,8,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,25,NA,NA,NA
@@ -63,7 +63,7 @@ Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",[![](https://github.co
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,7,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,7,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,48,4,0,25,FALSE,https://github.com/gadenbuie/mueller-report,48,NA,NA,NA
-gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,41,1,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,41,4619c7c814725af56f2d3d6371f34dd2f5d6726b,[auto] Build Dashboard 2026-04-24 11:16,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/27724691782)
+gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,41,1,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,41,4619c7c814725af56f2d3d6371f34dd2f5d6726b,[auto] Build Dashboard 2026-04-24 11:16,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/27794475722)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,3,2,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,3,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,12,1,0,4,FALSE,https://github.com/gadenbuie/oceanic-eighties,12,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,1,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
@@ -122,7 +122,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,38,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473)
-gadenbuie,status,gadenbuie/status,29,3,1,5,FALSE,https://github.com/gadenbuie/status,29,13f9c2ad6cccab94a752e851a600d8854b9a5a9d,[status] 2026-06-17 14:49:41 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/27767488320)
+gadenbuie,status,gadenbuie/status,29,3,1,5,FALSE,https://github.com/gadenbuie/status,29,e714641470725016a9c83c0233c89a2e753306c9,[status] 2026-06-18 14:45:30 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/27832139649)
 gadenbuie,synamyn,gadenbuie/synamyn,10,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA
@@ -156,5 +156,36 @@ gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,449,11,32,37,FALSE,https://githu
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,445,9,7,27,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,5c8035bb856274d557a4b4a1ced4ada1bdce110b,Increment version number to 0.4.4.9000,[![](https://github.com/gadenbuie/xaringanthemer/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693085) [![](https://github.com/gadenbuie/xaringanthemer/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693207) [![](https://github.com/gadenbuie/xaringanthemer/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693118)
 gadenbuie,yap-with-claude,gadenbuie/yap-with-claude,0,0,0,0,FALSE,https://github.com/gadenbuie/yap-with-claude,0,NA,NA,NA
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,22,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,22,NA,NA,NA
-rstudio-education,gradethis,rstudio/gradethis,164,12,44,41,FALSE,https://github.com/rstudio/gradethis,NA,NA,NA,NA
+rstudio-education,gradethis,rstudio/gradethis,164,12,41,41,FALSE,https://github.com/rstudio/gradethis,NA,48aaf8957cdac09f45f540f841a6bcd55ac5e2f1,"fix: resolve R CMD check test failures (#370)
+
+* fix: resolve R CMD check test failures (issue #368)
+
+Four root causes addressed:
+
+- `local_mock()` defunct in testthat >= 3.2.0; replace with
+  `local_mocked_bindings()` in test-graded.R
+
+- `expect_true()` error message format changed from ""is not TRUE"" to
+  ""to be TRUE""; update test-graded.R assertion to match
+
+- `expect_type()` error now formats as multi-line HTML output; update
+  regex in test-code_feedback.R to use `[\s\S]` cross-line match
+  with `perl = TRUE`
+
+- ggplot2 4.0 changed `geom_point()` closure environment from the
+  package namespace to a child env; use `topenv(environment(fn))`
+  in `is_ggplot2_function()` so colour/color standardisation works
+
+Fixes #368
+
+* test: update graded snapshots for new rlang warning format
+
+rlang now formats warnings as `Condition\n  Warning in \`fn()\`:` rather
+than `Warning <simpleWarning>`. Accept the new snapshot output.
+
+* Tidy Description (GitHub Actions)
+
+---------
+
+Co-authored-by: gadenbuie <gadenbuie@users.noreply.github.com>",[![](https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/27776968353) [![](https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/27776969090) [![](https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/27776968431)
 rstudio,learnr,rstudio/learnr,734,31,152,240,FALSE,https://github.com/rstudio/learnr,NA,e7164a86172200cdfeb53c5f17382e1f86e3e78a,Increment version number to 0.11.6.9000,[![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/19337067606) [![](https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg)](https://github.com/rstudio/learnr/actions/runs/19337067571)
