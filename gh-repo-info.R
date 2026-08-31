@@ -12,7 +12,11 @@ library(readr)
 gh_workflows <- function(owner, repo, ...) {
   message(glue("[{owner}/{repo}] Getting workflows"))
   tryCatch(
-    gh("/repos/{owner}/{repo}/actions/workflows", owner = owner, repo = repo) %>%
+    gh(
+      "/repos/{owner}/{repo}/actions/workflows",
+      owner = owner,
+      repo = repo
+    ) %>%
       .$workflows,
     error = function(e) NULL
   )
@@ -26,7 +30,9 @@ gh_runs <- function(owner, repo, workflow_id, ...) {
     workflow_id = workflow_id,
     per_page = 1
   )
-  if (runs$total_count == 0) return(NULL)
+  if (runs$total_count == 0) {
+    return(NULL)
+  }
   runs$workflow_runs[[1]]
 }
 
@@ -39,7 +45,12 @@ gh_repo <- function(owner, repo, ...) {
 }
 
 gh_owner_repos <- function(owner) {
-  gh("/users/{username}/repos", username = owner, .limit = Inf, type = "owner") %>%
+  gh(
+    "/users/{username}/repos",
+    username = owner,
+    .limit = Inf,
+    type = "owner"
+  ) %>%
     map(keep, negate(is.null)) %>%
     map(keep, negate(is.list)) %>%
     map_dfr(as_tibble) %>%
@@ -103,7 +114,10 @@ gh_repo_workflows <- function(repos) {
       event = map_chr(runs, "event", .default = NA_character_),
       html_url_run = map_chr(runs, "html_url", .default = NA_character_),
       run_conclusion = map_chr(runs, "conclusion", .default = NA_character_),
-      commit_message = map_chr(runs, ~ .x$head_commit$message %||% NA_character_),
+      commit_message = map_chr(
+        runs,
+        ~ .x$head_commit$message %||% NA_character_
+      ),
       commit_id = map_chr(runs, ~ .x$head_commit$id %||% NA_character_)
     )
 }
@@ -115,7 +129,9 @@ gh_get_repo_status <- function(
   .write_csv = !interactive()
 ) {
   if (is.null(repo_list) && is.null(all_by_owner)) {
-    stop("At least one repo must be listed or a username must be provided in `all_by_owner`")
+    stop(
+      "At least one repo must be listed or a username must be provided in `all_by_owner`"
+    )
   }
 
   by_vars <- c("owner", "repo")
