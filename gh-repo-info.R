@@ -16,8 +16,7 @@ gh_workflows <- function(owner, repo, ...) {
       "/repos/{owner}/{repo}/actions/workflows",
       owner = owner,
       repo = repo
-    ) |>
-      .$workflows,
+    )$workflows,
     error = function(e) NULL
   )
 }
