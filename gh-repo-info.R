@@ -16,7 +16,7 @@ gh_workflows <- function(owner, repo, ...) {
       "/repos/{owner}/{repo}/actions/workflows",
       owner = owner,
       repo = repo
-    ) %>%
+    ) |>
       .$workflows,
     error = function(e) NULL
   )
@@ -50,19 +50,19 @@ gh_owner_repos <- function(owner) {
     username = owner,
     .limit = Inf,
     type = "owner"
-  ) %>%
-    map(keep, negate(is.null)) %>%
-    map(keep, negate(is.list)) %>%
-    map_dfr(as_tibble) %>%
-    filter(!private, !fork) %>%
-    mutate(owner = owner) %>%
+  ) |>
+    map(keep, negate(is.null)) |>
+    map(keep, negate(is.list)) |>
+    map_dfr(as_tibble) |>
+    filter(!private, !fork) |>
+    mutate(owner = owner) |>
     mutate(
       subscribers_count = map(
         subscribers_url,
         possibly(gh, otherwise = list())
-      ) %>%
+      ) |>
         map_int(length)
-    ) %>%
+    ) |>
     select(
       owner,
       repo = name,
@@ -70,7 +70,7 @@ gh_owner_repos <- function(owner) {
       contains("count"),
       html_url_repo = html_url,
       fork
-    ) %>%
+    ) |>
     arrange(desc(stargazers_count))
 }
 
@@ -84,7 +84,7 @@ gh_owner_repos <- memoise::memoise(gh_owner_repos, cache = cache_memory())
 gh_repo_stats <- function(repos) {
   # repos should be a tibble now with owner, repo
   repos$.repo <- pmap(repos, gh_repo)
-  repos %>%
+  repos |>
     mutate(
       full_name = map_chr(.repo, "full_name"),
       stargazers_count = map_dbl(.repo, "stargazers_count"),
@@ -99,17 +99,17 @@ gh_repo_stats <- function(repos) {
 
 gh_repo_workflows <- function(repos) {
   # repos should be a tibble with owner, repo
-  repos$.workflows <- repos %>% pmap(gh_workflows)
+  repos$.workflows <- repos |> pmap(gh_workflows)
 
-  workflows <- repos %>%
-    unnest(.workflows) %>%
+  workflows <- repos |>
+    unnest(.workflows) |>
     mutate(
       workflow_id = map_chr(.workflows, \(x) as.character(x$id)),
       badge_url = map_chr(.workflows, "badge_url")
     )
 
   workflows$runs <- pmap(workflows, gh_runs)
-  workflows %>%
+  workflows |>
     mutate(
       event = map_chr(runs, "event", .default = NA_character_),
       html_url_run = map_chr(runs, "html_url", .default = NA_character_),
@@ -137,27 +137,27 @@ gh_get_repo_status <- function(
   by_vars <- c("owner", "repo")
 
   repos <- if (!is.null(repo_list)) {
-    repo_list %>%
-      map_dfr(~ tibble(repo = .), .id = "owner") %>%
+    repo_list |>
+      map_dfr(~ tibble(repo = .), .id = "owner") |>
       gh_repo_stats()
   }
 
   if (!is.null(all_by_owner)) {
     owner_repos <- gh_owner_repos(all_by_owner)
     if (!is.null(repos)) {
-      owner_repos <- owner_repos %>% anti_join(repos, by = by_vars)
+      owner_repos <- owner_repos |> anti_join(repos, by = by_vars)
     }
     repos <- bind_rows(repos, owner_repos)
   }
 
-  workflows <- repos %>% select(owner, repo) %>% gh_repo_workflows()
+  workflows <- repos |> select(owner, repo) |> gh_repo_workflows()
 
   workflows <-
-    workflows %>%
-    filter(event %in% c("push", "schedule")) %>%
-    mutate(badge = glue::glue("[![]({badge_url})]({html_url_run})")) %>%
-    group_by(owner, repo, commit_id, commit_message) %>%
-    summarize(badge = paste(badge, collapse = " ")) %>%
+    workflows |>
+    filter(event %in% c("push", "schedule")) |>
+    mutate(badge = glue::glue("[![]({badge_url})]({html_url_run})")) |>
+    group_by(owner, repo, commit_id, commit_message) |>
+    summarize(badge = paste(badge, collapse = " ")) |>
     ungroup()
 
   repos <- bind_rows(
@@ -166,9 +166,9 @@ gh_get_repo_status <- function(
   )
 
   if (isTRUE(.write_csv)) {
-    repos %>%
-      select_if(negate(is.list)) %>%
-      arrange(full_name) %>%
+    repos |>
+      select_if(negate(is.list)) |>
+      arrange(full_name) |>
       write_csv("repos.csv")
   }
 
