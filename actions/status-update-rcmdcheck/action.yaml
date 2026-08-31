@@ -9,17 +9,15 @@ description: Trigger a status dashboard update
 
 inputs:
   github-token-repo-scope:
-    type: string
     required: true
   status-repo:
-    type: string
     required: true
 
 runs:
   using: composite
   steps:
     - name: "[Status] Update dashboard at ${{ inputs.status-repo }}"
-      uses: peter-evans/repository-dispatch@v1
+      uses: peter-evans/repository-dispatch@v4
       if: |
         (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main') &&
         matrix.config.os == 'ubuntu-latest' &&
