@@ -45,8 +45,21 @@ gh_owner_repos <- function(owner) {
     map_dfr(as_tibble) %>%
     filter(!private, !fork) %>%
     mutate(owner = owner) %>%
-    mutate(subscribers_count = map(subscribers_url, gh) %>% map_int(length)) %>%
-    select(owner, repo = name, full_name, contains("count"), html_url_repo = html_url, fork) %>%
+    mutate(
+      subscribers_count = map(
+        subscribers_url,
+        possibly(gh, otherwise = list())
+      ) %>%
+        map_int(length)
+    ) %>%
+    select(
+      owner,
+      repo = name,
+      full_name,
+      contains("count"),
+      html_url_repo = html_url,
+      fork
+    ) %>%
     arrange(desc(stargazers_count))
 }
 
