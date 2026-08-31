@@ -1,143 +1,146 @@
 GitHub Dashboard
 ================
 
-![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)  
-2026-07-02 13:27:26 UTC
+![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)
+2026-08-31 20:03:51 UTC
 
 | Repo | Stars | Subscribers | Issues | Forks | Status | Commit |
 |:---|---:|---:|---:|---:|:---|:---|
-| [rstudio/learnr](https://github.com/rstudio/learnr) | 735 | 31 | 152 | 241 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/19337067606) [![](https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg)](https://github.com/rstudio/learnr/actions/runs/19337067571) | <a href="https://github.com/rstudio/learnr/commit/e7164a86172200cdfeb53c5f17382e1f86e3e78a" title="Increment version number to 0.11.6.9000">e7164a</a> |
-| [gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer) | 445 | 9 | 7 | 27 | [![](https://github.com/gadenbuie/xaringanthemer/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693085) [![](https://github.com/gadenbuie/xaringanthemer/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693207) [![](https://github.com/gadenbuie/xaringanthemer/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693118) | <a href="https://github.com/gadenbuie/xaringanthemer/commit/5c8035bb856274d557a4b4a1ced4ada1bdce110b" title="Increment version number to 0.4.4.9000">5c8035</a> |
+| [rstudio/learnr](https://github.com/rstudio/learnr) | 736 | 31 | 152 | 241 | [![](https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/learnr/actions/runs/19337067606) [![](https://github.com/rstudio/learnr/workflows/pkgdown/badge.svg)](https://github.com/rstudio/learnr/actions/runs/19337067571) | <a href="https://github.com/rstudio/learnr/commit/e7164a86172200cdfeb53c5f17382e1f86e3e78a" title="Increment version number to 0.11.6.9000">e7164a</a> |
+| [gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer) | 444 | 9 | 7 | 27 | [![](https://github.com/gadenbuie/xaringanthemer/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693085) [![](https://github.com/gadenbuie/xaringanthemer/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693207) [![](https://github.com/gadenbuie/xaringanthemer/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/xaringanthemer/actions/runs/17139693118) | <a href="https://github.com/gadenbuie/xaringanthemer/commit/5c8035bb856274d557a4b4a1ced4ada1bdce110b" title="Increment version number to 0.4.4.9000">5c8035</a> |
+| [gadenbuie/epoxy](https://github.com/gadenbuie/epoxy) | 217 | 0 | 8 | 8 | [![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33426728363) | <a href="https://github.com/gadenbuie/epoxy/commit/4d0d2ede45c79bdb7edecfb4beb19be15d7e0a50" title="ci: re run">4d0d2e</a> |
+| [gadenbuie/epoxy](https://github.com/gadenbuie/epoxy) | 217 | 0 | 8 | 8 | [![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33426690901) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33426689289) [![](https://github.com/gadenbuie/epoxy/workflows/test-coverage.yaml/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33426689309) | <a href="https://github.com/gadenbuie/epoxy/commit/65bab5144f18dce56b4af563c0fcfcc8a34dac94" title="v1.0.1 (#132)">65bab5</a> |
 | [rstudio/gradethis](https://github.com/rstudio/gradethis) | 164 | 12 | 41 | 41 | [![](https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/27776968353) [![](https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/27776969090) [![](https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg)](https://github.com/rstudio/gradethis/actions/runs/27776968431) | <a href="https://github.com/rstudio/gradethis/commit/48aaf8957cdac09f45f540f841a6bcd55ac5e2f1" title="fix: resolve R CMD check test failures (#370)">48aaf8</a> |
-| [gadenbuie/countdown](https://github.com/gadenbuie/countdown) | 156 | 6 | 10 | 16 | [![](https://github.com/gadenbuie/countdown/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/countdown/actions/runs/19391095977) [![](https://github.com/gadenbuie/countdown/workflows/publish-docs.yaml/badge.svg)](https://github.com/gadenbuie/countdown/actions/runs/19391095986) | <a href="https://github.com/gadenbuie/countdown/commit/7a5f2c060cc2f222791260b389495c5d3eb02dcb" title="chore(r): Bump dev to v0.6.0.9000">7a5f2c</a> |
-| [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) | 123 | 1 | 7 | 4 | [![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/20016656162) | <a href="https://github.com/gadenbuie/shrtcts/commit/052165f97cdcaccddd9503a6fde56b333d978304" title="Merge pull request #26 from gadenbuie/feat/shortcut-run">052165</a> |
-| [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) | 123 | 1 | 7 | 4 | [![](https://github.com/gadenbuie/shrtcts/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/28392230781) | <a href="https://github.com/gadenbuie/shrtcts/commit/5b9e6cd80162fe0fbadfadfc19abbadee3a9da62" title="fix(roxygen2): Use `tag_words()` for roxygen2 v8+">5b9e6c</a> |
+| [gadenbuie/countdown](https://github.com/gadenbuie/countdown) | 157 | 0 | 10 | 16 | [![](https://github.com/gadenbuie/countdown/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/countdown/actions/runs/19391095977) [![](https://github.com/gadenbuie/countdown/workflows/publish-docs.yaml/badge.svg)](https://github.com/gadenbuie/countdown/actions/runs/19391095986) | <a href="https://github.com/gadenbuie/countdown/commit/7a5f2c060cc2f222791260b389495c5d3eb02dcb" title="chore(r): Bump dev to v0.6.0.9000">7a5f2c</a> |
+| [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) | 123 | 1 | 6 | 6 | [![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/20016656162) | <a href="https://github.com/gadenbuie/shrtcts/commit/052165f97cdcaccddd9503a6fde56b333d978304" title="Merge pull request #26 from gadenbuie/feat/shortcut-run">052165</a> |
+| [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) | 123 | 1 | 6 | 6 | [![](https://github.com/gadenbuie/shrtcts/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/28392230781) | <a href="https://github.com/gadenbuie/shrtcts/commit/5b9e6cd80162fe0fbadfadfc19abbadee3a9da62" title="fix(roxygen2): Use `tag_words()` for roxygen2 v8+">5b9e6c</a> |
+| [gadenbuie/grkstyle](https://github.com/gadenbuie/grkstyle) | 91 | 0 | 5 | 16 | [![](https://github.com/gadenbuie/grkstyle/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/grkstyle/actions/runs/29965736775) | <a href="https://github.com/gadenbuie/grkstyle/commit/36707d97c2bceafc1f269555159289827279522c" title="Fix legacy styler unindent wrapper (#14)">36707d</a> |
 | [gadenbuie/metathis](https://github.com/gadenbuie/metathis) | 66 | 1 | 5 | 4 | [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/25965900527) | <a href="https://github.com/gadenbuie/metathis/commit/81b8b6c0cc036b8768152d88c919c1b89f10caa4" title="fix: use pluck_depth when purrr >= 1.0.0 (#36)">81b8b6</a> |
-| [gadenbuie/mynorfolk-dash](https://github.com/gadenbuie/mynorfolk-dash) | 41 | 1 | 1 | 6 | [![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/28040863631) | <a href="https://github.com/gadenbuie/mynorfolk-dash/commit/4619c7c814725af56f2d3d6371f34dd2f5d6726b" title="[auto] Build Dashboard 2026-04-24 11:16">4619c7</a> |
+| [gadenbuie/mynorfolk-dash](https://github.com/gadenbuie/mynorfolk-dash) | 43 | 0 | 1 | 6 | [![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/28040863631) | <a href="https://github.com/gadenbuie/mynorfolk-dash/commit/4619c7c814725af56f2d3d6371f34dd2f5d6726b" title="[auto] Build Dashboard 2026-04-24 11:16">4619c7</a> |
 | [gadenbuie/starwarsdb](https://github.com/gadenbuie/starwarsdb) | 38 | 1 | 0 | 1 | [![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473) | <a href="https://github.com/gadenbuie/starwarsdb/commit/cd5e823ccbf88302b786bb4c6d21d42c198b715b" title="Increment version number to 0.1.3.9000">cd5e82</a> |
-| [gadenbuie/quarto-now](https://github.com/gadenbuie/quarto-now) | 32 | 1 | 0 | 3 | [![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/22318414606) | <a href="https://github.com/gadenbuie/quarto-now/commit/505802ea80099d4db0baf748c3a89c99524483bd" title="feat: add Quarto Wizard schema and snippets (#2)">505802</a> |
-| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 5 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/28593641878) | <a href="https://github.com/gadenbuie/status/commit/93c486fc08bbe6de8f9792eac5ee4b64e3aa0221" title="[status] 2026-07-01 14:06:46 UTC">93c486</a> |
-| [gadenbuie/quarto-partials](https://github.com/gadenbuie/quarto-partials) | 28 | 1 | 2 | 2 | [![](https://github.com/gadenbuie/quarto-partials/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-partials/actions/runs/24849283968) | <a href="https://github.com/gadenbuie/quarto-partials/commit/9da9cfbf783874f7043271d1f6f8a31fbf144f54" title="v0.1.2">9da9cf</a> |
-| [gadenbuie/quarto-auto-dark](https://github.com/gadenbuie/quarto-auto-dark) | 26 | 1 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-auto-dark/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-auto-dark/actions/runs/16419252701) | <a href="https://github.com/gadenbuie/quarto-auto-dark/commit/311a8a17c3641942d0a6df27d7dbaf73c2d38501" title="📄 include copy of license in repo root">311a8a</a> |
-| [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r) | 18 | 2 | 0 | 0 | [![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/21809936668) | <a href="https://github.com/gadenbuie/tidyjs-r/commit/ab08ac00ca174923699eccb624c44f11fe2c6804" title="fix: Use latest r-lib/actions at v2">ab08ac</a> |
-| [gadenbuie/quarto-tachyons](https://github.com/gadenbuie/quarto-tachyons) | 9 | 1 | 0 | 2 | [![](https://github.com/gadenbuie/quarto-tachyons/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-tachyons/actions/runs/17139878823) | <a href="https://github.com/gadenbuie/quarto-tachyons/commit/bff9281e8d87ee48799b63b325b6a3711747de3c" title="add inline use example (#2)">bff928</a> |
+| [gadenbuie/quarto-now](https://github.com/gadenbuie/quarto-now) | 33 | 0 | 0 | 3 | [![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/22318414606) | <a href="https://github.com/gadenbuie/quarto-now/commit/505802ea80099d4db0baf748c3a89c99524483bd" title="feat: add Quarto Wizard schema and snippets (#2)">505802</a> |
+| [gadenbuie/quarto-partials](https://github.com/gadenbuie/quarto-partials) | 29 | 0 | 2 | 2 | [![](https://github.com/gadenbuie/quarto-partials/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-partials/actions/runs/24849283968) | <a href="https://github.com/gadenbuie/quarto-partials/commit/9da9cfbf783874f7043271d1f6f8a31fbf144f54" title="v0.1.2">9da9cf</a> |
+| [gadenbuie/quarto-auto-dark](https://github.com/gadenbuie/quarto-auto-dark) | 26 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-auto-dark/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-auto-dark/actions/runs/16419252701) | <a href="https://github.com/gadenbuie/quarto-auto-dark/commit/311a8a17c3641942d0a6df27d7dbaf73c2d38501" title="📄 include copy of license in repo root">311a8a</a> |
+| [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r) | 18 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/21809936668) | <a href="https://github.com/gadenbuie/tidyjs-r/commit/ab08ac00ca174923699eccb624c44f11fe2c6804" title="fix: Use latest r-lib/actions at v2">ab08ac</a> |
+| [gadenbuie/quarto-tachyons](https://github.com/gadenbuie/quarto-tachyons) | 9 | 0 | 0 | 2 | [![](https://github.com/gadenbuie/quarto-tachyons/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-tachyons/actions/runs/17139878823) | <a href="https://github.com/gadenbuie/quarto-tachyons/commit/bff9281e8d87ee48799b63b325b6a3711747de3c" title="add inline use example (#2)">bff928</a> |
 | [gadenbuie/quarto-panel-accordion](https://github.com/gadenbuie/quarto-panel-accordion) | 8 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-panel-accordion/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-panel-accordion/actions/runs/16992888399) | <a href="https://github.com/gadenbuie/quarto-panel-accordion/commit/9b96815e093a1495e5d3d9ebdfada5557cc59a39" title="🔖 v0.0.6">9b9681</a> |
-| [gadenbuie/quarto-base64](https://github.com/gadenbuie/quarto-base64) | 7 | 1 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-base64/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-base64/actions/runs/22318385606) | <a href="https://github.com/gadenbuie/quarto-base64/commit/9f6b0ef5dfbe2763be6711b08a42660601619be1" title="feat: add Quarto Wizard schema and snippets (#2)">9f6b0e</a> |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 1 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/28586905962) | <a href="https://github.com/gadenbuie/gadenbuie/commit/5e584d9cf073588840d06bab6d8dbb2b7c31ec5e" title="Update github-metrics.svg - [Skip GitHub Action]">5e584d</a> |
-| [gadenbuie/utpr](https://github.com/gadenbuie/utpr) | 0 | 0 | 0 | 1 | [![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/28532456265) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/28532461260) | <a href="https://github.com/gadenbuie/utpr/commit/d6a644447106cedf51046707c661ecd0d55ec32c" title="fix(ci): align picker columns and skip unpushed-changes note with --pick">d6a644</a> |
+| [gadenbuie/quarto-base64](https://github.com/gadenbuie/quarto-base64) | 7 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-base64/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-base64/actions/runs/22318385606) | <a href="https://github.com/gadenbuie/quarto-base64/commit/9f6b0ef5dfbe2763be6711b08a42660601619be1" title="feat: add Quarto Wizard schema and snippets (#2)">9f6b0e</a> |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/33416245175) | <a href="https://github.com/gadenbuie/gadenbuie/commit/f12fc407aaba7ccbe518b5e3fec98e615765473b" title="Update github-metrics.svg - [Skip GitHub Action]">f12fc4</a> |
+| [gadenbuie/utpr](https://github.com/gadenbuie/utpr) | 2 | 0 | 0 | 1 | [![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/32869042301) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/32869332528) | <a href="https://github.com/gadenbuie/utpr/commit/fd0bf1e85d3465134af1a71c41139a65d5832bfa" title="Address review findings for CI rerun filtering and stacked PR edge cases">fd0bf1</a> |
+| [gadenbuie/local-speed-check](https://github.com/gadenbuie/local-speed-check) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/local-speed-check/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/local-speed-check/actions/runs/32513418773) | <a href="https://github.com/gadenbuie/local-speed-check/commit/564835107b890b7b40029737321f009dab8142f7" title="✨ initial commit">564835</a> |
 
 ## Repos without Github Actions
 
 | Repo | Stars | Subscribers | Issues | Forks |
 |:---|---:|---:|---:|---:|
-| [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) | 795 | 29 | 14 | 239 |
-| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) | 663 | 10 | 33 | 49 |
-| [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain) | 490 | 15 | 2 | 27 |
-| [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra) | 449 | 11 | 32 | 37 |
-| [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological) | 333 | 9 | 10 | 19 |
-| [gadenbuie/epoxy](https://github.com/gadenbuie/epoxy) | 217 | 2 | 7 | 8 |
-| [gadenbuie/cleanrmd](https://github.com/gadenbuie/cleanrmd) | 155 | 4 | 9 | 5 |
-| [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) | 127 | 6 | 6 | 75 |
-| [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly) | 110 | 4 | 1 | 12 |
-| [gadenbuie/tweetrmd](https://github.com/gadenbuie/tweetrmd) | 101 | 2 | 6 | 13 |
-| [gadenbuie/grkstyle](https://github.com/gadenbuie/grkstyle) | 91 | 3 | 5 | 15 |
-| [gadenbuie/gentle-ggplot2](https://github.com/gadenbuie/gentle-ggplot2) | 84 | 2 | 0 | 20 |
-| [gadenbuie/js4shiny](https://github.com/gadenbuie/js4shiny) | 54 | 4 | 2 | 3 |
-| [gadenbuie/mueller-report](https://github.com/gadenbuie/mueller-report) | 48 | 4 | 0 | 25 |
-| [gadenbuie/shinyComponents](https://github.com/gadenbuie/shinyComponents) | 45 | 2 | 5 | 4 |
-| [gadenbuie/trump-tweet-time](https://github.com/gadenbuie/trump-tweet-time) | 35 | 1 | 0 | 0 |
-| [gadenbuie/covid19-florida](https://github.com/gadenbuie/covid19-florida) | 32 | 7 | 8 | 7 |
-| [gadenbuie/lorem](https://github.com/gadenbuie/lorem) | 32 | 1 | 2 | 2 |
-| [gadenbuie/rsconf_tweets](https://github.com/gadenbuie/rsconf_tweets) | 31 | 3 | 0 | 14 |
-| [gadenbuie/slides](https://github.com/gadenbuie/slides) | 29 | 3 | 1 | 15 |
-| [gadenbuie/ermoji](https://github.com/gadenbuie/ermoji) | 27 | 1 | 0 | 0 |
-| [gadenbuie/garrickadenbuie-com](https://github.com/gadenbuie/garrickadenbuie-com) | 25 | 1 | 40 | 8 |
-| [gadenbuie/shinyThings](https://github.com/gadenbuie/shinyThings) | 25 | 1 | 2 | 3 |
-| [gadenbuie/positron-plus-1-e](https://github.com/gadenbuie/positron-plus-1-e) | 22 | 1 | 3 | 3 |
-| [gadenbuie/snippets](https://github.com/gadenbuie/snippets) | 22 | 1 | 1 | 6 |
-| [gadenbuie/trug-ggplot2](https://github.com/gadenbuie/trug-ggplot2) | 22 | 1 | 0 | 9 |
-| [gadenbuie/yule-rstudio](https://github.com/gadenbuie/yule-rstudio) | 22 | 2 | 0 | 8 |
-| [gadenbuie/tiktokrmd](https://github.com/gadenbuie/tiktokrmd) | 19 | 1 | 1 | 0 |
-| [gadenbuie/xaringan-logo](https://github.com/gadenbuie/xaringan-logo) | 17 | 1 | 0 | 17 |
-| [gadenbuie/xaringan2powerpoint](https://github.com/gadenbuie/xaringan2powerpoint) | 17 | 1 | 1 | 1 |
-| [gadenbuie/tweets-of-the-year](https://github.com/gadenbuie/tweets-of-the-year) | 16 | 1 | 4 | 2 |
-| [gadenbuie/repromonkey](https://github.com/gadenbuie/repromonkey) | 15 | 1 | 4 | 0 |
-| [gadenbuie/revealjs-text-resizer](https://github.com/gadenbuie/revealjs-text-resizer) | 15 | 1 | 0 | 0 |
-| [gadenbuie/drake-intro](https://github.com/gadenbuie/drake-intro) | 14 | 2 | 1 | 5 |
-| [gadenbuie/getcitations](https://github.com/gadenbuie/getcitations) | 14 | 1 | 0 | 3 |
-| [gadenbuie/rstudio-global-2021-calendar](https://github.com/gadenbuie/rstudio-global-2021-calendar) | 14 | 1 | 1 | 4 |
-| [gadenbuie/sprinkles](https://github.com/gadenbuie/sprinkles) | 14 | 1 | 6 | 1 |
-| [gadenbuie/applause](https://github.com/gadenbuie/applause) | 13 | 1 | 2 | 1 |
-| [gadenbuie/rmedicine-2024-bslib](https://github.com/gadenbuie/rmedicine-2024-bslib) | 13 | 2 | 0 | 16 |
-| [gadenbuie/de-iris-my-repos](https://github.com/gadenbuie/de-iris-my-repos) | 12 | 1 | 0 | 0 |
-| [gadenbuie/intro-to-git-for-scientists](https://github.com/gadenbuie/intro-to-git-for-scientists) | 12 | 1 | 0 | 2 |
-| [gadenbuie/oceanic-eighties](https://github.com/gadenbuie/oceanic-eighties) | 12 | 1 | 0 | 4 |
+| [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) | 797 | 0 | 14 | 237 |
+| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) | 665 | 0 | 33 | 50 |
+| [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain) | 491 | 0 | 2 | 28 |
+| [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra) | 448 | 11 | 32 | 38 |
+| [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological) | 334 | 0 | 10 | 19 |
+| [gadenbuie/cleanrmd](https://github.com/gadenbuie/cleanrmd) | 156 | 0 | 11 | 6 |
+| [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) | 127 | 0 | 6 | 75 |
+| [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly) | 110 | 0 | 1 | 12 |
+| [gadenbuie/tweetrmd](https://github.com/gadenbuie/tweetrmd) | 101 | 0 | 6 | 13 |
+| [gadenbuie/gentle-ggplot2](https://github.com/gadenbuie/gentle-ggplot2) | 84 | 0 | 0 | 20 |
+| [gadenbuie/js4shiny](https://github.com/gadenbuie/js4shiny) | 54 | 4 | 2 | 4 |
+| [gadenbuie/mueller-report](https://github.com/gadenbuie/mueller-report) | 48 | 0 | 0 | 25 |
+| [gadenbuie/shinyComponents](https://github.com/gadenbuie/shinyComponents) | 45 | 0 | 5 | 4 |
+| [gadenbuie/trump-tweet-time](https://github.com/gadenbuie/trump-tweet-time) | 37 | 0 | 0 | 0 |
+| [gadenbuie/covid19-florida](https://github.com/gadenbuie/covid19-florida) | 32 | 0 | 8 | 7 |
+| [gadenbuie/lorem](https://github.com/gadenbuie/lorem) | 32 | 0 | 2 | 2 |
+| [gadenbuie/rsconf_tweets](https://github.com/gadenbuie/rsconf_tweets) | 31 | 0 | 0 | 14 |
+| [gadenbuie/slides](https://github.com/gadenbuie/slides) | 29 | 0 | 1 | 15 |
+| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 |
+| [gadenbuie/ermoji](https://github.com/gadenbuie/ermoji) | 27 | 0 | 0 | 1 |
+| [gadenbuie/garrickadenbuie-com](https://github.com/gadenbuie/garrickadenbuie-com) | 25 | 0 | 40 | 8 |
+| [gadenbuie/shinyThings](https://github.com/gadenbuie/shinyThings) | 25 | 0 | 2 | 3 |
+| [gadenbuie/snippets](https://github.com/gadenbuie/snippets) | 23 | 0 | 1 | 6 |
+| [gadenbuie/positron-plus-1-e](https://github.com/gadenbuie/positron-plus-1-e) | 22 | 0 | 3 | 3 |
+| [gadenbuie/trug-ggplot2](https://github.com/gadenbuie/trug-ggplot2) | 22 | 0 | 0 | 9 |
+| [gadenbuie/yule-rstudio](https://github.com/gadenbuie/yule-rstudio) | 22 | 0 | 0 | 8 |
+| [gadenbuie/tiktokrmd](https://github.com/gadenbuie/tiktokrmd) | 19 | 0 | 1 | 0 |
+| [gadenbuie/xaringan-logo](https://github.com/gadenbuie/xaringan-logo) | 17 | 0 | 0 | 17 |
+| [gadenbuie/xaringan2powerpoint](https://github.com/gadenbuie/xaringan2powerpoint) | 17 | 0 | 1 | 1 |
+| [gadenbuie/tweets-of-the-year](https://github.com/gadenbuie/tweets-of-the-year) | 16 | 0 | 4 | 2 |
+| [gadenbuie/repromonkey](https://github.com/gadenbuie/repromonkey) | 15 | 0 | 4 | 1 |
+| [gadenbuie/revealjs-text-resizer](https://github.com/gadenbuie/revealjs-text-resizer) | 15 | 0 | 0 | 0 |
+| [gadenbuie/drake-intro](https://github.com/gadenbuie/drake-intro) | 14 | 0 | 1 | 5 |
+| [gadenbuie/getcitations](https://github.com/gadenbuie/getcitations) | 14 | 0 | 0 | 3 |
+| [gadenbuie/rstudio-global-2021-calendar](https://github.com/gadenbuie/rstudio-global-2021-calendar) | 14 | 0 | 1 | 4 |
+| [gadenbuie/sprinkles](https://github.com/gadenbuie/sprinkles) | 14 | 0 | 6 | 1 |
+| [gadenbuie/applause](https://github.com/gadenbuie/applause) | 13 | 0 | 2 | 1 |
+| [gadenbuie/rmedicine-2024-bslib](https://github.com/gadenbuie/rmedicine-2024-bslib) | 13 | 0 | 0 | 16 |
+| [gadenbuie/de-iris-my-repos](https://github.com/gadenbuie/de-iris-my-repos) | 12 | 0 | 0 | 0 |
+| [gadenbuie/intro-to-git-for-scientists](https://github.com/gadenbuie/intro-to-git-for-scientists) | 12 | 0 | 0 | 2 |
+| [gadenbuie/oceanic-eighties](https://github.com/gadenbuie/oceanic-eighties) | 12 | 0 | 0 | 4 |
 | [gadenbuie/genAI-2025-llms-meet-shiny](https://github.com/gadenbuie/genAI-2025-llms-meet-shiny) | 10 | 0 | 0 | 0 |
-| [gadenbuie/synamyn](https://github.com/gadenbuie/synamyn) | 10 | 1 | 0 | 0 |
-| [gadenbuie/branchMover](https://github.com/gadenbuie/branchMover) | 9 | 1 | 1 | 1 |
-| [gadenbuie/gathertweet](https://github.com/gadenbuie/gathertweet) | 9 | 1 | 4 | 2 |
-| [gadenbuie/quarto-bluesky-comments](https://github.com/gadenbuie/quarto-bluesky-comments) | 9 | 2 | 2 | 2 |
-| [gadenbuie/rsprefs](https://github.com/gadenbuie/rsprefs) | 9 | 2 | 0 | 0 |
-| [gadenbuie/js4shiny-drumkit](https://github.com/gadenbuie/js4shiny-drumkit) | 8 | 1 | 0 | 1 |
-| [gadenbuie/js4shiny-frappeCharts](https://github.com/gadenbuie/js4shiny-frappeCharts) | 8 | 1 | 2 | 3 |
-| [gadenbuie/r-colors-css](https://github.com/gadenbuie/r-colors-css) | 8 | 1 | 0 | 1 |
-| [gadenbuie/mctestanalysis](https://github.com/gadenbuie/mctestanalysis) | 7 | 3 | 10 | 2 |
-| [gadenbuie/msglooker](https://github.com/gadenbuie/msglooker) | 7 | 1 | 1 | 0 |
-| [gadenbuie/rstudio-ide-tips-demo](https://github.com/gadenbuie/rstudio-ide-tips-demo) | 7 | 1 | 0 | 2 |
-| [gadenbuie/rstudio-ide-tips](https://github.com/gadenbuie/rstudio-ide-tips) | 6 | 1 | 0 | 1 |
-| [gadenbuie/drake-rstudio-jobs-example](https://github.com/gadenbuie/drake-rstudio-jobs-example) | 5 | 1 | 0 | 0 |
+| [gadenbuie/synamyn](https://github.com/gadenbuie/synamyn) | 10 | 0 | 0 | 0 |
+| [gadenbuie/branchMover](https://github.com/gadenbuie/branchMover) | 9 | 0 | 1 | 1 |
+| [gadenbuie/gathertweet](https://github.com/gadenbuie/gathertweet) | 9 | 0 | 4 | 3 |
+| [gadenbuie/quarto-bluesky-comments](https://github.com/gadenbuie/quarto-bluesky-comments) | 9 | 0 | 2 | 2 |
+| [gadenbuie/rsprefs](https://github.com/gadenbuie/rsprefs) | 9 | 0 | 0 | 0 |
+| [gadenbuie/js4shiny-drumkit](https://github.com/gadenbuie/js4shiny-drumkit) | 8 | 0 | 0 | 1 |
+| [gadenbuie/js4shiny-frappeCharts](https://github.com/gadenbuie/js4shiny-frappeCharts) | 8 | 0 | 2 | 3 |
+| [gadenbuie/r-colors-css](https://github.com/gadenbuie/r-colors-css) | 8 | 0 | 0 | 1 |
+| [gadenbuie/mctestanalysis](https://github.com/gadenbuie/mctestanalysis) | 7 | 0 | 10 | 3 |
+| [gadenbuie/msglooker](https://github.com/gadenbuie/msglooker) | 7 | 0 | 1 | 0 |
+| [gadenbuie/rstudio-ide-tips-demo](https://github.com/gadenbuie/rstudio-ide-tips-demo) | 7 | 0 | 0 | 2 |
+| [gadenbuie/rstudio-ide-tips](https://github.com/gadenbuie/rstudio-ide-tips) | 6 | 0 | 0 | 1 |
+| [gadenbuie/drake-rstudio-jobs-example](https://github.com/gadenbuie/drake-rstudio-jobs-example) | 5 | 0 | 0 | 0 |
 | [gadenbuie/ds-lab-agent-skills](https://github.com/gadenbuie/ds-lab-agent-skills) | 5 | 0 | 0 | 0 |
-| [gadenbuie/rstudioAddinFriend](https://github.com/gadenbuie/rstudioAddinFriend) | 5 | 1 | 0 | 0 |
-| [gadenbuie/brand-yml-posit-conf-2025](https://github.com/gadenbuie/brand-yml-posit-conf-2025) | 4 | 1 | 0 | 2 |
-| [gadenbuie/docker-rstudio-keras](https://github.com/gadenbuie/docker-rstudio-keras) | 4 | 1 | 0 | 1 |
-| [gadenbuie/extra-awesome-xaringan](https://github.com/gadenbuie/extra-awesome-xaringan) | 4 | 1 | 0 | 3 |
-| [gadenbuie/fwiffer](https://github.com/gadenbuie/fwiffer) | 4 | 1 | 0 | 1 |
-| [gadenbuie/grkgdown](https://github.com/gadenbuie/grkgdown) | 4 | 1 | 0 | 0 |
-| [gadenbuie/pagedown-cheatsheet](https://github.com/gadenbuie/pagedown-cheatsheet) | 4 | 1 | 0 | 0 |
-| [gadenbuie/aws-p2-setup](https://github.com/gadenbuie/aws-p2-setup) | 3 | 1 | 0 | 0 |
-| [gadenbuie/crantrack](https://github.com/gadenbuie/crantrack) | 3 | 1 | 0 | 2 |
-| [gadenbuie/js4shiny-workshop-webpage](https://github.com/gadenbuie/js4shiny-workshop-webpage) | 3 | 1 | 0 | 4 |
-| [gadenbuie/nonlinear-opt-notes](https://github.com/gadenbuie/nonlinear-opt-notes) | 3 | 2 | 0 | 3 |
-| [gadenbuie/quarto-utopia-slides](https://github.com/gadenbuie/quarto-utopia-slides) | 3 | 1 | 0 | 0 |
-| [gadenbuie/rstatsnyc-2018-tweets](https://github.com/gadenbuie/rstatsnyc-2018-tweets) | 3 | 1 | 0 | 0 |
+| [gadenbuie/rstudioAddinFriend](https://github.com/gadenbuie/rstudioAddinFriend) | 5 | 0 | 0 | 0 |
+| [gadenbuie/brand-yml-posit-conf-2025](https://github.com/gadenbuie/brand-yml-posit-conf-2025) | 4 | 0 | 0 | 2 |
+| [gadenbuie/docker-rstudio-keras](https://github.com/gadenbuie/docker-rstudio-keras) | 4 | 0 | 0 | 1 |
+| [gadenbuie/extra-awesome-xaringan](https://github.com/gadenbuie/extra-awesome-xaringan) | 4 | 0 | 0 | 3 |
+| [gadenbuie/fwiffer](https://github.com/gadenbuie/fwiffer) | 4 | 0 | 0 | 1 |
+| [gadenbuie/grkgdown](https://github.com/gadenbuie/grkgdown) | 4 | 0 | 0 | 0 |
+| [gadenbuie/nonlinear-opt-notes](https://github.com/gadenbuie/nonlinear-opt-notes) | 4 | 0 | 0 | 3 |
+| [gadenbuie/pagedown-cheatsheet](https://github.com/gadenbuie/pagedown-cheatsheet) | 4 | 0 | 0 | 0 |
+| [gadenbuie/aws-p2-setup](https://github.com/gadenbuie/aws-p2-setup) | 3 | 0 | 0 | 0 |
+| [gadenbuie/crantrack](https://github.com/gadenbuie/crantrack) | 3 | 0 | 0 | 2 |
+| [gadenbuie/js4shiny-workshop-webpage](https://github.com/gadenbuie/js4shiny-workshop-webpage) | 3 | 0 | 0 | 4 |
+| [gadenbuie/quarto-utopia-slides](https://github.com/gadenbuie/quarto-utopia-slides) | 3 | 0 | 0 | 0 |
+| [gadenbuie/rstatsnyc-2018-tweets](https://github.com/gadenbuie/rstatsnyc-2018-tweets) | 3 | 0 | 0 | 0 |
 | [gadenbuie/ten-thousand-functions](https://github.com/gadenbuie/ten-thousand-functions) | 3 | 0 | 0 | 0 |
-| [gadenbuie/xaringan-club](https://github.com/gadenbuie/xaringan-club) | 3 | 1 | 0 | 0 |
-| [gadenbuie/alix](https://github.com/gadenbuie/alix) | 2 | 1 | 0 | 0 |
-| [gadenbuie/r-exchange-shiny-ai](https://github.com/gadenbuie/r-exchange-shiny-ai) | 2 | 1 | 0 | 0 |
-| [gadenbuie/rocker-verse-metaflow](https://github.com/gadenbuie/rocker-verse-metaflow) | 2 | 1 | 0 | 0 |
-| [gadenbuie/rstats-tweets](https://github.com/gadenbuie/rstats-tweets) | 2 | 1 | 0 | 0 |
-| [gadenbuie/rstudioconf-notes](https://github.com/gadenbuie/rstudioconf-notes) | 2 | 2 | 0 | 0 |
-| [gadenbuie/speedDate](https://github.com/gadenbuie/speedDate) | 2 | 1 | 0 | 1 |
-| [gadenbuie/brand-yml-r-for-the-rest-of-us](https://github.com/gadenbuie/brand-yml-r-for-the-rest-of-us) | 1 | 1 | 0 | 1 |
-| [gadenbuie/daily-treasury](https://github.com/gadenbuie/daily-treasury) | 1 | 1 | 0 | 0 |
-| [gadenbuie/docker-shinycannon](https://github.com/gadenbuie/docker-shinycannon) | 1 | 1 | 0 | 0 |
-| [gadenbuie/ms-render-ui-delay](https://github.com/gadenbuie/ms-render-ui-delay) | 1 | 1 | 0 | 0 |
-| [gadenbuie/podcasts](https://github.com/gadenbuie/podcasts) | 1 | 1 | 0 | 0 |
-| [gadenbuie/quarto-dark-light](https://github.com/gadenbuie/quarto-dark-light) | 1 | 1 | 0 | 0 |
-| [gadenbuie/quarto-reprex-listing-chomp](https://github.com/gadenbuie/quarto-reprex-listing-chomp) | 1 | 1 | 0 | 0 |
-| [gadenbuie/resume](https://github.com/gadenbuie/resume) | 1 | 1 | 4 | 1 |
-| [gadenbuie/usf-boot-camp-R](https://github.com/gadenbuie/usf-boot-camp-R) | 1 | 2 | 0 | 3 |
-| [gadenbuie/xaringan-line-focus](https://github.com/gadenbuie/xaringan-line-focus) | 1 | 1 | 0 | 0 |
-| [gadenbuie/actionTest](https://github.com/gadenbuie/actionTest) | 0 | 1 | 1 | 0 |
-| [gadenbuie/boostrap-v3-theme-minty](https://github.com/gadenbuie/boostrap-v3-theme-minty) | 0 | 1 | 1 | 1 |
-| [gadenbuie/covid19-florida-ahca](https://github.com/gadenbuie/covid19-florida-ahca) | 0 | 1 | 0 | 0 |
-| [gadenbuie/covid19-florida-cases-by-day](https://github.com/gadenbuie/covid19-florida-cases-by-day) | 0 | 1 | 0 | 0 |
-| [gadenbuie/docker-snowplowr](https://github.com/gadenbuie/docker-snowplowr) | 0 | 1 | 0 | 0 |
+| [gadenbuie/xaringan-club](https://github.com/gadenbuie/xaringan-club) | 3 | 0 | 0 | 0 |
+| [gadenbuie/alix](https://github.com/gadenbuie/alix) | 2 | 0 | 0 | 0 |
+| [gadenbuie/r-exchange-shiny-ai](https://github.com/gadenbuie/r-exchange-shiny-ai) | 2 | 0 | 0 | 0 |
+| [gadenbuie/rocker-verse-metaflow](https://github.com/gadenbuie/rocker-verse-metaflow) | 2 | 0 | 0 | 0 |
+| [gadenbuie/rstats-tweets](https://github.com/gadenbuie/rstats-tweets) | 2 | 0 | 0 | 0 |
+| [gadenbuie/rstudioconf-notes](https://github.com/gadenbuie/rstudioconf-notes) | 2 | 0 | 0 | 0 |
+| [gadenbuie/speedDate](https://github.com/gadenbuie/speedDate) | 2 | 0 | 0 | 1 |
+| [gadenbuie/brand-yml-r-for-the-rest-of-us](https://github.com/gadenbuie/brand-yml-r-for-the-rest-of-us) | 1 | 0 | 0 | 1 |
+| [gadenbuie/daily-treasury](https://github.com/gadenbuie/daily-treasury) | 1 | 0 | 0 | 0 |
+| [gadenbuie/docker-shinycannon](https://github.com/gadenbuie/docker-shinycannon) | 1 | 0 | 0 | 0 |
+| [gadenbuie/ms-render-ui-delay](https://github.com/gadenbuie/ms-render-ui-delay) | 1 | 0 | 0 | 0 |
+| [gadenbuie/podcasts](https://github.com/gadenbuie/podcasts) | 1 | 0 | 0 | 0 |
+| [gadenbuie/quarto-dark-light](https://github.com/gadenbuie/quarto-dark-light) | 1 | 0 | 0 | 0 |
+| [gadenbuie/quarto-reprex-listing-chomp](https://github.com/gadenbuie/quarto-reprex-listing-chomp) | 1 | 0 | 0 | 0 |
+| [gadenbuie/resume](https://github.com/gadenbuie/resume) | 1 | 0 | 4 | 1 |
+| [gadenbuie/usf-boot-camp-R](https://github.com/gadenbuie/usf-boot-camp-R) | 1 | 0 | 0 | 3 |
+| [gadenbuie/xaringan-line-focus](https://github.com/gadenbuie/xaringan-line-focus) | 1 | 0 | 0 | 0 |
+| [gadenbuie/actionTest](https://github.com/gadenbuie/actionTest) | 0 | 0 | 1 | 0 |
+| [gadenbuie/boostrap-v3-theme-minty](https://github.com/gadenbuie/boostrap-v3-theme-minty) | 0 | 0 | 1 | 1 |
+| [gadenbuie/covid19-florida-ahca](https://github.com/gadenbuie/covid19-florida-ahca) | 0 | 0 | 0 | 0 |
+| [gadenbuie/covid19-florida-cases-by-day](https://github.com/gadenbuie/covid19-florida-cases-by-day) | 0 | 0 | 0 | 0 |
+| [gadenbuie/docker-snowplowr](https://github.com/gadenbuie/docker-snowplowr) | 0 | 0 | 0 | 0 |
 | [gadenbuie/DragDrop](https://github.com/gadenbuie/DragDrop) | 0 | 0 | 0 | 0 |
-| [gadenbuie/elm-vscode-theme](https://github.com/gadenbuie/elm-vscode-theme) | 0 | 2 | 0 | 0 |
+| [gadenbuie/elm-vscode-theme](https://github.com/gadenbuie/elm-vscode-theme) | 0 | 0 | 0 | 0 |
 | [gadenbuie/explore-roc-pr](https://github.com/gadenbuie/explore-roc-pr) | 0 | 0 | 0 | 0 |
-| [gadenbuie/gadenbuie.github.io](https://github.com/gadenbuie/gadenbuie.github.io) | 0 | 1 | 0 | 1 |
-| [gadenbuie/gadenbuie.r-universe.dev](https://github.com/gadenbuie/gadenbuie.r-universe.dev) | 0 | 1 | 0 | 0 |
-| [gadenbuie/isg-2018](https://github.com/gadenbuie/isg-2018) | 0 | 1 | 0 | 0 |
-| [gadenbuie/iyo-apero-awesome](https://github.com/gadenbuie/iyo-apero-awesome) | 0 | 1 | 0 | 0 |
-| [gadenbuie/pkgDocsWorkflowTest](https://github.com/gadenbuie/pkgDocsWorkflowTest) | 0 | 1 | 1 | 0 |
-| [gadenbuie/pkgdownArticleFormat](https://github.com/gadenbuie/pkgdownArticleFormat) | 0 | 1 | 0 | 0 |
-| [gadenbuie/quarto-reprex](https://github.com/gadenbuie/quarto-reprex) | 0 | 1 | 0 | 0 |
-| [gadenbuie/renv-git-submodules](https://github.com/gadenbuie/renv-git-submodules) | 0 | 1 | 0 | 0 |
-| [gadenbuie/renv-wrong-remote-ref](https://github.com/gadenbuie/renv-wrong-remote-ref) | 0 | 1 | 0 | 0 |
+| [gadenbuie/gadenbuie.github.io](https://github.com/gadenbuie/gadenbuie.github.io) | 0 | 0 | 0 | 1 |
+| [gadenbuie/gadenbuie.r-universe.dev](https://github.com/gadenbuie/gadenbuie.r-universe.dev) | 0 | 0 | 0 | 0 |
+| [gadenbuie/isg-2018](https://github.com/gadenbuie/isg-2018) | 0 | 0 | 0 | 0 |
+| [gadenbuie/iyo-apero-awesome](https://github.com/gadenbuie/iyo-apero-awesome) | 0 | 0 | 0 | 0 |
+| [gadenbuie/pkgDocsWorkflowTest](https://github.com/gadenbuie/pkgDocsWorkflowTest) | 0 | 0 | 1 | 0 |
+| [gadenbuie/pkgdownArticleFormat](https://github.com/gadenbuie/pkgdownArticleFormat) | 0 | 0 | 0 | 0 |
+| [gadenbuie/quarto-reprex](https://github.com/gadenbuie/quarto-reprex) | 0 | 0 | 0 | 0 |
+| [gadenbuie/renv-git-submodules](https://github.com/gadenbuie/renv-git-submodules) | 0 | 0 | 0 | 0 |
+| [gadenbuie/renv-wrong-remote-ref](https://github.com/gadenbuie/renv-wrong-remote-ref) | 0 | 0 | 0 | 0 |
 | [gadenbuie/reprex-quarto-htmltools-deps](https://github.com/gadenbuie/reprex-quarto-htmltools-deps) | 0 | 0 | 0 | 0 |
-| [gadenbuie/shiny-data-sci-adventure](https://github.com/gadenbuie/shiny-data-sci-adventure) | 0 | 1 | 0 | 0 |
-| [gadenbuie/sqrrl](https://github.com/gadenbuie/sqrrl) | 0 | 1 | 1 | 1 |
-| [gadenbuie/tidy-tuesday](https://github.com/gadenbuie/tidy-tuesday) | 0 | 1 | 0 | 0 |
-| [gadenbuie/xaringan-accessible-plot](https://github.com/gadenbuie/xaringan-accessible-plot) | 0 | 1 | 0 | 0 |
+| [gadenbuie/shiny-data-sci-adventure](https://github.com/gadenbuie/shiny-data-sci-adventure) | 0 | 0 | 0 | 0 |
+| [gadenbuie/sqrrl](https://github.com/gadenbuie/sqrrl) | 0 | 0 | 1 | 2 |
+| [gadenbuie/stylize.css](https://github.com/gadenbuie/stylize.css) | 0 | 0 | 0 | 7 |
+| [gadenbuie/tidy-tuesday](https://github.com/gadenbuie/tidy-tuesday) | 0 | 0 | 0 | 0 |
+| [gadenbuie/xaringan-accessible-plot](https://github.com/gadenbuie/xaringan-accessible-plot) | 0 | 0 | 0 | 0 |
 | [gadenbuie/yap-with-claude](https://github.com/gadenbuie/yap-with-claude) | 0 | 0 | 0 | 0 |
