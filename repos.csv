@@ -23,41 +23,12 @@ gadenbuie,drake-intro,gadenbuie/drake-intro,14,0,1,5,FALSE,https://github.com/ga
 gadenbuie,drake-rstudio-jobs-example,gadenbuie/drake-rstudio-jobs-example,5,0,0,0,FALSE,https://github.com/gadenbuie/drake-rstudio-jobs-example,5,NA,NA,NA
 gadenbuie,ds-lab-agent-skills,gadenbuie/ds-lab-agent-skills,5,0,0,0,FALSE,https://github.com/gadenbuie/ds-lab-agent-skills,5,NA,NA,NA
 gadenbuie,elm-vscode-theme,gadenbuie/elm-vscode-theme,0,0,0,0,FALSE,https://github.com/gadenbuie/elm-vscode-theme,0,NA,NA,NA
-gadenbuie,epoxy,gadenbuie/epoxy,217,0,8,8,FALSE,https://github.com/gadenbuie/epoxy,217,4d0d2ede45c79bdb7edecfb4beb19be15d7e0a50,ci: re run,[![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33426728363)
-gadenbuie,epoxy,gadenbuie/epoxy,217,0,8,8,FALSE,https://github.com/gadenbuie/epoxy,217,65bab5144f18dce56b4af563c0fcfcc8a34dac94,"v1.0.1 (#132)
-
-* Increment version number to 1.0.1
-
-* docs: update version link
-
-* chore: switch to formatting with air
-
-* chore: tidy description
-
-* chore: use cran comments
-
-* chore: fix and udpate URLs
-
-* chore: build readme
-
-* chore: build ignore air.toml
-
-* docs: fix one more link
-
-* ci: re run
-
-* Re-build README.Rmd (GitHub Actions)
-
-* ci: re run
-
----------
-
-Co-authored-by: gadenbuie <gadenbuie@users.noreply.github.com>",[![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33426690901) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33426689289) [![](https://github.com/gadenbuie/epoxy/workflows/test-coverage.yaml/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33426689309)
+gadenbuie,epoxy,gadenbuie/epoxy,217,0,8,8,FALSE,https://github.com/gadenbuie/epoxy,217,6333d46dc80cbef8721e95fd99731247a367275f,Increment version number to 1.0.1.9000,[![](https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33436845577) [![](https://github.com/gadenbuie/epoxy/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33436844488) [![](https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33436844476) [![](https://github.com/gadenbuie/epoxy/workflows/test-coverage.yaml/badge.svg)](https://github.com/gadenbuie/epoxy/actions/runs/33436844461)
 gadenbuie,ermoji,gadenbuie/ermoji,27,0,0,1,FALSE,https://github.com/gadenbuie/ermoji,27,NA,NA,NA
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,0,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,0,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,f12fc407aaba7ccbe518b5e3fec98e615765473b,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/33416245175)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,09b4f6a9f335ed3efd5204b20f36aa659a1a3bf3,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/33512103892)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,0,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,0,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,25,0,40,8,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,25,NA,NA,NA
@@ -154,7 +125,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,0,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,0,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,0,1,2,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,38,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473)
-gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,NA,NA,NA
+gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,2811c1eee28fc01c7e33dfb9f6149af691511501,[status] 2026-08-31 20:05:29 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/33531840699)
 gadenbuie,stylize.css,gadenbuie/stylize.css,0,0,0,7,FALSE,https://github.com/gadenbuie/stylize.css,0,NA,NA,NA
 gadenbuie,synamyn,gadenbuie/synamyn,10,0,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
