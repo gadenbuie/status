@@ -28,7 +28,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,27,0,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,0,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,0,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,6478b07bf47f3da01155bcaa1b4762bad6b0cdb8,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/33760596915)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,3adfb5a68c4314edfe9db22ed94990a89d07c780,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/33876995173)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,0,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,0,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,25,0,40,8,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,25,NA,NA,NA
@@ -93,7 +93,7 @@ gadenbuie,quarto-tachyons,gadenbuie/quarto-tachyons,9,0,0,2,FALSE,https://github
 gadenbuie,quarto-utopia-slides,gadenbuie/quarto-utopia-slides,3,0,0,0,FALSE,https://github.com/gadenbuie/quarto-utopia-slides,3,NA,NA,NA
 gadenbuie,r-colors-css,gadenbuie/r-colors-css,8,0,0,1,FALSE,https://github.com/gadenbuie/r-colors-css,8,NA,NA,NA
 gadenbuie,r-exchange-shiny-ai,gadenbuie/r-exchange-shiny-ai,2,0,0,0,FALSE,https://github.com/gadenbuie/r-exchange-shiny-ai,2,NA,NA,NA
-gadenbuie,regexplain,gadenbuie/regexplain,491,0,2,28,FALSE,https://github.com/gadenbuie/regexplain,491,NA,NA,NA
+gadenbuie,regexplain,gadenbuie/regexplain,492,0,2,28,FALSE,https://github.com/gadenbuie/regexplain,492,NA,NA,NA
 gadenbuie,renv-git-submodules,gadenbuie/renv-git-submodules,0,0,0,0,FALSE,https://github.com/gadenbuie/renv-git-submodules,0,NA,NA,NA
 gadenbuie,renv-wrong-remote-ref,gadenbuie/renv-wrong-remote-ref,0,0,0,0,FALSE,https://github.com/gadenbuie/renv-wrong-remote-ref,0,NA,NA,NA
 gadenbuie,reprex-quarto-htmltools-deps,gadenbuie/reprex-quarto-htmltools-deps,0,0,0,0,FALSE,https://github.com/gadenbuie/reprex-quarto-htmltools-deps,0,NA,NA,NA
@@ -125,7 +125,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,0,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,0,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,0,1,2,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,38,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473)
-gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,39b071aa10b659d18b92afc8c8ce641f79dda1e6,[status] 2026-09-02 16:28:31 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/33777515210)
+gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,4e87fa5b95774ca8cfca8401ff569e886fbaba1e,[status] 2026-09-03 16:18:53 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/33893666809)
 gadenbuie,stylize.css,gadenbuie/stylize.css,0,0,0,7,FALSE,https://github.com/gadenbuie/stylize.css,0,NA,NA,NA
 gadenbuie,synamyn,gadenbuie/synamyn,10,0,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
