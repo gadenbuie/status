@@ -29,7 +29,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,27,0,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,0,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,0,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,11e2b5e58fdf1a7d3157b0385d42313ddc3e0493,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/37353228379)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,f810c9af7f194dbae53b3020586e161960f3bd62,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/37482410185)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,0,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,0,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,25,0,40,8,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,25,NA,NA,NA
@@ -126,7 +126,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,0,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,0,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,0,1,2,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,38,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473)
-gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,60c1c9b0c6579e3bcea00f1c135c5e5a832bf3c0,[status] 2026-10-04 16:49:11 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/37369962369)
+gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,29d9f548956dd035c4127750cc5c36f0a8f6d21e,[status] 2026-10-05 20:31:49 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/37509682748)
 gadenbuie,stylize.css,gadenbuie/stylize.css,0,0,0,7,FALSE,https://github.com/gadenbuie/stylize.css,0,NA,NA,NA
 gadenbuie,synamyn,gadenbuie/synamyn,10,0,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
@@ -140,17 +140,145 @@ gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,127,0,6,75,FALSE,https://git
 gadenbuie,tweetrmd,gadenbuie/tweetrmd,101,0,6,13,FALSE,https://github.com/gadenbuie/tweetrmd,101,NA,NA,NA
 gadenbuie,tweets-of-the-year,gadenbuie/tweets-of-the-year,16,0,4,2,FALSE,https://github.com/gadenbuie/tweets-of-the-year,16,NA,NA,NA
 gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,1,0,0,3,FALSE,https://github.com/gadenbuie/usf-boot-camp-R,1,NA,NA,NA
-gadenbuie,utpr,gadenbuie/utpr,2,0,0,1,FALSE,https://github.com/gadenbuie/utpr,2,7037ab04076c3baf5ca977a10184d19ae93a5911,"Address review findings for offline default branches and PR resolution
+gadenbuie,utpr,gadenbuie/utpr,2,0,0,1,FALSE,https://github.com/gadenbuie/utpr,2,df1748a26fea5fd6d8fe9b29c815cb7e462ade6c,"feat(ci): add `utpr ci list` — recent Actions runs grouped by commit (#5)
 
-- Refuse to forget 'main' or 'master' when both exist locally and no
-  remote can disambiguate the default branch, instead of guessing
-- When moving the current branch into a worktree without a remote,
-  switch the main repo to the local default branch when available and
-  only detach as a last resort
-- Match stored PR URLs against the source repo when it's known and
-  refuse ambiguous PR-number matches in offline finish cleanup
-- Exclude the locally determined default branch from the resume picker
-  when remote detection fails",[![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/36050382280) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/36050390460)
+* feat(gh): list running workflow runs via status-filtered API
+
+Add gh.ListRunningWorkflowRuns(ownerRepo, branch), fetching in-progress
+then queued runs with separate paginated server-side status filters, so
+the result cannot be truncated by a single page. An empty branch lists
+runs repo-wide.
+
+Generalize the single-page branch lister into gh.ListRecentWorkflowRuns
+(branch optional) and delegate the existing ListWorkflowRunsForBranch to
+it; ListWorkflowRunsForBranch gains repo-wide behavior for free.
+
+WorkflowRun gains HeadBranch, RunStartedAt, and UpdatedAt fields from
+the REST response.
+
+Refs: kata q5z8
+
+* feat(ci): add 'utpr ci list' showing running Actions runs
+
+Add 'utpr ci list': a quick view of currently running and queued
+GitHub Actions runs with enough context (workflow, branch with --all,
+short SHA, associated PR, elapsed time) to coordinate follow-up
+commands without intermediate API poking.
+
+- Branch mode filters by the current branch server-side; --all lists
+  running runs repo-wide.
+- PR association matches WorkflowRun.HeadSHA against open PRs fetched
+  in one call (handles fork PRs); cached across --watch polls.
+- --watch re-renders until the queue drains and exits 0; interactive
+  frames overwrite in place, piped/agent frames print only when the
+  run set or a status/conclusion changes, and the final frame shows
+  each watched run's conclusion with its total duration.
+
+Refs: kata q5z8
+
+* docs(readme): document 'utpr ci list'
+
+Refs: kata q5z8
+
+* fix(ci): address ci list review findings
+
+- Bind 'ci list --pretty' to the shared flagCIPretty so it actually
+  forces styled output, like 'ci logs' and 'ci rerun' (the dedicated
+  flagCIListPretty was never read).
+- Cache negative PR lookups across watch polls: SHAs covered by a
+  previous fetch keep their answer, so runs without an open PR no
+  longer trigger a refetch on every poll.
+- Query queued runs before in-progress ones in ListRunningWorkflowRuns
+  and dedupe by ID, so a run that starts between the two responses is
+  seen at least once instead of falling through the gap and ending a
+  watch early.
+- Mark watched runs whose conclusion is missing from the final
+  recent-runs fetch as unknown instead of rendering them as still
+  running.
+- Separate piped/agent watch frames with a blank line so snapshots are
+  distinguishable.
+
+Refs: kata q5z8
+
+* feat(ci): 'ci list' shows recent runs, not just running, with --limit
+
+Change the one-shot listing from running/queued-only to the N most
+recent workflow runs regardless of status, so a PR branch with few runs
+shows the full picture (completed runs with conclusions) at a glance.
+
+- Branch mode (default) and --all both list the N most recent runs;
+  --limit N (default 10) controls N in either mode, must be >= 1, and
+  errors when combined with --watch.
+- Completed rows show conclusion icons and total duration
+  (updated_at - run_started_at); in-flight rows keep elapsed time. The
+  duration choice is now per-row instead of per-frame.
+- --watch keeps its in-flight focus; the one-shot empty state becomes
+  ""No CI runs found..."" while watch keeps ""No running CI runs..."".
+
+Refs: kata ay02
+
+* docs(readme): document ci list recent-runs default and --limit
+
+Refs: kata ay02
+
+* fix(ci): address ci list --limit review findings
+
+- Paginate ListRecentWorkflowRuns so --limit values above GitHub's
+  100-per-page cap return the full count instead of silently
+  truncating at 100.
+- Update the stale 'List running...' help text to the new recent-runs
+  default.
+- Treat a watched run that the final recent-runs fetch still lists as
+  in-flight (eventual consistency) the same as a missing one: mark it
+  completed with an unknown conclusion so the final frame never shows
+  a running icon.
+
+Refs: kata ay02
+
+* feat(ci): group 'ci list' output by commit with complete groups
+
+Group the listing by commit so jobs from the same push appear together,
+with group headings carrying the context rows used to repeat.
+
+- Groups keyed by head SHA, newest first; rows show the status icon,
+  workflow, and total duration (completed) or elapsed time (in-flight).
+  The SHA, branch, PR, and group start time move into the heading:
+  '<ref> on <branch> · #N title · started HH:MM' (local clock time,
+  with the date when not from today).
+- Feature branches get a status heading above the groups stating the
+  branch and the total number of its runs plus how many are shown
+  ('branch 'x' — N runs, showing latest M'); on the default branch and
+  with --all the group headings carry 'on <branch>' instead.
+- --limit counts runs in the fetch window, but every touched group is
+  shown complete: each distinct SHA is fetched per-SHA, falling back to
+  the window's runs when that fails. ListRecentWorkflowRuns now returns
+  the query's total_count alongside the runs.
+- --watch frames group too: groups containing in-flight runs re-render
+  in place until the queue drains; the final frame shows the complete
+  watched groups with conclusions from one per-SHA fetch per group,
+  with watched runs missing from a fetch marked unknown.
+
+Refs: kata g7k1
+
+* docs(readme): document grouped ci list output
+
+Refs: kata g7k1
+
+* fix(ci): normalize watch final frames and branch-filter group completion
+
+- Replace the case-by-case final-frame fallback with one blanket rule:
+  the queue has drained, so every run still in a non-completed state in
+  a final frame — stale in-flight copies returned by eventual
+  consistency, or watched runs missing from the per-SHA fetch — is
+  marked completed with an unknown conclusion. Restores the stale-run
+  regression test lost in the grouped rewrite.
+- Branch mode filters per-SHA group completion by head branch, both in
+  the one-shot listing and the watch final frame: a commit shared with
+  another branch (e.g. merged to main) no longer mixes foreign runs
+  into the branch's groups or inflates the shown count past the branch
+  total.
+
+Refs: kata g7k1",[![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/37501868173) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/37502143940)
 gadenbuie,xaringan-accessible-plot,gadenbuie/xaringan-accessible-plot,0,0,0,0,FALSE,https://github.com/gadenbuie/xaringan-accessible-plot,0,NA,NA,NA
 gadenbuie,xaringan-club,gadenbuie/xaringan-club,3,0,0,0,FALSE,https://github.com/gadenbuie/xaringan-club,3,NA,NA,NA
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,0,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA
