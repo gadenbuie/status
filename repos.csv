@@ -29,7 +29,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,27,0,0,1,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,0,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,0,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,0fec7383337322b9a2f6a5cf527425eabaae5cb9,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/37636242396)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,db4f61111e74495115633b21fb887427a98e50ed,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/37799881606)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,0,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,0,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,25,0,40,8,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,25,NA,NA,NA
@@ -69,6 +69,7 @@ gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,0,0,0,FALSE,https://
 gadenbuie,msglooker,gadenbuie/msglooker,7,0,1,0,FALSE,https://github.com/gadenbuie/msglooker,7,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,48,0,0,25,FALSE,https://github.com/gadenbuie/mueller-report,48,NA,NA,NA
 gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,43,0,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,43,4619c7c814725af56f2d3d6371f34dd2f5d6726b,[auto] Build Dashboard 2026-04-24 11:16,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/28040863631)
+gadenbuie,new-brew,gadenbuie/new-brew,0,0,0,0,FALSE,https://github.com/gadenbuie/new-brew,0,27689587e7e6a6bed46f905450a64f8832daa631,docs: update keyboard hints,[![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/37821578070)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,4,0,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,4,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,12,0,0,4,FALSE,https://github.com/gadenbuie/oceanic-eighties,12,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,0,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
@@ -127,7 +128,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,0,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,0,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,0,1,2,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,38,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473)
-gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,d37ed56617cf8bc7cc7d87898ca92d7948f521e5,[status] 2026-10-06 18:16:26 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/37669438239)
+gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,15cf0e62a7fcbef71c6e0e658e4e41cdad03f815,[status] 2026-10-07 18:49:31 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/37826654616)
 gadenbuie,stylize.css,gadenbuie/stylize.css,0,0,0,7,FALSE,https://github.com/gadenbuie/stylize.css,0,NA,NA,NA
 gadenbuie,synamyn,gadenbuie/synamyn,10,0,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
@@ -141,17 +142,13 @@ gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,127,0,6,75,FALSE,https://git
 gadenbuie,tweetrmd,gadenbuie/tweetrmd,101,0,6,13,FALSE,https://github.com/gadenbuie/tweetrmd,101,NA,NA,NA
 gadenbuie,tweets-of-the-year,gadenbuie/tweets-of-the-year,16,0,4,2,FALSE,https://github.com/gadenbuie/tweets-of-the-year,16,NA,NA,NA
 gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,1,0,0,3,FALSE,https://github.com/gadenbuie/usf-boot-camp-R,1,NA,NA,NA
-gadenbuie,utpr,gadenbuie/utpr,2,0,0,1,FALSE,https://github.com/gadenbuie/utpr,2,2925121bf14abc3817f16ca2191e990670f71ee8,"fix(ci): re-fetch annotated tag before building release notes
+gadenbuie,utpr,gadenbuie/utpr,2,0,0,1,FALSE,https://github.com/gadenbuie/utpr,2,1dab7cc389aaf0316ffdc3d4deefb8548f0701ab,"docs(quickstart): tell agents to prefer utpr ci over gh
 
-actions/checkout fetches the tagged commit into refs/tags/<tag>,
-replacing the annotated tag object with a lightweight tag. Reading
-%(contents) then returned the tagged commit's message instead of the
-tag message, so release notes showed the commit message (e.g. squash
-merge messages with 'Refs: kata ...' lines).
+The agent guide's CI section now leads with: prefer 'utpr ci' over 'gh'
+for CI status and logs; fall back to 'gh' for anything utpr doesn't
+cover. Test asserts the guidance survives future edits.
 
-Re-fetch the tag ref with --force to restore the annotated tag object
-before reading its message.",[![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/37663068316)
-gadenbuie,utpr,gadenbuie/utpr,2,0,0,1,FALSE,https://github.com/gadenbuie/utpr,2,e35f4466bdcb09a0439cf05871fbdf222e4bbbc5,docs(readme): mention utpr status in feature list,[![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/37648991754)
+Kata: vkxg",[![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/37672642413) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/37673929002)
 gadenbuie,xaringan-accessible-plot,gadenbuie/xaringan-accessible-plot,0,0,0,0,FALSE,https://github.com/gadenbuie/xaringan-accessible-plot,0,NA,NA,NA
 gadenbuie,xaringan-club,gadenbuie/xaringan-club,3,0,0,0,FALSE,https://github.com/gadenbuie/xaringan-club,3,NA,NA,NA
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,0,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA
