@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)
-2026-10-09 18:16:16 UTC
+2026-10-10 17:15:48 UTC
 
 | Repo | Stars | Subscribers | Issues | Forks | Status | Commit |
 |:---|---:|---:|---:|---:|:---|:---|
@@ -20,20 +20,20 @@ GitHub Dashboard
 | [gadenbuie/starwarsdb](https://github.com/gadenbuie/starwarsdb) | 38 | 1 | 0 | 1 | [![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) [![](https://github.com/gadenbuie/starwarsdb/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/17266304473) | <a href="https://github.com/gadenbuie/starwarsdb/commit/cd5e823ccbf88302b786bb4c6d21d42c198b715b" title="Increment version number to 0.1.3.9000">cd5e82</a> |
 | [gadenbuie/quarto-now](https://github.com/gadenbuie/quarto-now) | 34 | 0 | 0 | 3 | [![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/22318414606) | <a href="https://github.com/gadenbuie/quarto-now/commit/505802ea80099d4db0baf748c3a89c99524483bd" title="feat: add Quarto Wizard schema and snippets (#2)">505802</a> |
 | [gadenbuie/quarto-partials](https://github.com/gadenbuie/quarto-partials) | 29 | 0 | 2 | 2 | [![](https://github.com/gadenbuie/quarto-partials/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-partials/actions/runs/24849283968) | <a href="https://github.com/gadenbuie/quarto-partials/commit/9da9cfbf783874f7043271d1f6f8a31fbf144f54" title="v0.1.2">9da9cf</a> |
-| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/37971956856) | <a href="https://github.com/gadenbuie/status/commit/824193785dddc49836496bb2961e11819b001cd3" title="[status] 2026-10-08 18:54:16 UTC">824193</a> |
+| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/38070909502) | <a href="https://github.com/gadenbuie/status/commit/78140a7ae85cf340df6485731714fd16b0e40e33" title="[status] 2026-10-09 18:17:48 UTC">78140a</a> |
 | [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r) | 18 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/21809936668) | <a href="https://github.com/gadenbuie/tidyjs-r/commit/ab08ac00ca174923699eccb624c44f11fe2c6804" title="fix: Use latest r-lib/actions at v2">ab08ac</a> |
 | [gadenbuie/quarto-base64](https://github.com/gadenbuie/quarto-base64) | 7 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-base64/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-base64/actions/runs/22318385606) | <a href="https://github.com/gadenbuie/quarto-base64/commit/9f6b0ef5dfbe2763be6711b08a42660601619be1" title="feat: add Quarto Wizard schema and snippets (#2)">9f6b0e</a> |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/37955135777) | <a href="https://github.com/gadenbuie/gadenbuie/commit/8a566ea69cf79a106e8884095c5314b7de63ad1f" title="Update github-metrics.svg - [Skip GitHub Action]">8a566e</a> |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/38055428561) | <a href="https://github.com/gadenbuie/gadenbuie/commit/ca3ccc7ed94332ca9211c138c98ac7e37025e519" title="Update github-metrics.svg - [Skip GitHub Action]">ca3ccc</a> |
 | [gadenbuie/utpr](https://github.com/gadenbuie/utpr) | 2 | 0 | 0 | 1 | [![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/37672642413) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/37673929002) | <a href="https://github.com/gadenbuie/utpr/commit/1dab7cc389aaf0316ffdc3d4deefb8548f0701ab" title="docs(quickstart): tell agents to prefer utpr ci over gh">1dab7c</a> |
 | [gadenbuie/local-speed-check](https://github.com/gadenbuie/local-speed-check) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/local-speed-check/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/local-speed-check/actions/runs/32513418773) | <a href="https://github.com/gadenbuie/local-speed-check/commit/564835107b890b7b40029737321f009dab8142f7" title="✨ initial commit">564835</a> |
-| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/37969840858) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/37944615765) | <a href="https://github.com/gadenbuie/new-brew/commit/c3cdbca9df8969e6ea401543493905844094f1e3" title="feat: theme toggle jumps to the opposite of system">c3cdbc</a> |
+| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/38069688105) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/37974467555) | <a href="https://github.com/gadenbuie/new-brew/commit/98e21db289d6a1f3bf51b4d99177f054774a13ee" title="docs: add app poster and reproducible demo recording script">98e21d</a> |
 
 ## Repos without Github Actions
 
 | Repo | Stars | Subscribers | Issues | Forks |
 |:---|---:|---:|---:|---:|
 | [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) | 797 | 0 | 14 | 236 |
-| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) | 664 | 0 | 33 | 50 |
+| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) | 665 | 0 | 33 | 50 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain) | 492 | 0 | 2 | 28 |
 | [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra) | 449 | 11 | 32 | 38 |
 | [gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer) | 445 | 9 | 7 | 27 |
