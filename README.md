@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)
-2026-10-29 18:21:17 UTC
+2026-10-30 17:57:38 UTC
 
 | Repo | Stars | Subscribers | Issues | Forks | Status | Commit |
 |:---|---:|---:|---:|---:|:---|:---|
@@ -20,13 +20,13 @@ GitHub Dashboard
 | [gadenbuie/starwarsdb](https://github.com/gadenbuie/starwarsdb) | 39 | 1 | 0 | 1 | [![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) | <a href="https://github.com/gadenbuie/starwarsdb/commit/cd5e823ccbf88302b786bb4c6d21d42c198b715b" title="Increment version number to 0.1.3.9000">cd5e82</a> |
 | [gadenbuie/quarto-now](https://github.com/gadenbuie/quarto-now) | 34 | 0 | 0 | 3 | [![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/22318414606) | <a href="https://github.com/gadenbuie/quarto-now/commit/505802ea80099d4db0baf748c3a89c99524483bd" title="feat: add Quarto Wizard schema and snippets (#2)">505802</a> |
 | [gadenbuie/quarto-partials](https://github.com/gadenbuie/quarto-partials) | 29 | 0 | 2 | 1 | [![](https://github.com/gadenbuie/quarto-partials/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-partials/actions/runs/24849283968) | <a href="https://github.com/gadenbuie/quarto-partials/commit/9da9cfbf783874f7043271d1f6f8a31fbf144f54" title="v0.1.2">9da9cf</a> |
-| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/40929820417) | <a href="https://github.com/gadenbuie/status/commit/5b04e31b806cb29cccf4a07f49bad68800875cab" title="[status] 2026-10-28 18:18:09 UTC">5b04e3</a> |
+| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/41102423206) | <a href="https://github.com/gadenbuie/status/commit/9532d15b9b5170dfb9070fc9bc6d224950eb35ed" title="[status] 2026-10-29 18:22:45 UTC">9532d1</a> |
 | [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r) | 18 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/21809936668) | <a href="https://github.com/gadenbuie/tidyjs-r/commit/ab08ac00ca174923699eccb624c44f11fe2c6804" title="fix: Use latest r-lib/actions at v2">ab08ac</a> |
 | [gadenbuie/quarto-base64](https://github.com/gadenbuie/quarto-base64) | 7 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-base64/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-base64/actions/runs/22318385606) | <a href="https://github.com/gadenbuie/quarto-base64/commit/9f6b0ef5dfbe2763be6711b08a42660601619be1" title="feat: add Quarto Wizard schema and snippets (#2)">9f6b0e</a> |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/40914256543) | <a href="https://github.com/gadenbuie/gadenbuie/commit/2dd083ab8077a22aa8be25d8c5dac56fe612690b" title="Update github-metrics.svg - [Skip GitHub Action]">2dd083</a> |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/41082842729) | <a href="https://github.com/gadenbuie/gadenbuie/commit/f4133ace2dca4fc51d3883c928d3d31a02707ec0" title="Update github-metrics.svg - [Skip GitHub Action]">f4133a</a> |
 | [gadenbuie/utpr](https://github.com/gadenbuie/utpr) | 2 | 0 | 0 | 1 | [![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/39620562312) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/39620584459) | <a href="https://github.com/gadenbuie/utpr/commit/406e84b5b1dec16b1898cead9763245f70cff7bc" title="fix(ci): detect apt fetch failures in log excerpts">406e84</a> |
 | [gadenbuie/local-speed-check](https://github.com/gadenbuie/local-speed-check) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/local-speed-check/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/local-speed-check/actions/runs/32513418773) | <a href="https://github.com/gadenbuie/local-speed-check/commit/564835107b890b7b40029737321f009dab8142f7" title="✨ initial commit">564835</a> |
-| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/40896339399) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/39442424241) | <a href="https://github.com/gadenbuie/new-brew/commit/907bda33755352a0fa22c3f49f1b5a8bf5a9c96e" title="chore(ci): shift data workflow schedule to compensate for GHA queue delays">907bda</a> |
+| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41074884019) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/39442424241) | <a href="https://github.com/gadenbuie/new-brew/commit/907bda33755352a0fa22c3f49f1b5a8bf5a9c96e" title="chore(ci): shift data workflow schedule to compensate for GHA queue delays">907bda</a> |
 
 ## Repos without Github Actions
 
@@ -134,7 +134,7 @@ GitHub Dashboard
 | [gadenbuie/herdr-positron](https://github.com/gadenbuie/herdr-positron) | 0 | 0 | 0 | 0 |
 | [gadenbuie/isg-2018](https://github.com/gadenbuie/isg-2018) | 0 | 0 | 0 | 0 |
 | [gadenbuie/iyo-apero-awesome](https://github.com/gadenbuie/iyo-apero-awesome) | 0 | 0 | 0 | 0 |
-| [gadenbuie/pi-clear](https://github.com/gadenbuie/pi-clear) | 0 | 0 | 0 | 0 |
+| [gadenbuie/pi-clear](https://github.com/gadenbuie/pi-clear) | 0 | 0 | 1 | 0 |
 | [gadenbuie/pkgDocsWorkflowTest](https://github.com/gadenbuie/pkgDocsWorkflowTest) | 0 | 0 | 1 | 0 |
 | [gadenbuie/pkgdownArticleFormat](https://github.com/gadenbuie/pkgdownArticleFormat) | 0 | 0 | 0 | 0 |
 | [gadenbuie/posit-conf-chat](https://github.com/gadenbuie/posit-conf-chat) | 0 | 0 | 0 | 1 |
