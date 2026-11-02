@@ -29,7 +29,7 @@ gadenbuie,ermoji,gadenbuie/ermoji,27,0,0,0,FALSE,https://github.com/gadenbuie/er
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,0,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,4,0,0,1,FALSE,https://github.com/gadenbuie/fwiffer,4,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,528a25ca2b56f10bf2832d870c23dc035414af1c,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/41327280686)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,e286b628705e46d9f7a5f7e30fc1236e1c3b1d23,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/41496017848)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,0,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,0,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,25,0,40,8,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,25,NA,NA,NA
@@ -54,27 +54,37 @@ gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,0,0,4,
 gadenbuie,local-speed-check,gadenbuie/local-speed-check,0,0,0,0,FALSE,https://github.com/gadenbuie/local-speed-check,0,564835107b890b7b40029737321f009dab8142f7,✨ initial commit,[![](https://github.com/gadenbuie/local-speed-check/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/local-speed-check/actions/runs/32513418773)
 gadenbuie,lorem,gadenbuie/lorem,33,0,2,2,FALSE,https://github.com/gadenbuie/lorem,33,NA,NA,NA
 gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,7,0,10,3,FALSE,https://github.com/gadenbuie/mctestanalysis,7,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,66,1,6,5,FALSE,https://github.com/gadenbuie/metathis,NA,81b8b6c0cc036b8768152d88c919c1b89f10caa4,"fix: use pluck_depth when purrr >= 1.0.0 (#36)
-
-* fix: use pluck_depth when purrr >= 1.0.0
-
-* Require purrr >= 1.0.0
-
-Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>
-
----------
-
-Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",[![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/25965900527)
+gadenbuie,metathis,gadenbuie/metathis,66,1,6,5,FALSE,https://github.com/gadenbuie/metathis,NA,NA,NA,NA
 gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,0,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA
 gadenbuie,msglooker,gadenbuie/msglooker,7,0,1,0,FALSE,https://github.com/gadenbuie/msglooker,7,NA,NA,NA
 gadenbuie,mueller-report,gadenbuie/mueller-report,48,0,0,25,FALSE,https://github.com/gadenbuie/mueller-report,48,NA,NA,NA
 gadenbuie,mynorfolk-dash,gadenbuie/mynorfolk-dash,43,0,1,6,FALSE,https://github.com/gadenbuie/mynorfolk-dash,43,4619c7c814725af56f2d3d6371f34dd2f5d6726b,[auto] Build Dashboard 2026-04-24 11:16,[![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/28040863631)
-gadenbuie,new-brew,gadenbuie/new-brew,0,0,0,0,FALSE,https://github.com/gadenbuie/new-brew,0,907bda33755352a0fa22c3f49f1b5a8bf5a9c96e,"chore(ci): shift data workflow schedule to compensate for GHA queue delays
+gadenbuie,new-brew,gadenbuie/new-brew,0,0,0,0,FALSE,https://github.com/gadenbuie/new-brew,0,1aef016006f012d509b5f875a302031aaa10b1d8,"feat: badge ""new"" only while a package is actually new
 
-Scheduled runs were starting 2-4h after their cron times (median delay
-per slot: 12:00 UTC ~4h, 16:30 UTC ~2.4h, 21:00 UTC ~2.6h). Shift cron
-times earlier so actual runs land near the intended 8am/12:30pm/5pm ET
-fire times.",[![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41317548123) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/39442424241)
+`k: 'n'` used to mean ""the earliest event in the 60-day retention window is
+an addition"", so a package added in September stayed `new` until November:
+every release it shipped re-dated its row, putting it at the top of the
+timeline still badged NEW. A cask like gloomberb (added 2026-09-20, 36
+bumps since) showed up as new on 23 of the last 43 days.
+
+Kind now describes the row's own event: the newest event in the window,
+with a short grace period so a same-day follow-up doesn't erase a package's
+debut.
+
+- generator: `latest.added || withinGrace(addedAt)`; the per-package sort
+  flips to newest-first (`latest` is now list[0]), same-second ties stay in
+  commit order via the stable sort of an already newest-first log
+- rows carry the creation date as `ad` (only set when the oldest visible
+  event is an addition, i.e. the file has no history before the window)
+- merge: `n` is no longer sticky — the newest event owns the kind, and a
+  newer `modified` demotes an `added` row once its grace window has passed
+- GRACE_DAYS = 7, overridable in the generator via NB_GRACE_DAYS. Measured
+  against the live dataset, the `new` bucket goes from 354 rows to 67: 199
+  of the 326 demoted rows got their follow-up commit on the same day they
+  were created (median gap 0 days), so without the grace window 61% of new
+  packages would be badged ""updated"" before anyone saw them
+- card reads `new · added <date>` rather than implying the latest commit is
+  the arrival",[![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41494278928) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41477551836)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,4,0,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,4,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,12,0,0,4,FALSE,https://github.com/gadenbuie/oceanic-eighties,12,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,0,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
@@ -123,17 +133,17 @@ gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,0,0,0,FALSE,https://gi
 gadenbuie,shiny-data-sci-adventure,gadenbuie/shiny-data-sci-adventure,0,0,0,0,FALSE,https://github.com/gadenbuie/shiny-data-sci-adventure,0,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,45,0,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,45,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,25,0,2,3,FALSE,https://github.com/gadenbuie/shinyThings,25,NA,NA,NA
-gadenbuie,shrtcts,gadenbuie/shrtcts,124,1,6,6,FALSE,https://github.com/gadenbuie/shrtcts,NA,052165f97cdcaccddd9503a6fde56b333d978304,"Merge pull request #26 from gadenbuie/feat/shortcut-run
+gadenbuie,shrtcts,gadenbuie/shrtcts,125,1,6,6,FALSE,https://github.com/gadenbuie/shrtcts,NA,052165f97cdcaccddd9503a6fde56b333d978304,"Merge pull request #26 from gadenbuie/feat/shortcut-run
 
 feat: Add `shortcut_run()` and `shortcut_get()`",[![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/20016656162)
-gadenbuie,shrtcts,gadenbuie/shrtcts,124,1,6,6,FALSE,https://github.com/gadenbuie/shrtcts,NA,5b9e6cd80162fe0fbadfadfc19abbadee3a9da62,fix(roxygen2): Use `tag_words()` for roxygen2 v8+,[![](https://github.com/gadenbuie/shrtcts/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/28392230781)
+gadenbuie,shrtcts,gadenbuie/shrtcts,125,1,6,6,FALSE,https://github.com/gadenbuie/shrtcts,NA,5b9e6cd80162fe0fbadfadfc19abbadee3a9da62,fix(roxygen2): Use `tag_words()` for roxygen2 v8+,[![](https://github.com/gadenbuie/shrtcts/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/28392230781)
 gadenbuie,slides,gadenbuie/slides,29,0,1,15,FALSE,https://github.com/gadenbuie/slides,29,NA,NA,NA
 gadenbuie,snippets,gadenbuie/snippets,23,0,1,6,FALSE,https://github.com/gadenbuie/snippets,23,NA,NA,NA
 gadenbuie,speedDate,gadenbuie/speedDate,2,0,0,1,FALSE,https://github.com/gadenbuie/speedDate,2,NA,NA,NA
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,0,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,0,1,2,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,39,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050)
-gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,654e630861ac4edfbe6499b35192412ea4951ec2,[status] 2026-10-31 17:10:57 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/41333525951)
+gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,0a80bfe746741bf63dbf4d1d3ded22ccf1535202,[status] 2026-11-01 17:53:15 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/41530106377)
 gadenbuie,stylize.css,gadenbuie/stylize.css,0,0,0,7,FALSE,https://github.com/gadenbuie/stylize.css,0,NA,NA,NA
 gadenbuie,synamyn,gadenbuie/synamyn,10,0,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
