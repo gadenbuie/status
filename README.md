@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)
-2026-11-02 21:39:22 UTC
+2026-11-03 19:23:28 UTC
 
 | Repo | Stars | Subscribers | Issues | Forks | Status | Commit |
 |:---|---:|---:|---:|---:|:---|:---|
@@ -15,33 +15,33 @@ GitHub Dashboard
 | [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) | 125 | 1 | 6 | 6 | [![](https://github.com/gadenbuie/shrtcts/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/20016656162) | <a href="https://github.com/gadenbuie/shrtcts/commit/052165f97cdcaccddd9503a6fde56b333d978304" title="Merge pull request #26 from gadenbuie/feat/shortcut-run">052165</a> |
 | [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) | 125 | 1 | 6 | 6 | [![](https://github.com/gadenbuie/shrtcts/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/shrtcts/actions/runs/28392230781) | <a href="https://github.com/gadenbuie/shrtcts/commit/5b9e6cd80162fe0fbadfadfc19abbadee3a9da62" title="fix(roxygen2): Use `tag_words()` for roxygen2 v8+">5b9e6c</a> |
 | [gadenbuie/grkstyle](https://github.com/gadenbuie/grkstyle) | 90 | 0 | 5 | 15 | [![](https://github.com/gadenbuie/grkstyle/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/grkstyle/actions/runs/29965736775) | <a href="https://github.com/gadenbuie/grkstyle/commit/36707d97c2bceafc1f269555159289827279522c" title="Fix legacy styler unindent wrapper (#14)">36707d</a> |
+| [gadenbuie/metathis](https://github.com/gadenbuie/metathis) | 66 | 1 | 5 | 5 | [![](https://github.com/gadenbuie/metathis/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/41673090556) [![](https://github.com/gadenbuie/metathis/workflows/pkgdown/badge.svg)](https://github.com/gadenbuie/metathis/actions/runs/41673090432) | <a href="https://github.com/gadenbuie/metathis/commit/2dd7600ceb83766c0249541fd0f3ec79296088ba" title="Increment version number to 1.1.5.9000">2dd760</a> |
 | [gadenbuie/mynorfolk-dash](https://github.com/gadenbuie/mynorfolk-dash) | 43 | 0 | 1 | 6 | [![](https://github.com/gadenbuie/mynorfolk-dash/workflows/build-dash/badge.svg)](https://github.com/gadenbuie/mynorfolk-dash/actions/runs/28040863631) | <a href="https://github.com/gadenbuie/mynorfolk-dash/commit/4619c7c814725af56f2d3d6371f34dd2f5d6726b" title="[auto] Build Dashboard 2026-04-24 11:16">4619c7</a> |
 | [gadenbuie/starwarsdb](https://github.com/gadenbuie/starwarsdb) | 39 | 1 | 0 | 1 | [![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) | <a href="https://github.com/gadenbuie/starwarsdb/commit/cd5e823ccbf88302b786bb4c6d21d42c198b715b" title="Increment version number to 0.1.3.9000">cd5e82</a> |
 | [gadenbuie/quarto-now](https://github.com/gadenbuie/quarto-now) | 34 | 0 | 0 | 3 | [![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/22318414606) | <a href="https://github.com/gadenbuie/quarto-now/commit/505802ea80099d4db0baf748c3a89c99524483bd" title="feat: add Quarto Wizard schema and snippets (#2)">505802</a> |
 | [gadenbuie/quarto-partials](https://github.com/gadenbuie/quarto-partials) | 29 | 0 | 2 | 1 | [![](https://github.com/gadenbuie/quarto-partials/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-partials/actions/runs/24849283968) | <a href="https://github.com/gadenbuie/quarto-partials/commit/9da9cfbf783874f7043271d1f6f8a31fbf144f54" title="v0.1.2">9da9cf</a> |
-| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/41530106377) | <a href="https://github.com/gadenbuie/status/commit/0a80bfe746741bf63dbf4d1d3ded22ccf1535202" title="[status] 2026-11-01 17:53:15 UTC">0a80bf</a> |
+| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/41702619085) | <a href="https://github.com/gadenbuie/status/commit/a547bb808e544f335f1b6ca9b6befcd4f5f2d285" title="[status] 2026-11-02 21:41:14 UTC">a547bb</a> |
 | [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r) | 18 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/21809936668) | <a href="https://github.com/gadenbuie/tidyjs-r/commit/ab08ac00ca174923699eccb624c44f11fe2c6804" title="fix: Use latest r-lib/actions at v2">ab08ac</a> |
 | [gadenbuie/quarto-base64](https://github.com/gadenbuie/quarto-base64) | 7 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-base64/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-base64/actions/runs/22318385606) | <a href="https://github.com/gadenbuie/quarto-base64/commit/9f6b0ef5dfbe2763be6711b08a42660601619be1" title="feat: add Quarto Wizard schema and snippets (#2)">9f6b0e</a> |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/41496017848) | <a href="https://github.com/gadenbuie/gadenbuie/commit/e286b628705e46d9f7a5f7e30fc1236e1c3b1d23" title="Update github-metrics.svg - [Skip GitHub Action]">e286b6</a> |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/41669037227) | <a href="https://github.com/gadenbuie/gadenbuie/commit/85f1d8275982325851271a2862310f80b7b05d21" title="Update github-metrics.svg - [Skip GitHub Action]">85f1d8</a> |
 | [gadenbuie/utpr](https://github.com/gadenbuie/utpr) | 2 | 0 | 0 | 1 | [![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/39620562312) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/39620584459) | <a href="https://github.com/gadenbuie/utpr/commit/406e84b5b1dec16b1898cead9763245f70cff7bc" title="fix(ci): detect apt fetch failures in log excerpts">406e84</a> |
 | [gadenbuie/local-speed-check](https://github.com/gadenbuie/local-speed-check) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/local-speed-check/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/local-speed-check/actions/runs/32513418773) | <a href="https://github.com/gadenbuie/local-speed-check/commit/564835107b890b7b40029737321f009dab8142f7" title="✨ initial commit">564835</a> |
-| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41494278928) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41477551836) | \<a href=“<https://github.com/gadenbuie/new-brew/commit/1aef016006f012d509b5f875a302031aaa10b1d8>” title=“feat: badge”new” only while a package is actually new”\>1aef01</a> |
+| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41667628935) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41477551836) | \<a href=“<https://github.com/gadenbuie/new-brew/commit/1aef016006f012d509b5f875a302031aaa10b1d8>” title=“feat: badge”new” only while a package is actually new”\>1aef01</a> |
 
 ## Repos without Github Actions
 
 | Repo | Stars | Subscribers | Issues | Forks |
 |:---|---:|---:|---:|---:|
 | [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) | 796 | 0 | 14 | 235 |
-| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) | 667 | 0 | 33 | 50 |
+| [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) | 668 | 0 | 33 | 50 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain) | 492 | 0 | 2 | 27 |
 | [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra) | 449 | 11 | 32 | 37 |
 | [gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer) | 445 | 9 | 7 | 27 |
 | [gadenbuie/ggpomological](https://github.com/gadenbuie/ggpomological) | 334 | 0 | 10 | 19 |
-| [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) | 127 | 0 | 6 | 75 |
+| [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) | 126 | 0 | 6 | 75 |
 | [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly) | 111 | 0 | 1 | 12 |
 | [gadenbuie/tweetrmd](https://github.com/gadenbuie/tweetrmd) | 101 | 0 | 6 | 13 |
 | [gadenbuie/gentle-ggplot2](https://github.com/gadenbuie/gentle-ggplot2) | 84 | 0 | 0 | 20 |
-| [gadenbuie/metathis](https://github.com/gadenbuie/metathis) | 66 | 1 | 6 | 5 |
 | [gadenbuie/js4shiny](https://github.com/gadenbuie/js4shiny) | 54 | 4 | 2 | 4 |
 | [gadenbuie/mueller-report](https://github.com/gadenbuie/mueller-report) | 48 | 0 | 0 | 25 |
 | [gadenbuie/shinyComponents](https://github.com/gadenbuie/shinyComponents) | 45 | 0 | 5 | 4 |
