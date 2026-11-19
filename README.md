@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)
-2026-11-18 20:19:57 UTC
+2026-11-19 20:24:17 UTC
 
 | Repo | Stars | Subscribers | Issues | Forks | Status | Commit |
 |:---|---:|---:|---:|---:|:---|:---|
@@ -18,21 +18,21 @@ GitHub Dashboard
 | [gadenbuie/starwarsdb](https://github.com/gadenbuie/starwarsdb) | 39 | 1 | 0 | 1 | [![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) | <a href="https://github.com/gadenbuie/starwarsdb/commit/cd5e823ccbf88302b786bb4c6d21d42c198b715b" title="Increment version number to 0.1.3.9000">cd5e82</a> |
 | [gadenbuie/quarto-now](https://github.com/gadenbuie/quarto-now) | 34 | 0 | 0 | 3 | [![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/22318414606) | <a href="https://github.com/gadenbuie/quarto-now/commit/505802ea80099d4db0baf748c3a89c99524483bd" title="feat: add Quarto Wizard schema and snippets (#2)">505802</a> |
 | [gadenbuie/quarto-partials](https://github.com/gadenbuie/quarto-partials) | 29 | 0 | 2 | 1 | [![](https://github.com/gadenbuie/quarto-partials/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-partials/actions/runs/24849283968) | <a href="https://github.com/gadenbuie/quarto-partials/commit/9da9cfbf783874f7043271d1f6f8a31fbf144f54" title="v0.1.2">9da9cf</a> |
-| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/44389656598) | <a href="https://github.com/gadenbuie/status/commit/617ac9d79cbb499c00fb5927141936eb2287b430" title="[status] 2026-11-17 20:46:43 UTC">617ac9</a> |
+| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/44608099573) | <a href="https://github.com/gadenbuie/status/commit/8bc74e965cb235f3e021cfab315480ab9c61c401" title="[status] 2026-11-18 20:21:36 UTC">8bc74e</a> |
 | [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r) | 18 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/21809936668) | <a href="https://github.com/gadenbuie/tidyjs-r/commit/ab08ac00ca174923699eccb624c44f11fe2c6804" title="fix: Use latest r-lib/actions at v2">ab08ac</a> |
 | [gadenbuie/quarto-base64](https://github.com/gadenbuie/quarto-base64) | 7 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-base64/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-base64/actions/runs/22318385606) | <a href="https://github.com/gadenbuie/quarto-base64/commit/9f6b0ef5dfbe2763be6711b08a42660601619be1" title="feat: add Quarto Wizard schema and snippets (#2)">9f6b0e</a> |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/44306802794) | <a href="https://github.com/gadenbuie/gadenbuie/commit/90bbfc4b7b4c33f4ac796d6148a55716ed6407db" title="Update github-metrics.svg - [Skip GitHub Action]">90bbfc</a> |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/44605701011) | <a href="https://github.com/gadenbuie/gadenbuie/commit/fdc9879a1ec71db998f384221295df4eb1859ae7" title="Update github-metrics.svg - [Skip GitHub Action]">fdc987</a> |
 | [gadenbuie/utpr](https://github.com/gadenbuie/utpr) | 2 | 0 | 0 | 1 | [![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/42289659560) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/42289827038) | <a href="https://github.com/gadenbuie/utpr/commit/e5facd440f16520ff42238d1d48f937c040bfd6d" title="fix: prefer a literal numeric branch over PR-number resolution">e5facd</a> |
 | [gadenbuie/ga-44-election-26](https://github.com/gadenbuie/ga-44-election-26) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/ga-44-election-26/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/ga-44-election-26/actions/runs/41845014958) | <a href="https://github.com/gadenbuie/ga-44-election-26/commit/aeadf4188868a71de3727f5b7a507dcf6b47456a" title="Colour all non-Republican/Democrat winners orange">aeadf4</a> |
 | [gadenbuie/local-speed-check](https://github.com/gadenbuie/local-speed-check) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/local-speed-check/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/local-speed-check/actions/runs/32513418773) | <a href="https://github.com/gadenbuie/local-speed-check/commit/564835107b890b7b40029737321f009dab8142f7" title="✨ initial commit">564835</a> |
-| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/44352812626) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41477551836) | \<a href=“<https://github.com/gadenbuie/new-brew/commit/1aef016006f012d509b5f875a302031aaa10b1d8>” title=“feat: badge”new” only while a package is actually new”\>1aef01</a> |
+| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/44572667462) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41477551836) | \<a href=“<https://github.com/gadenbuie/new-brew/commit/1aef016006f012d509b5f875a302031aaa10b1d8>” title=“feat: badge”new” only while a package is actually new”\>1aef01</a> |
 
 ## Repos without Github Actions
 
 | Repo | Stars | Subscribers | Issues | Forks |
 |:---|---:|---:|---:|---:|
 | [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) | 797 | 0 | 14 | 234 |
-| [rstudio/learnr](https://github.com/rstudio/learnr) | 740 | 31 | 152 | 240 |
+| [rstudio/learnr](https://github.com/rstudio/learnr) | 739 | 31 | 152 | 240 |
 | [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) | 669 | 0 | 33 | 50 |
 | [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain) | 492 | 0 | 2 | 27 |
 | [gadenbuie/xaringanExtra](https://github.com/gadenbuie/xaringanExtra) | 449 | 11 | 32 | 37 |
