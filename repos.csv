@@ -38,7 +38,7 @@ non-partisan). Ballot questions stay neutral.
 - resultTone() returns 'rep' | 'dem' | 'orange'; other parties map to orange
 - RaceCard and FeaturedRace guard ballot questions out of colouring
 - rename the card/hero CSS selector from 'ind' to 'orange'",[![](https://github.com/gadenbuie/ga-44-election-26/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/ga-44-election-26/actions/runs/41845014958)
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,0454e5d517ca46cdc722e7000ae967130420143d,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/45702948819)
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,6,0,0,5,FALSE,https://github.com/gadenbuie/gadenbuie,6,a7b4400643ddd0e1ed26739116cdddc4e249c98f,Update github-metrics.svg - [Skip GitHub Action],[![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/45832270815)
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,0,0,1,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA
 gadenbuie,gadenbuie.r-universe.dev,gadenbuie/gadenbuie.r-universe.dev,0,0,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.r-universe.dev,0,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,25,0,40,7,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,25,NA,NA,NA
@@ -97,12 +97,12 @@ debut.
   were created (median gap 0 days), so without the grace window 61% of new
   packages would be badged ""updated"" before anyone saw them
 - card reads `new · added <date>` rather than implying the latest commit is
-  the arrival",[![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/45674809432) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41477551836)
+  the arrival",[![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/45873196597) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41477551836)
 gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,4,0,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,4,NA,NA,NA
 gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,12,0,0,4,FALSE,https://github.com/gadenbuie/oceanic-eighties,12,NA,NA,NA
 gadenbuie,pagedown-cheatsheet,gadenbuie/pagedown-cheatsheet,4,0,0,0,FALSE,https://github.com/gadenbuie/pagedown-cheatsheet,4,NA,NA,NA
 gadenbuie,pi-cache-warm-decay,gadenbuie/pi-cache-warm-decay,0,0,0,0,FALSE,https://github.com/gadenbuie/pi-cache-warm-decay,0,NA,NA,NA
-gadenbuie,pi-clear,gadenbuie/pi-clear,0,0,0,0,FALSE,https://github.com/gadenbuie/pi-clear,0,NA,NA,NA
+gadenbuie,pi-clear,gadenbuie/pi-clear,1,0,0,0,FALSE,https://github.com/gadenbuie/pi-clear,1,NA,NA,NA
 gadenbuie,pi-hand-off,gadenbuie/pi-hand-off,0,0,0,0,FALSE,https://github.com/gadenbuie/pi-hand-off,0,NA,NA,NA
 gadenbuie,pkgDocsWorkflowTest,gadenbuie/pkgDocsWorkflowTest,0,0,1,0,FALSE,https://github.com/gadenbuie/pkgDocsWorkflowTest,0,NA,NA,NA
 gadenbuie,pkgdownArticleFormat,gadenbuie/pkgdownArticleFormat,0,0,0,0,FALSE,https://github.com/gadenbuie/pkgdownArticleFormat,0,NA,NA,NA
@@ -145,6 +145,7 @@ gadenbuie,rstudio-ide-tips,gadenbuie/rstudio-ide-tips,6,0,0,1,FALSE,https://gith
 gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,7,0,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips-demo,7,NA,NA,NA
 gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,0,0,0,FALSE,https://github.com/gadenbuie/rstudioAddinFriend,5,NA,NA,NA
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,0,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA
+gadenbuie,seams,gadenbuie/seams,0,0,0,0,FALSE,https://github.com/gadenbuie/seams,0,NA,NA,NA
 gadenbuie,shiny-data-sci-adventure,gadenbuie/shiny-data-sci-adventure,0,0,0,0,FALSE,https://github.com/gadenbuie/shiny-data-sci-adventure,0,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,45,0,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,45,NA,NA,NA
 gadenbuie,shinyThings,gadenbuie/shinyThings,25,0,2,3,FALSE,https://github.com/gadenbuie/shinyThings,25,NA,NA,NA
@@ -156,7 +157,7 @@ gadenbuie,speedDate,gadenbuie/speedDate,2,0,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,0,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,0,1,2,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,39,1,0,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,cd5e823ccbf88302b786bb4c6d21d42c198b715b,Increment version number to 0.1.3.9000,[![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050)
-gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,183e91b4adbc3b7717be9c2d323f1bd0a3e9bf72,[status] 2026-11-24 22:17:40 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/45704931555)
+gadenbuie,status,gadenbuie/status,29,3,1,4,FALSE,https://github.com/gadenbuie/status,29,2a8c9d73bbf7e576cdbf8d2545ab3a51a5b2225d,[status] 2026-11-25 21:32:47 UTC,[![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/45897137360)
 gadenbuie,stylize.css,gadenbuie/stylize.css,0,0,0,7,FALSE,https://github.com/gadenbuie/stylize.css,0,NA,NA,NA
 gadenbuie,synamyn,gadenbuie/synamyn,10,0,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA
@@ -176,6 +177,7 @@ A local branch named like a number (e.g. '461') now takes precedence
 when 'utpr resume 461' or 'utpr finish 461' is run, instead of being
 shadowed by PR #461. Prefixing with '#' ('#461') always refers to the
 PR number.",[![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/42289659560) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/42289827038)
+gadenbuie,word-searcher,gadenbuie/word-searcher,0,0,0,0,FALSE,https://github.com/gadenbuie/word-searcher,0,NA,NA,NA
 gadenbuie,xaringan-accessible-plot,gadenbuie/xaringan-accessible-plot,0,0,0,0,FALSE,https://github.com/gadenbuie/xaringan-accessible-plot,0,NA,NA,NA
 gadenbuie,xaringan-club,gadenbuie/xaringan-club,3,0,0,0,FALSE,https://github.com/gadenbuie/xaringan-club,3,NA,NA,NA
 gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,0,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA

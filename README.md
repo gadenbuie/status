@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)
-2026-11-25 21:31:13 UTC
+2026-11-26 21:18:50 UTC
 
 | Repo | Stars | Subscribers | Issues | Forks | Status | Commit |
 |:---|---:|---:|---:|---:|:---|:---|
@@ -17,14 +17,14 @@ GitHub Dashboard
 | [gadenbuie/starwarsdb](https://github.com/gadenbuie/starwarsdb) | 39 | 1 | 0 | 1 | [![](https://github.com/gadenbuie/starwarsdb/workflows/R-CMD-check/badge.svg)](https://github.com/gadenbuie/starwarsdb/actions/runs/21813722050) | <a href="https://github.com/gadenbuie/starwarsdb/commit/cd5e823ccbf88302b786bb4c6d21d42c198b715b" title="Increment version number to 0.1.3.9000">cd5e82</a> |
 | [gadenbuie/quarto-now](https://github.com/gadenbuie/quarto-now) | 35 | 0 | 0 | 3 | [![](https://github.com/gadenbuie/quarto-now/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-now/actions/runs/22318414606) | <a href="https://github.com/gadenbuie/quarto-now/commit/505802ea80099d4db0baf748c3a89c99524483bd" title="feat: add Quarto Wizard schema and snippets (#2)">505802</a> |
 | [gadenbuie/quarto-partials](https://github.com/gadenbuie/quarto-partials) | 30 | 0 | 2 | 1 | [![](https://github.com/gadenbuie/quarto-partials/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-partials/actions/runs/24849283968) | <a href="https://github.com/gadenbuie/quarto-partials/commit/9da9cfbf783874f7043271d1f6f8a31fbf144f54" title="v0.1.2">9da9cf</a> |
-| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/45704931555) | <a href="https://github.com/gadenbuie/status/commit/183e91b4adbc3b7717be9c2d323f1bd0a3e9bf72" title="[status] 2026-11-24 22:17:40 UTC">183e91</a> |
+| [gadenbuie/status](https://github.com/gadenbuie/status) | 29 | 3 | 1 | 4 | [![](https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg)](https://github.com/gadenbuie/status/actions/runs/45897137360) | <a href="https://github.com/gadenbuie/status/commit/2a8c9d73bbf7e576cdbf8d2545ab3a51a5b2225d" title="[status] 2026-11-25 21:32:47 UTC">2a8c9d</a> |
 | [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r) | 18 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg)](https://github.com/gadenbuie/tidyjs-r/actions/runs/21809936668) | <a href="https://github.com/gadenbuie/tidyjs-r/commit/ab08ac00ca174923699eccb624c44f11fe2c6804" title="fix: Use latest r-lib/actions at v2">ab08ac</a> |
 | [gadenbuie/quarto-base64](https://github.com/gadenbuie/quarto-base64) | 7 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/quarto-base64/workflows/Render%20docs/badge.svg)](https://github.com/gadenbuie/quarto-base64/actions/runs/22318385606) | <a href="https://github.com/gadenbuie/quarto-base64/commit/9f6b0ef5dfbe2763be6711b08a42660601619be1" title="feat: add Quarto Wizard schema and snippets (#2)">9f6b0e</a> |
-| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/45702948819) | <a href="https://github.com/gadenbuie/gadenbuie/commit/0454e5d517ca46cdc722e7000ae967130420143d" title="Update github-metrics.svg - [Skip GitHub Action]">0454e5</a> |
+| [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) | 6 | 0 | 0 | 5 | [![](https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg)](https://github.com/gadenbuie/gadenbuie/actions/runs/45832270815) | <a href="https://github.com/gadenbuie/gadenbuie/commit/a7b4400643ddd0e1ed26739116cdddc4e249c98f" title="Update github-metrics.svg - [Skip GitHub Action]">a7b440</a> |
 | [gadenbuie/utpr](https://github.com/gadenbuie/utpr) | 2 | 0 | 0 | 1 | [![](https://github.com/gadenbuie/utpr/workflows/CI/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/42289659560) [![](https://github.com/gadenbuie/utpr/workflows/Release/badge.svg)](https://github.com/gadenbuie/utpr/actions/runs/42289827038) | <a href="https://github.com/gadenbuie/utpr/commit/e5facd440f16520ff42238d1d48f937c040bfd6d" title="fix: prefer a literal numeric branch over PR-number resolution">e5facd</a> |
 | [gadenbuie/ga-44-election-26](https://github.com/gadenbuie/ga-44-election-26) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/ga-44-election-26/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/ga-44-election-26/actions/runs/41845014958) | <a href="https://github.com/gadenbuie/ga-44-election-26/commit/aeadf4188868a71de3727f5b7a507dcf6b47456a" title="Colour all non-Republican/Democrat winners orange">aeadf4</a> |
 | [gadenbuie/local-speed-check](https://github.com/gadenbuie/local-speed-check) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/local-speed-check/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gadenbuie/local-speed-check/actions/runs/32513418773) | <a href="https://github.com/gadenbuie/local-speed-check/commit/564835107b890b7b40029737321f009dab8142f7" title="✨ initial commit">564835</a> |
-| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/45674809432) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41477551836) | \<a href=“<https://github.com/gadenbuie/new-brew/commit/1aef016006f012d509b5f875a302031aaa10b1d8>” title=“feat: badge”new” only while a package is actually new”\>1aef01</a> |
+| [gadenbuie/new-brew](https://github.com/gadenbuie/new-brew) | 0 | 0 | 0 | 0 | [![](https://github.com/gadenbuie/new-brew/workflows/data/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/45873196597) [![](https://github.com/gadenbuie/new-brew/workflows/deploy/badge.svg)](https://github.com/gadenbuie/new-brew/actions/runs/41477551836) | \<a href=“<https://github.com/gadenbuie/new-brew/commit/1aef016006f012d509b5f875a302031aaa10b1d8>” title=“feat: badge”new” only while a package is actually new”\>1aef01</a> |
 
 ## Repos without Github Actions
 
@@ -116,6 +116,7 @@ GitHub Dashboard
 | [gadenbuie/daily-treasury](https://github.com/gadenbuie/daily-treasury) | 1 | 0 | 0 | 0 |
 | [gadenbuie/docker-shinycannon](https://github.com/gadenbuie/docker-shinycannon) | 1 | 0 | 0 | 0 |
 | [gadenbuie/ms-render-ui-delay](https://github.com/gadenbuie/ms-render-ui-delay) | 1 | 0 | 0 | 0 |
+| [gadenbuie/pi-clear](https://github.com/gadenbuie/pi-clear) | 1 | 0 | 0 | 0 |
 | [gadenbuie/podcasts](https://github.com/gadenbuie/podcasts) | 1 | 0 | 0 | 0 |
 | [gadenbuie/quarto-dark-light](https://github.com/gadenbuie/quarto-dark-light) | 1 | 0 | 0 | 0 |
 | [gadenbuie/quarto-reprex-listing-chomp](https://github.com/gadenbuie/quarto-reprex-listing-chomp) | 1 | 0 | 0 | 0 |
@@ -139,7 +140,6 @@ GitHub Dashboard
 | [gadenbuie/isg-2018](https://github.com/gadenbuie/isg-2018) | 0 | 0 | 0 | 0 |
 | [gadenbuie/iyo-apero-awesome](https://github.com/gadenbuie/iyo-apero-awesome) | 0 | 0 | 0 | 0 |
 | [gadenbuie/pi-cache-warm-decay](https://github.com/gadenbuie/pi-cache-warm-decay) | 0 | 0 | 0 | 0 |
-| [gadenbuie/pi-clear](https://github.com/gadenbuie/pi-clear) | 0 | 0 | 0 | 0 |
 | [gadenbuie/pi-hand-off](https://github.com/gadenbuie/pi-hand-off) | 0 | 0 | 0 | 0 |
 | [gadenbuie/pkgDocsWorkflowTest](https://github.com/gadenbuie/pkgDocsWorkflowTest) | 0 | 0 | 1 | 0 |
 | [gadenbuie/pkgdownArticleFormat](https://github.com/gadenbuie/pkgdownArticleFormat) | 0 | 0 | 0 | 0 |
@@ -148,10 +148,12 @@ GitHub Dashboard
 | [gadenbuie/renv-git-submodules](https://github.com/gadenbuie/renv-git-submodules) | 0 | 0 | 0 | 0 |
 | [gadenbuie/renv-wrong-remote-ref](https://github.com/gadenbuie/renv-wrong-remote-ref) | 0 | 0 | 0 | 0 |
 | [gadenbuie/reprex-quarto-htmltools-deps](https://github.com/gadenbuie/reprex-quarto-htmltools-deps) | 0 | 0 | 0 | 0 |
+| [gadenbuie/seams](https://github.com/gadenbuie/seams) | 0 | 0 | 0 | 0 |
 | [gadenbuie/shiny-data-sci-adventure](https://github.com/gadenbuie/shiny-data-sci-adventure) | 0 | 0 | 0 | 0 |
 | [gadenbuie/skills](https://github.com/gadenbuie/skills) | 0 | 0 | 0 | 0 |
 | [gadenbuie/sqrrl](https://github.com/gadenbuie/sqrrl) | 0 | 0 | 1 | 2 |
 | [gadenbuie/stylize.css](https://github.com/gadenbuie/stylize.css) | 0 | 0 | 0 | 7 |
 | [gadenbuie/tidy-tuesday](https://github.com/gadenbuie/tidy-tuesday) | 0 | 0 | 0 | 0 |
+| [gadenbuie/word-searcher](https://github.com/gadenbuie/word-searcher) | 0 | 0 | 0 | 0 |
 | [gadenbuie/xaringan-accessible-plot](https://github.com/gadenbuie/xaringan-accessible-plot) | 0 | 0 | 0 | 0 |
 | [gadenbuie/yap-with-claude](https://github.com/gadenbuie/yap-with-claude) | 0 | 0 | 0 | 0 |
